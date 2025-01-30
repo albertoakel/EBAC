@@ -1,0 +1,1011 @@
+nome,cpf,idade,data,endereco,bairro,estado
+Sr. Vitor Gabriel Silva,640.***.***-01,92.0,1933-12-06,"trevo emanuel silva, 482",vila tirol,AP
+Calebe Santos,651.***.***-46,41.0,1984-03-06,"recanto moraes, 7",ernesto nascimento,PB
+Maria Julia Castro,164.***.***-43,78.0,1947-04-12,"residencial de pereira, 20",jatobá,AL
+Arthur Da Rosa,085.***.***-30,55.0,1970-04-16,"parque almeida, 66",vila suzana segunda seção,SE
+Juan Pereira,520.***.***-21,70.0,1955-10-25,"rodovia de pereira, 51",estrela,BA
+Dra. Ana Laura Ribeiro,210.***.***-20,71.0,1954-05-09,esplanada lavínia ramos,são francisco,SP
+Maria Clara Araújo,960.***.***-80,42.0,1983-03-14,"praça cavalcanti, 65",conjunto celso machado,RO
+Vitória Oliveira,302.***.***-83,32.0,1993-03-10,"esplanada monteiro, 88",conjunto paulo vi,GO
+Benjamin Oliveira,451.***.***-84,51.0,1974-05-16,"ladeira monteiro, 57",vila primeiro de maio,CE
+Pietro Barros,843.***.***-50,53.0,1972-08-19,"recanto luiz miguel jesus, 35",vila aeroporto jaraguá,PB
+Samuel Cavalcanti,520.***.***-01,91.0,1934-11-26,"ladeira de porto, 38",nova america,TO
+Ian Da Costa,384.***.***-78,24.0,2001-01-21,"via de jesus, 57",vila da amizade,PB
+Dr. Emanuel Costa,736.***.***-19,56.0,1969-03-09,"lago castro, 94",mariano de abreu,RJ
+Larissa Da Cruz,128.***.***-60,85.0,1940-11-22,"setor isadora da rosa, 583",chácara leonina,RR
+Diogo Carvalho,078.***.***-97,84.0,1941-03-10,"viaduto pedro lucas cavalcanti, 49",tiradentes,RS
+Sr. Anthony Almeida,305.***.***-60,38.0,1987-02-03,"rua vitor hugo pinto, 21",anchieta,RJ
+Clara Martins,397.***.***-86,78.0,1947-03-14,"rodovia aragão, 245",conjunto lagoa,MG
+Dr. Luiz Felipe Cardoso,374.***.***-20,71.0,1954-07-20,"alameda de lima, 65",boa esperança,PE
+Sr. Calebe Lopes,135.***.***-77,64.0,1961-10-19,"trecho lucas sales, 24",dom bosco,RO
+Miguel Monteiro,097.***.***-41,56.0,1969-06-27,"passarela igor novaes, 89",pompéia,SE
+Srta. Catarina Da Mata,468.***.***-57,83.0,1942-07-05,"sítio luna carvalho, 98",novo santa cecilia,AM
+João Gabriel Araújo,625.***.***-25,75.0,1950-09-13,"esplanada de castro, 4",vila nova cachoeirinha 1ª seção,MT
+Sr. Nicolas Azevedo,036.***.***-33,36.0,1989-01-18,"estrada de aragão, 1",vila barragem santa lúcia,AC
+Kamilly Caldeira,508.***.***-47,46.0,1979-07-04,via gabriela nascimento,madre gertrudes,AP
+Renan Araújo,186.***.***-57,80.0,1945-03-06,"travessa vinicius da mata, 52",alta tensão 1ª seção,CE
+Vicente Nascimento,054.***.***-32,64.0,1961-02-22,largo vieira,milionario,DF
+Isaac Rocha,873.***.***-69,58.0,1966-11-30,"área lucas gabriel silveira, 51",anchieta,PE
+Julia Das Neves,819.***.***-05,61.0,1963-08-28,"jardim isabelly gomes, 23",nossa senhora de fátima,ES
+Breno Rodrigues,196.***.***-34,97.0,1928-10-24,distrito de silveira,dona clara,AM
+Isabel Nogueira,968.***.***-65,65.0,1960-10-21,travessa ana júlia da rocha,miramar,TO
+Anthony Araújo,208.***.***-26,40.0,1985-09-07,"avenida milena pires, 360",vila rica,AP
+Sra. Marina Da Cunha,067.***.***-95,57.0,1968-09-09,"rodovia marcelo souza, 25",estrela,RN
+Helena Cardoso,853.***.***-39,52.0,1972-05-29,"pátio alexandre teixeira, 243",indaiá,RR
+Luigi Nunes,593.***.***-24,52.0,1973-06-17,"via clara da rosa, 928",castelo,RR
+Srta. Raquel Da Costa,278.***.***-09,60.0,1965-05-07,"estação ribeiro, 46",venda nova,PB
+Sra. Ana Vitória Oliveira,120.***.***-17,62.0,1963-11-01,"sítio de cavalcanti, 97",juliana,PA
+Luiza Campos,974.***.***-03,53.0,1972-01-13,"condomínio de rodrigues, 52",conjunto providencia,SC
+Lucca Da Paz,526.***.***-95,73.0,1952-04-14,"rodovia vieira, 63",conjunto taquaril,RN
+Nathan Da Rosa,907.***.***-25,33.0,1992-11-05,"recanto de da conceição, 1",paraíso,AM
+Lívia Silveira,804.***.***-85,63.0,1962-11-22,"setor de azevedo, 375",castanheira,AL
+Isabel Cavalcanti,492.***.***-04,56.0,1969-05-10,"ladeira pietra cunha, 13",vista alegre,PA
+Rafael Nunes,285.***.***-76,39.0,1985-08-28,"vereda davi lucca barbosa, 35",estrela do oriente,GO
+Elisa Fogaça,572.***.***-92,97.0,1928-12-13,"rodovia ana júlia araújo, 68",vila real 2ª seção,PE
+Agatha Ramos,948.***.***-85,25.0,2000-12-03,"distrito de barros, 41",suzana,RJ
+Kamilly Rocha,946.***.***-48,61.0,1964-09-19,"feira campos, 17",cruzeiro,DF
+Antônio Das Neves,435.***.***-82,41.0,1983-07-31,"avenida vitor hugo cardoso, 34",vila são rafael,SC
+Luiz Gustavo Alves,198.***.***-10,47.0,1978-07-08,"rodovia de souza, 63",vila nova dos milionarios,MS
+Emanuella Fernandes,097.***.***-96,89.0,1936-07-21,"residencial ian da paz, 6",padre eustáquio,PR
+Srta. Ana Beatriz Farias,431.***.***-39,64.0,1961-08-07,"ladeira de da paz, 98",jardim dos comerciarios,PE
+Yago Monteiro,865.***.***-00,46.0,1979-06-22,"ladeira pereira, 21",buraco quente,BA
+Yasmin Gonçalves,017.***.***-14,78.0,1947-09-26,"área barros, 46",salgado filho,BA
+Bruna Nascimento,132.***.***-52,36.0,1989-04-13,"vereda luiz felipe costa, 70",minaslandia,DF
+Davi Luiz Nogueira,873.***.***-50,99.0,1926-12-20,"vila sales, 97",paquetá,ES
+Ian Monteiro,324.***.***-91,26.0,1999-12-11,"favela alana ribeiro, 318",casa branca,MS
+Srta. Helena Silva,905.***.***-01,37.0,1988-11-14,"parque freitas, 82",ouro minas,AC
+Bárbara Novaes,038.***.***-15,90.0,1935-05-24,"trecho bryan da cunha, 1",betânia,PA
+Sr. Pedro Lucas Costela,534.***.***-00,32.0,1993-08-24,esplanada moreira,pindura saia,ES
+Rafael Jesus,673.***.***-80,24.0,2001-08-16,"campo de barros, 16",silveira,DF
+Sra. Alícia Caldeira,051.***.***-70,91.0,1934-12-04,"distrito esther campos, 264",apolonia,PA
+Danilo Martins,760.***.***-39,99.0,1925-03-30,"largo pires, 78",bacurau,AP
+Sr. Gabriel Da Rosa,530.***.***-53,51.0,1974-09-10,campo isabelly freitas,novo santa cecilia,CE
+Augusto Teixeira,412.***.***-16,71.0,1954-11-15,favela maria novaes,savassi,RR
+Ana Julia Da Rosa,630.***.***-65,44.0,1981-10-10,"trevo moraes, 5",cônego pinheiro 1ª seção,SP
+Lucca Barbosa,836.***.***-77,99.0,1926-06-12,"rua mendes, 337",penha,SP
+Amanda Da Costa,268.***.***-29,25.0,2000-11-20,"lagoa cardoso, 1",ambrosina,SP
+Dr. Francisco Cardoso,430.***.***-50,97.0,1927-10-30,"lago maitê campos, 31",braúnas,TO
+Lorena Farias,268.***.***-82,94.0,1931-04-17,"residencial barbosa, 44",zilah sposito,AP
+Anthony Da Costa,935.***.***-97,37.0,1988-02-13,"recanto de rocha, 68",conjunto califórnia i,SE
+Cauã Rodrigues,107.***.***-87,99.0,1926-02-11,"vale gustavo henrique alves, 50",vila madre gertrudes 4ª seção,AL
+Anthony Barbosa,631.***.***-00,88.0,1937-08-19,vila farias,vila satélite,RN
+Ana Julia Almeida,179.***.***-09,24.0,2001-07-20,"fazenda de porto, 3",senhor dos passos,MA
+Milena Barros,314.***.***-51,75.0,1950-08-04,"setor miguel pires, 3",ermelinda,PA
+Murilo Gomes,759.***.***-93,,1924-05-22,morro de castro,vila pilar,SP
+Daniel Barbosa,812.***.***-98,30.0,1995-10-05,"praça ferreira, 764",vila sumaré,CE
+Dr. Samuel Cardoso,039.***.***-96,48.0,1977-03-20,"vereda cauê novaes, 14",conjunto califórnia ii,BA
+Ana Laura Sales,863.***.***-22,80.0,1945-11-24,"fazenda de pinto, 42",são jorge 1ª seção,PR
+Mariana Cunha,492.***.***-25,83.0,1942-07-24,"loteamento luiz felipe teixeira, 87",novo ouro preto,AM
+Sr. João Guilherme Cavalcanti,347.***.***-70,39.0,1985-09-30,"quadra emanuella da conceição, 29",cruzeiro,MS
+Kamilly Rocha,365.***.***-10,64.0,1960-10-29,"rodovia danilo costa, 17",alta tensão 2ª seção,MS
+Gabriel Nunes,940.***.***-04,57.0,1968-11-21,vila stephany lima,vista do sol,PA
+Rafael Correia,579.***.***-05,73.0,1952-01-03,"morro de cardoso, 47",marçola,SE
+Ana Lívia Barbosa,925.***.***-60,63.0,1961-05-30,lagoa sarah azevedo,monsenhor messias,CE
+Maitê Teixeira,694.***.***-39,92.0,1933-05-11,"loteamento oliveira, 29",camponesa 1ª seção,PE
+Carlos Eduardo Santos,937.***.***-37,69.0,1955-03-29,"largo nascimento, 97",delta,PR
+Enzo Gabriel Araújo,349.***.***-96,72.0,1953-09-15,Endereco inválido,Desconhecido,Desconhecido
+Breno Moreira,184.***.***-49,41.0,1984-03-23,"aeroporto de das neves, 7",vila sumaré,AL
+Julia Lopes,106.***.***-31,48.0,1977-02-13,"conjunto de cardoso, 5",vila minaslandia,PR
+André Lima,645.***.***-70,81.0,1944-11-06,viaduto cardoso,belmonte,RO
+João Gabriel Barbosa,190.***.***-67,56.0,1969-02-23,fazenda de barros,boa esperança,DF
+,438.***.***-56,23.0,2002-04-13,colônia maria vitória moura,aarão reis,GO
+João Felipe Oliveira,830.***.***-00,44.0,1981-10-18,avenida de cardoso,madre gertrudes,RN
+Samuel Vieira,218.***.***-53,41.0,1984-07-02,"lagoa leandro caldeira, 1",chácara leonina,MT
+Lucca Ferreira,237.***.***-19,86.0,1938-03-30,"esplanada de das neves, 5",andiroba,MG
+Samuel Castro,582.***.***-70,71.0,1954-02-04,"praia eloah da mata, 95",cachoeirinha,AL
+Maria Vitória Teixeira,426.***.***-25,63.0,1962-12-16,"praia carvalho, 7",vila nova,PA
+Maria Fernanda Farias,907.***.***-20,24.0,2001-07-18,"área de correia, 44",chácara leonina,AM
+Fernanda Sales,879.***.***-32,72.0,1953-02-05,"vale lorenzo almeida, 80",vila mantiqueira,PE
+Srta. Eduarda Nogueira,602.***.***-07,67.0,1958-01-13,chácara isadora das neves,vila da amizade,PB
+Maitê Ferreira,016.***.***-99,67.0,1958-04-24,estação cunha,calafate,PR
+Catarina Pires,079.***.***-11,47.0,1977-01-28,"loteamento de lima, 1",vila primeiro de maio,MT
+Manuela Da Rocha,839.***.***-57,76.0,1949-05-21,"alameda de gonçalves, 79",saudade,SP
+Nina Moura,604.***.***-25,48.0,1977-07-23,"quadra bernardo ferreira, 85",marieta 1ª seção,PA
+Pedro Henrique Vieira,526.***.***-03,44.0,1981-08-14,"rodovia alícia dias, 58",vila boa vista,RR
+Ana Clara Cunha,862.***.***-02,38.0,1987-04-09,"rua de cavalcanti, 8",vila da paz,AC
+Pietra Santos,508.***.***-67,96.0,1929-06-14,"esplanada de silva, 1",vila puc,GO
+Sr. Theo Da Conceição,284.***.***-14,27.0,1998-10-04,"viaduto de freitas, 12",centro,RR
+Vinicius Da Costa,023.***.***-16,67.0,1958-06-03,"recanto valentina pinto, 52",satelite,PA
+Pedro Henrique Cunha,519.***.***-93,60.0,1965-06-03,"passarela de santos, 501",vila atila de paiva,ES
+Davi Nogueira,564.***.***-11,76.0,1949-12-14,"morro lucca da rocha, 40",bandeirantes,CE
+Luiz Fernando Da Paz,409.***.***-11,81.0,1943-04-30,"praça de da paz, 5",conjunto jardim filadélfia,TO
+Srta. Letícia Rocha,137.***.***-32,78.0,1947-12-01,"fazenda joão felipe souza, 78",nova pampulha,SC
+João Nogueira,367.***.***-10,92.0,1933-02-22,"rodovia cauê monteiro, 50",heliopolis,CE
+João Gabriel Cardoso,962.***.***-34,55.0,1970-07-13,"área de ferreira, 20",vila independencia 2ª seção,AC
+Ryan Ribeiro,409.***.***-48,97.0,1928-12-18,"núcleo almeida, 41",vila são paulo,PB
+Olivia Das Neves,314.***.***-55,24.0,2001-01-27,"lagoa de vieira, 25",paquetá,AL
+Sr. Luiz Miguel Pinto,942.***.***-76,57.0,1968-04-17,"conjunto da luz, 6",chácara leonina,SC
+Elisa Teixeira,217.***.***-73,81.0,1944-05-07,"ladeira de rodrigues, 58",vila são francisco,ES
+Pedro Miguel Das Neves,523.***.***-03,61.0,1964-12-15,"jardim de nascimento, 7",engenho nogueira,RS
+Maria Luiza Azevedo,064.***.***-47,77.0,1947-04-29,"quadra de da cruz, 42",vila jardim montanhes,PE
+Lorenzo Silva,642.***.***-13,49.0,1976-05-09,"conjunto de da cruz, 1",mariano de abreu,RJ
+Bianca Souza,673.***.***-40,99.0,1926-05-25,"colônia francisco campos, 7",vila betânia,SC
+Vitor Azevedo,643.***.***-20,72.0,1953-11-01,largo de barbosa,vila nova gameleira 1ª seção,AL
+Enzo Gabriel Lima,187.***.***-94,57.0,1967-01-28,aeroporto rezende,santo antônio,SP
+Eduarda Cunha,093.***.***-32,61.0,1964-09-17,"campo de pinto, 72",santana do cafezal,PI
+Sra. Nicole Da Rocha,367.***.***-03,81.0,1944-10-10,"setor de ferreira, 742",vila antena,RR
+Ana Clara Santos,430.***.***-04,37.0,1988-04-15,"ladeira de sales, 15",vila são francisco,DF
+Enzo Gabriel Castro,694.***.***-65,98.0,1927-07-11,ladeira de teixeira,são geraldo,PB
+Nicole Ferreira,701.***.***-22,29.0,1996-02-11,"aeroporto duarte, 9",funcionários,ES
+Erick Sales,498.***.***-48,39.0,1986-09-13,"trecho de martins, 51",vila santa monica 1ª seção,PR
+Anthony Barros,742.***.***-07,44.0,1981-10-24,"vila alexia viana, 87",jardim alvorada,PA
+Renan Da Rocha,986.***.***-10,54.0,1971-03-08,"morro melo, 463",grajaú,RO
+Marcela Santos,843.***.***-42,26.0,1999-12-23,"residencial de aragão, 65",planalto,RN
+Carolina Melo,970.***.***-05,41.0,1984-06-06,"vereda kamilly da rosa, 80",são geraldo,SC
+Lavínia Rezende,946.***.***-70,46.0,1979-08-19,"morro davi luiz correia, 38",vila são paulo,CE
+Srta. Julia Porto,502.***.***-61,77.0,1948-07-21,"distrito ana laura aragão, 90",jardim do vale,MA
+Alana Cardoso,572.***.***-41,34.0,1991-04-14,"favela gonçalves, 32",cônego pinheiro 1ª seção,PR
+Davi Lucas Cardoso,805.***.***-83,30.0,1995-11-15,"viela da paz, 92",serra,MT
+Raul Santos,315.***.***-03,21.0,2004-09-11,"loteamento emanuelly sales, 135",leticia,SP
+Igor Melo,261.***.***-17,47.0,1978-02-03,"favela oliveira, 67",vila copacabana,PR
+Joaquim Da Costa,274.***.***-56,78.0,1947-08-10,"condomínio campos, 38",dom bosco,SP
+João Felipe Farias,936.***.***-01,29.0,1996-01-11,"estação milena silva, 549",bairro das indústrias ii,PE
+Manuela Almeida,647.***.***-30,76.0,1949-01-27,"feira alice ramos, 3",são joão batista,PE
+Ryan Rocha,248.***.***-51,66.0,1959-10-25,"passarela nogueira, 8",castelo,PI
+Luna Da Conceição,935.***.***-91,97.0,1928-02-19,"campo campos, 82",são pedro,MA
+Manuela Silva,591.***.***-73,20.0,2005-09-01,"jardim beatriz farias, 11",acaba mundo,AL
+Maria Vitória Das Neves,761.***.***-34,97.0,1928-01-05,lagoa cavalcanti,savassi,PE
+Marcela Cunha,904.***.***-32,47.0,1978-06-17,"rua sales, 4",universo,SE
+Bryan Souza,593.***.***-00,67.0,1958-03-05,"viaduto thales costela, 23",mala e cuia,BA
+Kevin Cavalcanti,658.***.***-01,48.0,1976-01-29,"distrito maria moraes, 9",vila paris,PR
+Sr. João Gabriel Martins,794.***.***-85,76.0,1949-06-14,"esplanada de moura, 95",boa viagem,MA
+Gabriela Da Mata,746.***.***-90,69.0,1956-06-16,"viaduto de peixoto, 16",inconfidência,CE
+Srta. Júlia Fernandes,650.***.***-98,50.0,1975-11-19,"condomínio leandro da mota, 20",jatobá,TO
+Bárbara Silveira,386.***.***-04,42.0,1983-12-25,trevo carvalho,vila paraíso,RN
+Vinicius Jesus,549.***.***-91,91.0,1934-12-08,morro de duarte,pindorama,RS
+Srta. Alice Pires,536.***.***-56,43.0,1982-07-08,"praia ana carolina correia, 11",santa sofia,RO
+Lara Ferreira,698.***.***-75,74.0,1951-10-23,"rodovia de fogaça, 96",lajedo,RS
+Felipe Freitas,863.***.***-01,100.0,1925-04-27,"rua duarte, 85",vila real 1ª seção,AC
+Maysa Pires,852.***.***-11,70.0,1955-10-08,"sítio mariana almeida, 86",carlos prates,PR
+Letícia Da Mata,308.***.***-31,49.0,1976-08-04,"aeroporto da paz, 54",vila são dimas,PR
+Luigi Cunha,623.***.***-34,93.0,1932-01-24,"praia nascimento, 541",senhor dos passos,PA
+Lucas Gabriel Gomes,120.***.***-40,21.0,2004-02-23,"distrito de cardoso, 24",flamengo,PI
+Emanuelly Costela,152.***.***-97,48.0,1977-10-21,"vale de vieira, 67",suzana,PA
+Calebe Nascimento,631.***.***-87,86.0,1939-02-25,"trecho brenda ferreira, 25",lagoinha,RJ
+Juan Pires,139.***.***-46,77.0,1948-03-12,"avenida de santos, 89",são pedro,MS
+Lívia Costa,582.***.***-50,83.0,1942-10-18,"loteamento oliveira, 12",vila da ária,AM
+Davi Lucas Nunes,679.***.***-03,22.0,2003-01-07,"vila viana, 68",nova cintra,AM
+Dr. Lucca Oliveira,806.***.***-75,91.0,1934-06-24,"passarela jesus, 34",vila jardim montanhes,PB
+Eduardo Monteiro,037.***.***-65,63.0,1962-11-09,viaduto caldeira,vila nova paraíso,PE
+Diogo Moraes,571.***.***-52,48.0,1977-01-12,"sítio aragão, 73",aguas claras,RJ
+Felipe Freitas,657.***.***-57,20.0,2005-12-08,área gabriela nascimento,ermelinda,RR
+Ryan Peixoto,830.***.***-98,29.0,1996-08-25,"estrada agatha correia, 79",xodo-marize,TO
+Otávio Pires,526.***.***-01,27.0,1998-07-16,"pátio ribeiro, 33",vila oeste,MS
+Thiago Moreira,023.***.***-03,62.0,1963-01-11,"residencial rebeca da paz, 43",santa inês,SC
+Pietro Lopes,428.***.***-19,63.0,1962-04-24,"aeroporto moura, 81",salgado filho,SP
+Gabriela Gomes,317.***.***-50,44.0,1981-04-13,"parque mariane araújo, 1",flamengo,RO
+João Miguel Viana,183.***.***-77,25.0,2000-05-27,"estrada de carvalho, 309",funcionários,DF
+Sr. Luiz Henrique Nunes,031.***.***-77,77.0,1948-03-17,"via da cunha, 11",sport club,TO
+Srta. Ana Sophia Viana,937.***.***-68,30.0,1995-02-18,"rodovia agatha cavalcanti, 27",santo antônio,AP
+Sr. Marcelo Aragão,418.***.***-40,87.0,1938-04-06,praça raul pires,maria virgínia,TO
+Enzo Gabriel Da Mota,018.***.***-24,32.0,1993-09-22,vila farias,braúnas,SE
+Benjamin Da Rosa,195.***.***-86,100.0,1924-07-29,"núcleo maria luiza novaes, 100",xangri-lá,RJ
+Ana Rezende,316.***.***-64,70.0,1955-10-15,"esplanada de da cruz, 73",eymard,PE
+Dr. Thomas Dias,267.***.***-03,46.0,1979-01-13,"jardim ana carolina da mota, 6",vila petropolis,AP
+Breno Ribeiro,803.***.***-78,40.0,1985-10-05,"vereda de costela, 27",vila de sá,MG
+Lucas Gabriel Novaes,856.***.***-11,43.0,1982-09-04,"trevo manuela jesus, 927",ipe,SC
+Vicente Rodrigues,328.***.***-79,87.0,1938-12-18,"chácara cardoso, 14",vila aeroporto,RN
+João Lucas Vieira,985.***.***-05,40.0,1985-10-18,"praça de oliveira, 35",conjunto santa maria,RN
+Dr. Luiz Henrique Freitas,951.***.***-88,49.0,1976-11-07,"residencial luigi duarte, 6",manacas,SC
+Dra. Luiza Da Conceição,189.***.***-33,97.0,1927-04-29,"núcleo de ferreira, 77",lagoa,PR
+Benjamin Cavalcanti,317.***.***-41,27.0,1997-11-30,"área de fernandes, 37",vila são dimas,MT
+Murilo Mendes,653.***.***-17,79.0,1946-04-20,"loteamento porto, 4",vila santo antônio,SE
+Dr. Renan Rezende,609.***.***-38,67.0,1958-12-16,"área de ribeiro, 688",vila vista alegre,PR
+Maysa Porto,081.***.***-84,70.0,1955-09-11,"pátio carlos eduardo azevedo, 76",havaí,RO
+Pedro Lucas Pereira,873.***.***-35,85.0,1940-01-09,"quadra almeida, 83",paquetá,CE
+Isadora Nogueira,480.***.***-05,51.0,1974-01-09,"feira almeida, 72",vila são dimas,RJ
+Gabriel Ramos,591.***.***-05,78.0,1947-08-23,"viaduto de freitas, 46",novo glória,TO
+Yago Ferreira,531.***.***-00,88.0,1936-05-30,"ladeira agatha almeida, 27",vila copacabana,RS
+Samuel Da Mata,521.***.***-11,22.0,2002-11-30,"residencial cavalcanti, 50",grota,MG
+Sophie Pinto,317.***.***-50,96.0,1929-07-19,"colônia bryan costela, 404",suzana,SE
+Dr. Rafael Souza,436.***.***-07,46.0,1979-02-03,"rodovia de moreira, 6",santo agostinho,AM
+Vitor Hugo Lima,450.***.***-80,86.0,1938-07-30,"esplanada oliveira, 654",serra,PR
+Dr. Bernardo Da Cruz,230.***.***-50,22.0,2003-03-03,"rodovia thomas santos, 48",vila suzana segunda seção,AM
+Caio Da Cunha,926.***.***-00,95.0,1930-09-14,"vila milena porto, 70",marieta 1ª seção,RO
+Stephany Duarte,642.***.***-46,98.0,1927-03-22,"lagoa rebeca novaes, 77",são jorge 1ª seção,SE
+Kevin Da Conceição,074.***.***-94,65.0,1960-04-18,"núcleo sales, 59",novo das industrias,PE
+Srta. Giovanna Aragão,142.***.***-17,78.0,1947-07-08,"feira sales, 82",coração eucarístico,AL
+Pedro Henrique Pinto,653.***.***-37,27.0,1998-09-20,"colônia de azevedo, 22",centro,CE
+Joaquim Da Cruz,532.***.***-41,32.0,1993-12-14,alameda fernandes,são salvador,AM
+Leandro Souza,560.***.***-86,31.0,1994-10-09,"estrada de castro, 671",trevo,PI
+Beatriz Aragão,805.***.***-04,53.0,1971-07-29,"trecho calebe ferreira, 902",funcionários,AL
+Carlos Eduardo Teixeira,546.***.***-98,50.0,1975-07-26,"chácara joão gabriel correia, 983",vila batik,ES
+Joana Da Rocha,915.***.***-33,47.0,1978-03-05,"lago maria cecília dias, 93",marçola,MG
+Lucas Gabriel Da Luz,203.***.***-70,20.0,2005-12-13,via de santos,delta,DF
+Davi Lucas Da Costa,502.***.***-52,19.0,2005-11-29,"viela mariana ferreira, 867",cidade jardim taquaril,AL
+Henrique Da Rocha,713.***.***-44,35.0,1990-09-08,"via caio carvalho, 11",inconfidência,AM
+Lorena Fernandes,574.***.***-93,94.0,1931-05-23,residencial joão guilherme campos,vila paraíso,PR
+Nathan Nogueira,837.***.***-56,45.0,1980-03-22,"vereda jesus, 420",monsenhor messias,DF
+Srta. Maysa Rezende,726.***.***-55,83.0,1942-09-08,"setor de da mata, 49",zilah sposito,PI
+Erick Santos,680.***.***-67,45.0,1980-06-22,"rua lavínia da rosa, 9",pedreira padro lopes,TO
+Agatha Sales,983.***.***-30,93.0,1932-09-01,"setor de santos, 49",itatiaia,SP
+Ana Beatriz Moreira,637.***.***-66,65.0,1960-11-19,"parque thomas nogueira, 74",outro,AM
+Antônio Da Rocha,943.***.***-23,26.0,1998-02-28,"viela de mendes, 45",jardim leblon,AM
+Dra. Vitória Viana,813.***.***-24,84.0,1941-03-23,"loteamento barbosa, 28",vila madre gertrudes 2ª seção,RO
+Enzo Monteiro,534.***.***-04,45.0,1980-06-25,"trevo barros, 87",chácara leonina,PR
+Bernardo Santos,045.***.***-29,20.0,2005-09-09,"lagoa isabella viana, 20",zilah sposito,PR
+Guilherme Cunha,237.***.***-02,25.0,1999-03-31,"fazenda rezende, 619",vila da paz,PI
+Raul Rodrigues,193.***.***-33,49.0,1976-06-16,praça souza,santa inês,SC
+Pietra Lima,591.***.***-39,31.0,1993-03-28,"praça almeida, 81",são bento,MT
+Camila Barbosa,560.***.***-59,39.0,1986-07-11,"vila martins, 7",casa branca,PA
+Kaique Almeida,078.***.***-02,70.0,1955-09-27,"passarela de pires, 6",olhos d'água,MS
+Antônio Porto,015.***.***-60,89.0,1936-06-19,"aeroporto lavínia porto, 29",barreiro,RR
+Alana Rezende,216.***.***-60,72.0,1953-05-23,"parque de aragão, 76",cachoeirinha,ES
+Vitor Almeida,134.***.***-00,44.0,1981-08-06,"vale ramos, 60",vila santo antônio,RR
+Isabelly Da Mota,709.***.***-48,77.0,1948-05-19,loteamento nascimento,engenho nogueira,PA
+Isis Oliveira,893.***.***-87,78.0,1946-09-28,"esplanada joão guilherme barbosa, 39",barão homem de melo 2ª seção,AL
+Carolina Gomes,845.***.***-28,32.0,1992-05-29,parque nascimento,vila minaslandia,AL
+Srta. Natália Rodrigues,548.***.***-88,77.0,1948-03-04,"largo alves, 654",vera cruz,MS
+Fernando Ramos,032.***.***-38,52.0,1973-01-05,"trevo de azevedo, 36",vila barragem santa lúcia,PR
+Gabriela Da Cruz,109.***.***-77,28.0,1997-06-11,"área de barros, 4",vila mangueiras,CE
+Noah Cavalcanti,273.***.***-60,84.0,1941-02-17,"setor arthur barros, 58",vera cruz,MT
+Clara Moreira,079.***.***-05,50.0,1974-03-30,"largo gomes, 85",vila da paz,PB
+Laura Araújo,134.***.***-25,55.0,1970-03-16,"praia agatha cardoso, 1",lagoinha,PI
+Dr. Luiz Otávio Sales,472.***.***-60,79.0,1946-07-10,"via novaes, 81",vila são paulo,MT
+Emilly Da Mata,839.***.***-83,90.0,1935-10-11,"pátio castro, 51",vila trinta e um de março,ES
+Kevin Rodrigues,086.***.***-50,55.0,1970-09-05,"campo lima, 42",conjunto califórnia ii,PE
+Davi Pereira,209.***.***-89,62.0,1963-09-23,"esplanada rafael viana, 38",apolonia,MG
+Thomas Silva,891.***.***-89,21.0,2004-03-06,"travessa beatriz fogaça, 47",fernão dias,RN
+Ana Lívia Da Cruz,135.***.***-84,87.0,1938-09-06,"praça correia, 3",canadá,RJ
+Sr. Vicente Silveira,318.***.***-57,61.0,1964-11-06,"viela maria cecília viana, 44",vila copacabana,PA
+Sophie Caldeira,403.***.***-17,36.0,1988-01-28,"vila nina moura, 41",vila santo antônio,PA
+Gabriel Costa,930.***.***-34,61.0,1964-04-07,"núcleo carvalho, 87",piraja,PI
+Ana Carolina Costa,680.***.***-80,52.0,1973-12-15,"rodovia de da luz, 710",saudade,RO
+Maitê Fogaça,543.***.***-57,27.0,1997-10-29,residencial beatriz lopes,ermelinda,RN
+Bruna Caldeira,259.***.***-03,69.0,1956-05-14,"aeroporto de ferreira, 9",senhor dos passos,AC
+Caroline Moura,593.***.***-25,32.0,1993-04-27,"chácara da luz, 27",bonfim,SP
+Sra. Ana Júlia Pires,561.***.***-06,48.0,1977-06-19,núcleo cardoso,barreiro,TO
+Dra. Larissa Fernandes,503.***.***-51,44.0,1981-02-21,"residencial de ribeiro, 11",vila santa rosa,GO
+Rodrigo Da Luz,416.***.***-61,33.0,1992-02-03,"aeroporto de campos, 63",são gabriel,PB
+Carlos Eduardo Barros,730.***.***-70,33.0,1992-05-25,loteamento de rodrigues,santa cecilia,GO
+Ana Laura Silva,047.***.***-66,53.0,1972-06-20,"vale pinto, 70",esplanada,PI
+Maitê Nogueira,517.***.***-06,67.0,1958-10-01,"vale costela, 5",parque são josé,SP
+Ana Laura Da Luz,681.***.***-90,82.0,1943-09-26,"jardim de barros, 111",caiçara - adelaide,TO
+Sra. Brenda Viana,154.***.***-01,77.0,1948-10-12,"pátio da rocha, 793",vila rica,ES
+Augusto Teixeira,360.***.***-47,95.0,1930-05-17,"setor samuel porto, 99",bairro das indústrias ii,AM
+Dr. Francisco Lima,318.***.***-70,66.0,1959-02-01,"via diego lima, 60",distrito industrial do jatoba,AP
+Isaac Da Luz,293.***.***-83,76.0,1949-09-12,"área joão lucas lima, 997",são benedito,RO
+Calebe Jesus,068.***.***-00,47.0,1978-02-15,"praia vitor gabriel cunha, 89",concórdia,SC
+Kevin Melo,786.***.***-22,59.0,1966-11-05,viaduto juliana nogueira,trevo,BA
+Pedro Miguel Peixoto,079.***.***-68,50.0,1975-03-26,"passarela moura, 85",vila rica,DF
+Gabrielly Almeida,498.***.***-00,31.0,1994-06-21,"condomínio de sales, 62",são bernardo,PB
+Murilo Correia,197.***.***-93,34.0,1990-11-29,"estação de ribeiro, 893",zilah sposito,SP
+Matheus Dias,156.***.***-53,83.0,1942-12-02,Endereco inválido,Desconhecido,Desconhecido
+Stella Cardoso,798.***.***-39,57.0,1968-08-14,"estrada ana ramos, 10",novo tupi,GO
+Marcela Barbosa,509.***.***-66,62.0,1963-03-04,"estação de azevedo, 639",vila antena montanhês,MS
+Ana Carolina Pires,612.***.***-06,89.0,1936-04-16,"viaduto eduarda pinto, 76",pousada santo antonio,RS
+Helena Aragão,791.***.***-23,85.0,1940-02-19,morro lavínia almeida,esperança,AP
+João Gabriel Oliveira,496.***.***-09,98.0,1927-11-21,"travessa oliveira, 28",minas brasil,MA
+Maria Cecília Vieira,491.***.***-64,89.0,1936-05-14,"conjunto de souza, 842",petropolis,TO
+Lorena Rodrigues,461.***.***-90,47.0,1978-12-27,"quadra de fogaça, 57",vila nova gameleira 3ª seção,PE
+Nicolas Cunha,873.***.***-53,71.0,1954-09-01,"estrada de carvalho, 52",conjunto jardim filadélfia,GO
+Vitor Hugo Ramos,485.***.***-06,31.0,1994-08-07,"travessa melo, 5",biquinhas,ES
+Luigi Aragão,704.***.***-74,40.0,1984-02-28,"largo de rodrigues, 19",campo alegre,DF
+Maria Julia Barros,123.***.***-77,51.0,1974-06-14,área nogueira,solimoes,PE
+Luiz Gustavo Silveira,178.***.***-03,94.0,1931-02-16,estação mendes,colégio batista,PR
+Ana Júlia Fernandes,795.***.***-76,98.0,1927-05-16,"passarela de carvalho, 69",coração de jesus,SE
+Luiz Miguel Novaes,754.***.***-28,27.0,1998-01-24,"morro de nascimento, 17",coqueiros,MG
+Gabriel Santos,142.***.***-30,22.0,2003-03-24,"largo viana, 3",vila fumec,PE
+Srta. Sophie Vieira,624.***.***-17,73.0,1952-04-06,"loteamento de viana, 65",conjunto novo dom bosco,PI
+Júlia Cardoso,482.***.***-02,90.0,1935-07-24,"feira gustavo nascimento, 911",vila calafate,RS
+Dra. Gabriela Jesus,846.***.***-40,50.0,1975-03-04,vereda cunha,jardim do vale,ES
+Dr. João Gabriel Correia,038.***.***-08,50.0,1975-05-27,"aeroporto augusto das neves, 847",maria helena,TO
+Luiz Gustavo Jesus,625.***.***-02,100.0,1925-04-09,"feira fogaça, 914",vila dos anjos,PI
+Rodrigo Ferreira,527.***.***-49,56.0,1969-02-27,"estação moraes, 13",carmo,MG
+Alícia Ribeiro,514.***.***-94,92.0,1932-04-28,"feira maria julia costela, 21",mariano de abreu,MG
+Sr. André Da Mata,169.***.***-15,68.0,1957-12-07,"loteamento de lima, 16",conjunto providencia,SE
+Srta. Maria Julia Campos,245.***.***-55,65.0,1960-02-06,"rodovia pires, 57",vila de sá,SP
+João Gabriel Ferreira,018.***.***-03,96.0,1929-07-20,pátio carvalho,vila primeiro de maio,AP
+Thomas Moraes,291.***.***-05,61.0,1964-02-09,"parque melo, 462",vila cloris,GO
+Clara Melo,860.***.***-57,63.0,1962-02-15,"alameda vitor gabriel lopes, 52",pedreira padro lopes,MS
+Luigi Cavalcanti,078.***.***-50,35.0,1990-07-07,"campo de campos, 83",vila tirol,RN
+Dra. Stella Da Costa,340.***.***-51,54.0,1970-10-31,"passarela oliveira, 48",santa monica,RO
+Isabella Da Paz,289.***.***-65,81.0,1943-12-31,"via letícia nunes, 280",monsenhor messias,AL
+Enzo Da Rocha,874.***.***-13,44.0,1980-12-28,"travessa ribeiro, 92",pindorama,GO
+Olivia Fernandes,016.***.***-48,52.0,1973-12-09,"conjunto eduardo da paz, 2",dom joaquim,AP
+André Da Mata,648.***.***-08,39.0,1986-11-05,"feira clara lima, 5",vila independencia 3ª seção,MA
+Pedro Henrique Cavalcanti,938.***.***-86,79.0,1946-02-09,"núcleo de rocha, 9",sport club,SP
+Joaquim Silveira,671.***.***-12,22.0,2003-07-18,"vila de freitas, 80",santo antônio,AC
+Mirella Rodrigues,216.***.***-94,48.0,1977-12-11,"fazenda de lima, 95",vila das oliveiras,RJ
+Sra. Isabelly Azevedo,087.***.***-76,76.0,1949-11-23,"ladeira caldeira, 5",vila paris,AC
+Dr. Samuel Ferreira,720.***.***-87,36.0,1989-02-02,"travessa ana lívia da mata, 63",madri,ES
+Otávio Carvalho,643.***.***-90,89.0,1936-07-09,"residencial costa, 9",cidade jardim taquaril,SE
+Dra. Stephany Da Mota,154.***.***-51,26.0,1999-03-16,"colônia monteiro, 49",europa,MT
+Cauê Mendes,152.***.***-44,32.0,1993-12-15,"lagoa das neves, 36",marçola,BA
+Alexandre Nunes,496.***.***-33,53.0,1972-07-03,"esplanada souza, 437",álvaro camargos,MG
+Maria Fernanda Aragão,372.***.***-53,69.0,1956-05-24,"favela de carvalho, 28",confisco,RS
+João Guilherme Silva,820.***.***-30,74.0,1951-03-20,"praça caroline almeida, 19",conjunto bonsucesso,DF
+Lorena Rezende,753.***.***-95,74.0,1951-03-25,"lagoa de fogaça, 92",pantanal,MG
+Maria Sophia Da Cruz,690.***.***-34,70.0,1955-05-27,"vale ana julia porto, 19",alto barroca,MG
+Milena Das Neves,685.***.***-89,95.0,1930-09-02,"residencial de cunha, 20",santana do cafezal,PB
+Kamilly Da Cunha,520.***.***-80,68.0,1957-06-21,"travessa lucca carvalho, 38",aeroporto,RO
+Luiz Miguel Aragão,937.***.***-12,55.0,1970-03-11,aeroporto ana clara oliveira,indaiá,AM
+Ana Laura Ribeiro,754.***.***-47,39.0,1986-11-14,"praia de da mata, 18",são jorge 3ª seção,RJ
+Lorena Da Mota,162.***.***-90,58.0,1967-05-22,"favela de azevedo, 62",lindéia,MA
+Emanuella Souza,617.***.***-07,80.0,1945-12-06,"loteamento ferreira, 493",lagoa,PI
+Cecília Pinto,498.***.***-30,26.0,1999-04-16,"campo vinicius campos, 2",conjunto são francisco de assis,MG
+Pedro Henrique Cunha,584.***.***-00,47.0,1978-12-27,"condomínio bruna mendes, 55",pongelupe,CE
+Sra. Eloah Da Mota,901.***.***-03,33.0,1991-05-31,"loteamento freitas, 30",primeiro de maio,SP
+Samuel Da Rocha,159.***.***-97,23.0,2002-05-03,"trecho de freitas, 8",vila piratininga venda nova,TO
+Melissa Almeida,705.***.***-92,66.0,1959-08-13,"alameda de da rosa, 2",são salvador,PE
+Carlos Eduardo Da Mota,894.***.***-20,100.0,1925-08-08,"largo juliana barbosa, 182",concórdia,RN
+Dr. Vitor Da Mota,789.***.***-28,50.0,1975-05-17,viela de da paz,minaslandia,PE
+Dr. Diogo Costela,962.***.***-73,37.0,1987-09-28,"passarela joão lucas nogueira, 753",são pedro,PE
+Rafaela Rodrigues,578.***.***-60,82.0,1943-12-10,"campo vinicius silva, 27",lagoinha,AC
+Vitor Hugo Da Conceição,716.***.***-55,26.0,1998-04-30,"viaduto de castro, 65",jardim vitoria,RR
+Ana Laura Caldeira,518.***.***-73,52.0,1972-10-28,"estrada de rocha, 305",lourdes,PE
+Dra. Laura Silveira,472.***.***-49,97.0,1928-12-23,"pátio lopes, 1",varzea da palma,AM
+Sr. Rafael Pereira,492.***.***-79,88.0,1937-06-21,"recanto gustavo pereira, 77",santo antônio,PE
+Manuela Mendes,518.***.***-60,33.0,1992-02-25,"largo kevin barbosa, 2",vila da ária,MG
+Igor Lopes,073.***.***-22,31.0,1994-11-19,recanto azevedo,vila cloris,CE
+Marcelo Moreira,346.***.***-87,51.0,1974-10-05,"trecho igor barros, 77",mariano de abreu,ES
+Thomas Costela,428.***.***-22,95.0,1930-03-08,alameda de pinto,pousada santo antonio,RS
+Luiz Otávio Gonçalves,637.***.***-90,65.0,1960-10-10,"trevo rezende, 51",bela vitoria,MG
+Stella Da Costa,063.***.***-07,56.0,1969-12-25,"estação de freitas, 32",corumbiara,RR
+Luana Da Cruz,083.***.***-86,31.0,1994-10-12,distrito rocha,luxemburgo,CE
+Maria Cecília Lima,132.***.***-89,29.0,1996-12-02,"recanto silveira, 47",olhos d'água,ES
+Melissa Teixeira,642.***.***-78,72.0,1953-11-03,"residencial de pires, 28",laranjeiras,RS
+Dr. Vinicius Pires,163.***.***-10,39.0,1986-02-05,"distrito de lopes, 397",alto dos pinheiros,MS
+Luiz Miguel Farias,962.***.***-00,89.0,1936-11-03,"feira cardoso, 21",conjunto minas caixa,RN
+Breno Correia,148.***.***-67,42.0,1983-05-07,"conjunto daniel fernandes, 403",garças,GO
+Laís Costela,306.***.***-53,59.0,1966-01-18,"parque maitê santos, 42",boa viagem,RS
+Dr. Diego Da Mata,293.***.***-41,22.0,2003-08-22,"quadra de da mota, 62",alto caiçaras,MG
+Letícia Da Mota,852.***.***-02,32.0,1993-05-24,"viaduto jesus, 11",conjunto jatoba,DF
+Luna Ferreira,843.***.***-14,55.0,1970-01-25,"alameda anthony fogaça, 11",mantiqueira,RS
+Dr. Emanuel Silveira,430.***.***-80,31.0,1994-04-23,"quadra de fogaça, 28",pantanal,PI
+Lorena Sales,263.***.***-15,46.0,1979-12-26,fazenda caldeira,satelite,AM
+Davi Da Mata,846.***.***-39,56.0,1969-02-19,vila alves,jardim atlântico,DF
+Isabel Melo,748.***.***-09,76.0,1948-12-28,"feira enrico nogueira, 1",itaipu,PB
+Raul Oliveira,298.***.***-64,94.0,1931-01-03,"rua pedro miguel da luz, 95",nossa senhora do rosário,PA
+Levi Da Mata,192.***.***-32,63.0,1962-10-21,vila de da mata,cônego pinheiro 2ª seção,CE
+Heloísa Castro,587.***.***-44,64.0,1961-05-15,"sítio de cardoso, 88",acaiaca,RS
+Sra. Júlia Da Paz,046.***.***-74,39.0,1986-08-19,"jardim maria sophia ferreira, 95",vila nova paraíso,CE
+Luana Viana,213.***.***-21,27.0,1998-04-01,"praça de castro, 980",ernesto nascimento,SE
+Sr. Renan Sales,364.***.***-83,24.0,2001-04-17,"praça olivia silveira, 49",novo das industrias,AC
+Caio Aragão,714.***.***-62,24.0,2001-11-19,"área de barros, 86",boa esperança,RN
+Srta. Lavínia Ribeiro,263.***.***-51,77.0,1948-11-19,"alameda gustavo henrique gonçalves, 50",beija flor,RJ
+Sofia Da Mata,806.***.***-84,23.0,2002-05-16,"jardim de lopes, 7",planalto,AM
+André Araújo,819.***.***-13,45.0,1980-04-26,"alameda de da mota, 94",vila paquetá,CE
+Nathan Azevedo,285.***.***-82,86.0,1939-02-12,"lagoa milena ramos, 4",caiçara - adelaide,AM
+Camila Teixeira,982.***.***-40,48.0,1977-08-13,"setor da cunha, 39",jardim montanhês,RJ
+Srta. Clara Souza,510.***.***-71,27.0,1998-08-20,"área peixoto, 32",flavio de oliveira,SE
+Yuri Nascimento,129.***.***-73,58.0,1966-09-28,"vereda matheus azevedo, 2",serrano,AC
+Srta. Marcela Gonçalves,148.***.***-87,85.0,1940-11-03,"praia raul campos, 12",conjunto providencia,CE
+João Ramos,936.***.***-87,51.0,1973-08-28,"jardim enzo da paz, 47",vila ouro minas,PR
+Renan Rocha,720.***.***-92,44.0,1981-10-08,"vale oliveira, 22",nova suíça,RS
+Sr. Caio Souza,453.***.***-33,52.0,1973-07-02,"conjunto maria vitória da cunha, 59",serra do curral,MG
+Clarice Farias,743.***.***-22,57.0,1968-12-22,"alameda maria fernanda castro, 87",maravilha,PI
+Marcos Vinicius Jesus,597.***.***-00,74.0,1951-10-12,"praça de moraes, 588",nova america,PA
+João Pedro Nunes,910.***.***-42,36.0,1989-09-16,"jardim de ramos, 69",vila nova gameleira 3ª seção,PA
+Levi Farias,659.***.***-52,47.0,1978-12-03,"quadra mendes, 42",vila pinho,GO
+Dr. Enzo Da Costa,791.***.***-75,42.0,1983-05-07,"campo marcela silveira, 66",álvaro camargos,AM
+Heloísa Alves,029.***.***-79,88.0,1937-10-06,"fazenda de moraes, 637",buraco quente,PR
+Luiz Henrique Da Mota,842.***.***-91,21.0,2004-02-17,"recanto alves, 105",saudade,RR
+Camila Caldeira,903.***.***-03,56.0,1969-04-23,"lago jesus, 71",frei leopoldo,MA
+Arthur Mendes,918.***.***-05,52.0,1973-12-23,esplanada cauã teixeira,jardim américa,SP
+João Felipe Campos,362.***.***-06,54.0,1970-03-28,"praia heitor castro, 6",jardim leblon,MS
+Guilherme Azevedo,174.***.***-16,63.0,1962-07-24,"viela benjamin campos, 1",pompéia,CE
+Dra. Laura Cunha,364.***.***-50,48.0,1977-12-22,"núcleo castro, 7",maria helena,BA
+Noah Moraes,108.***.***-12,56.0,1969-04-03,"estrada lucas gabriel caldeira, 856",joão pinheiro,MG
+Davi Lucca Lopes,260.***.***-90,35.0,1990-11-27,"trecho freitas, 427",alto dos pinheiros,AP
+Sophia Da Cruz,621.***.***-15,40.0,1984-07-30,via ribeiro,flavio de oliveira,PR
+Igor Da Luz,740.***.***-85,48.0,1977-12-16,"lago silva, 75",vila oeste,AC
+Dr. Samuel Nascimento,692.***.***-73,87.0,1937-07-30,"travessa duarte, 59",brasil industrial,RO
+Maria Fernanda Freitas,968.***.***-28,68.0,1957-08-10,favela sarah porto,conjunto são francisco de assis,DF
+Eduarda Costa,206.***.***-68,29.0,1995-10-31,"morro enzo gabriel teixeira, 84",mirtes,RS
+Lorenzo Monteiro,069.***.***-20,45.0,1980-07-16,"área da mota, 13",minas caixa,AP
+Caroline Cardoso,618.***.***-17,53.0,1972-09-08,"viaduto de moreira, 1",vera cruz,DF
+Henrique Da Rocha,329.***.***-99,22.0,2003-01-09,"núcleo luiz gustavo costela, 99",juliana,SE
+Lucas Gabriel Oliveira,743.***.***-38,53.0,1972-08-04,via araújo,são cristóvão,SE
+Sr. Arthur Jesus,418.***.***-93,98.0,1927-05-27,lago de cardoso,santa cecilia,MG
+Marcos Vinicius Da Cunha,572.***.***-43,49.0,1976-01-16,viaduto de cardoso,inconfidência,PA
+Antônio Nogueira,061.***.***-71,21.0,2004-08-11,"quadra de da mata, 49",ouro minas,MT
+Sophia Monteiro,601.***.***-15,92.0,1933-10-22,"núcleo araújo, 155",lindéia,PA
+Dr. Leandro Silva,497.***.***-85,58.0,1967-12-07,"estação silva, 18",serra,AM
+Amanda Farias,185.***.***-08,100.0,1924-07-31,"praia lavínia moraes, 29",conjunto jatoba,RJ
+Srta. Luna Peixoto,912.***.***-23,55.0,1970-12-14,"fazenda rafaela costela, 37",havaí,CE
+Sr. Igor Campos,183.***.***-62,56.0,1969-08-17,"fazenda ferreira, 849",lagoa,AP
+Maria Sophia Correia,948.***.***-75,100.0,1925-10-03,"residencial alana dias, 51",vitoria,TO
+Bruno Da Cruz,293.***.***-73,24.0,2001-06-02,"rua evelyn da cunha, 2",alta tensão 1ª seção,ES
+Amanda Cavalcanti,351.***.***-00,57.0,1968-12-13,"fazenda de duarte, 99",são sebastião,AC
+Bruno Melo,721.***.***-52,60.0,1965-06-26,"trevo de da costa, 7",esplanada,AC
+Dra. Elisa Nunes,875.***.***-05,36.0,1989-01-12,"vale erick moreira, 48",vila nova cachoeirinha 2ª seção,AP
+Calebe Ramos,942.***.***-40,61.0,1964-05-05,"parque de moraes, 36",gutierrez,TO
+Sr. Arthur Moraes,306.***.***-87,82.0,1943-10-01,"passarela lima, 87",jatobá,RJ
+Júlia Silveira,913.***.***-57,75.0,1950-11-18,pátio vitor gabriel rocha,são joão batista,SC
+Sra. Isabelly Silva,732.***.***-00,35.0,1989-08-28,"rodovia agatha lopes, 7",vila são gabriel,DF
+Dr. Otávio Azevedo,457.***.***-30,81.0,1944-11-09,"aeroporto de ferreira, 2",santa helena,CE
+Maria Cecília Aragão,264.***.***-49,100.0,1925-01-09,"trevo aragão, 535",salgado filho,GO
+Noah Da Rosa,742.***.***-22,60.0,1965-05-02,"avenida ferreira, 7",antonio ribeiro de abreu 1ª seção,DF
+Sra. Laura Azevedo,540.***.***-71,39.0,1986-06-16,viaduto marcelo ramos,universo,SP
+Dr. Francisco Moreira,702.***.***-08,26.0,1999-08-25,"núcleo silva, 7",jaraguá,CE
+Mariane Das Neves,912.***.***-05,46.0,1979-10-27,"rodovia de freitas, 782",parque são josé,SC
+Enzo Monteiro,309.***.***-56,35.0,1990-09-15,"quadra silveira, 76",joão paulo ii,MG
+Diego Da Rocha,093.***.***-83,37.0,1988-01-24,"conjunto da rosa, 22",pindura saia,MS
+Ana Laura Da Cruz,798.***.***-49,87.0,1937-04-28,parque rodrigues,vila da amizade,RO
+Ana Sophia Gomes,384.***.***-46,46.0,1979-07-27,"lagoa porto, 44",unidas,GO
+Ana Laura Costa,502.***.***-85,54.0,1971-08-17,"vila sales, 913",bela vitoria,SP
+Felipe Souza,187.***.***-84,56.0,1968-09-30,"setor peixoto, 47",palmeiras,SE
+Luana Novaes,287.***.***-87,80.0,1945-12-05,"parque luiz gustavo da conceição, 34",santa margarida,RS
+Sra. Yasmin Nogueira,360.***.***-15,49.0,1975-10-29,"lago de rocha, 482",belmonte,PE
+Benício Melo,904.***.***-67,23.0,2002-12-07,recanto maitê pereira,vila suzana primeira seção,DF
+Daniela Aragão,726.***.***-53,60.0,1965-07-06,"feira otávio pereira, 93",piraja,RR
+Davi Luiz Sales,740.***.***-13,46.0,1979-07-24,"trecho joão gabriel pires, 64",nova pampulha,RS
+Milena Souza,904.***.***-70,87.0,1938-10-08,"praça de ribeiro, 9",santa inês,SP
+Maria Eduarda Ferreira,438.***.***-60,75.0,1949-09-28,passarela de caldeira,vila sesc,AP
+Sr. Diogo Lima,302.***.***-00,31.0,1994-12-06,estrada danilo monteiro,conjunto califórnia ii,BA
+Dr. Carlos Eduardo Araújo,496.***.***-47,41.0,1984-11-09,"rodovia sophia rodrigues, 88",vila independencia 2ª seção,RR
+Marina Gomes,934.***.***-00,100.0,1925-12-25,lagoa souza,copacabana,ES
+Gustavo Henrique Duarte,254.***.***-60,24.0,2000-05-29,"área ana sophia pereira, 32",minas caixa,TO
+Caio Ramos,832.***.***-73,29.0,1996-11-06,"viaduto de sales, 92",buraco quente,AL
+Rafael Nunes,462.***.***-19,90.0,1935-04-10,"núcleo monteiro, 504",são bernardo,TO
+Enzo Gabriel Cardoso,726.***.***-67,38.0,1987-01-26,núcleo ribeiro,vila nova cachoeirinha 1ª seção,PE
+Davi Cardoso,065.***.***-90,20.0,2005-07-25,"praça ana júlia rezende, 38",vila coqueiral,PA
+Daniel Pires,274.***.***-47,41.0,1984-06-13,"avenida bruna rodrigues, 724",diamante,ES
+Brenda Da Mata,532.***.***-19,44.0,1980-02-29,"pátio rocha, 75",havaí,AC
+Samuel Dias,852.***.***-24,40.0,1985-11-17,"viaduto enzo gabriel moreira, 72",vila real 2ª seção,CE
+Gustavo Henrique Da Costa,917.***.***-50,20.0,2005-03-08,"residencial ribeiro, 60",flamengo,RO
+Theo Fogaça,091.***.***-05,50.0,1975-06-26,"travessa cardoso, 95",alta tensão 1ª seção,MT
+Sra. Alexia Carvalho,483.***.***-71,24.0,2000-03-31,quadra lorenzo pires,vila olhos d'água,AC
+Juliana Martins,432.***.***-56,86.0,1939-06-04,campo de souza,vila jardim são josé,RR
+Luiz Gustavo Da Rosa,280.***.***-97,87.0,1938-06-09,"via de da paz, 5",dona clara,AL
+Gabriela Freitas,367.***.***-26,31.0,1994-03-10,"trevo carvalho, 9",grajaú,BA
+Enzo Gabriel Vieira,812.***.***-76,22.0,2002-01-28,travessa novaes,boa vista,TO
+Srta. Luna Nascimento,815.***.***-60,71.0,1954-06-13,"passarela de nascimento, 916",joão paulo ii,AL
+Sophie Da Mata,971.***.***-97,72.0,1953-04-10,"avenida de almeida, 78",vila atila de paiva,AL
+Clarice Alves,973.***.***-65,24.0,2001-12-02,avenida heloísa costa,cabana do pai tomás,AC
+Catarina Rodrigues,138.***.***-84,86.0,1939-11-26,"núcleo farias, 97",lourdes,RR
+Antônio Vieira,017.***.***-53,91.0,1934-10-25,"favela de lopes, 473",lagoinha leblon,PR
+Dr. Nicolas Da Conceição,105.***.***-80,27.0,1998-06-04,"quadra mariana costela, 87",grajaú,BA
+Maria Alice Da Costa,290.***.***-92,89.0,1936-02-17,"rua cardoso, 76",olhos d'água,MA
+Sr. Lucca Martins,906.***.***-70,57.0,1967-08-30,"pátio paulo da rosa, 93",belvedere,TO
+João Pedro Costa,532.***.***-41,70.0,1955-09-12,feira cardoso,conjunto minas caixa,RN
+Maitê Gonçalves,034.***.***-20,99.0,1926-09-20,"distrito giovanna rodrigues, 37",marieta 3ª seção,PR
+Ana Laura Ferreira,326.***.***-74,72.0,1952-01-29,estrada de ramos,garças,RO
+Sabrina Da Mata,172.***.***-02,30.0,1994-01-31,"viela de moraes, 56",vila maria,MS
+Alexandre Das Neves,183.***.***-24,95.0,1930-07-19,"área de novaes, 52",itapoa,ES
+Isadora Da Cunha,471.***.***-31,55.0,1969-08-31,"viaduto freitas, 622",jardim atlântico,PE
+Dr. Luigi Fernandes,834.***.***-55,74.0,1951-07-16,"distrito thomas pires, 77",bairro das indústrias ii,MT
+Sr. Yago Cavalcanti,758.***.***-05,94.0,1931-03-01,estrada melo,vila independencia 3ª seção,AM
+Carolina Peixoto,396.***.***-96,65.0,1960-06-26,"loteamento dias, 21",camponesa 1ª seção,RN
+Ana Lívia Porto,067.***.***-44,76.0,1949-09-26,"colônia vieira, 6",milionario,SE
+Henrique Da Mata,896.***.***-74,35.0,1990-12-25,"aeroporto vinicius rezende, 18",conjunto são francisco de assis,PR
+Enrico Aragão,490.***.***-75,94.0,1930-06-30,"praça almeida, 95",vila novo são lucas,AP
+Milena Cavalcanti,523.***.***-70,27.0,1998-09-15,"trecho kevin castro, 70",são geraldo,PR
+Davi Lucca Melo,731.***.***-14,97.0,1928-02-22,"passarela kamilly moreira, 704",cardoso,SP
+Clarice Fernandes,192.***.***-73,89.0,1936-12-27,"vereda jesus, 7",esplanada,SP
+Dr. Luiz Fernando Das Neves,146.***.***-37,59.0,1966-02-21,"viaduto de martins, 24",vila antena,RO
+Caio Azevedo,428.***.***-82,74.0,1951-03-04,"largo cardoso, 23",vila nova gameleira 2ª seção,AL
+Enrico Novaes,457.***.***-38,75.0,1950-11-08,"vila heloísa barbosa, 666",conjunto são francisco de assis,RN
+Ana Clara Moreira,075.***.***-53,89.0,1936-12-15,residencial de aragão,andiroba,SC
+Enrico Ribeiro,965.***.***-66,27.0,1998-02-24,"loteamento lopes, 2",vila satélite,CE
+Evelyn Aragão,548.***.***-07,87.0,1938-04-19,"estrada rebeca caldeira, 440",marçola,GO
+Thales Moreira,406.***.***-07,64.0,1960-07-31,quadra farias,jardim guanabara,RO
+Heitor Mendes,097.***.***-61,57.0,1968-01-13,lagoa de farias,alta tensão 2ª seção,AL
+Sarah Nascimento,938.***.***-10,42.0,1983-05-14,"largo de da costa, 400",vila jardim alvorada,CE
+Sra. Yasmin Melo,510.***.***-49,20.0,2005-07-22,"loteamento almeida, 821",conjunto santa maria,TO
+Sr. Marcelo Costela,895.***.***-38,25.0,2000-08-16,"chácara clarice da costa, 135",cardoso,BA
+Maria Cecília Araújo,752.***.***-52,77.0,1948-03-20,"distrito nathan melo, 3",universitário,PA
+Enzo Gabriel Ribeiro,965.***.***-02,65.0,1960-06-20,"recanto nunes, 87",vila união,AP
+Miguel Da Rosa,168.***.***-03,45.0,1980-04-24,"esplanada carvalho, 8",paulo vi,CE
+Maria Vitória Ferreira,914.***.***-69,25.0,2000-11-09,"lago lima, 6",providencia,SP
+Sr. Vitor Gabriel Gomes,348.***.***-60,49.0,1975-11-29,"vale costela, 49",jonas veiga,MT
+Bianca Pinto,541.***.***-06,81.0,1943-05-29,"lagoa sales, 43",vila santa monica 2ª seção,AL
+Igor Melo,519.***.***-39,97.0,1927-03-31,viaduto nogueira,grota,RO
+Sra. Vitória Carvalho,528.***.***-38,36.0,1989-02-20,"jardim fernanda moura, 767",cdi jatoba,AM
+Sofia Duarte,412.***.***-28,20.0,2005-07-09,"morro isaac freitas, 543",vila nova cachoeirinha 2ª seção,RR
+Brenda Nogueira,160.***.***-33,58.0,1967-07-23,"pátio de almeida, 4",mala e cuia,TO
+Rafael Fogaça,569.***.***-68,94.0,1931-03-04,"setor de da rosa, 401",nova vista,SP
+Ana Nascimento,295.***.***-61,74.0,1951-11-22,"chácara de martins, 14",nossa senhora do rosário,RN
+Dr. Juan Da Rocha,475.***.***-80,76.0,1949-10-02,"ladeira de da mota, 16",vila jardim leblon,MT
+Ana Laura Rocha,531.***.***-70,33.0,1992-01-11,"sítio thomas rodrigues, 41",são damião,AL
+Maria Alice Da Rocha,906.***.***-22,92.0,1933-12-22,"travessa de correia, 46",guarani,AC
+Elisa Lopes,790.***.***-30,,1924-07-02,passarela alexandre da cunha,vila coqueiral,RR
+Davi Lucca Pereira,597.***.***-60,70.0,1954-01-28,"jardim de barros, 16",vila califórnia,CE
+Marina Fogaça,410.***.***-20,63.0,1962-04-07,"praça luiz henrique correia, 81",guaratã,PE
+Bernardo Ramos,105.***.***-98,82.0,1943-09-03,"lagoa luiza gonçalves, 979",piratininga,SE
+Ana Lívia Lopes,971.***.***-02,65.0,1960-11-10,"parque de barbosa, 57",anchieta,GO
+Miguel Silva,920.***.***-00,40.0,1984-02-28,"ladeira das neves, 9",nova floresta,PE
+Sr. Arthur Da Cruz,693.***.***-38,85.0,1940-06-24,lago de cavalcanti,vila betânia,TO
+Julia Da Mota,571.***.***-20,76.0,1948-09-30,"feira nogueira, 68",santo antônio,TO
+Agatha Rocha,853.***.***-30,54.0,1971-11-01,setor de dias,são benedito,RS
+Isabel Cardoso,608.***.***-40,97.0,1928-08-11,"campo da mata, 42",morro dos macacos,MG
+Marcos Vinicius Moura,451.***.***-19,65.0,1959-11-29,"parque dias, 687",paulo vi,PR
+Levi Da Cunha,718.***.***-75,99.0,1925-04-28,"colônia de viana, 6",pongelupe,SE
+Cauã Vieira,427.***.***-61,77.0,1947-07-29,via da mata,bernadete,RO
+Maria Alice Ferreira,105.***.***-80,39.0,1986-05-01,"praça de duarte, 194",guarani,MT
+Dra. Isabelly Souza,725.***.***-30,35.0,1990-05-23,"campo de moura, 60",primeiro de maio,RN
+Heitor Rezende,174.***.***-39,73.0,1951-09-28,"área duarte, 628",conjunto lagoa,RR
+Maria Vitória Jesus,493.***.***-70,48.0,1977-02-16,"sítio de moura, 13",paraíso,RS
+Emanuel Duarte,762.***.***-76,22.0,2003-02-23,"rua de fogaça, 71",ouro preto,AM
+Ian Lima,163.***.***-66,88.0,1937-07-05,"rua de martins, 9",união,AC
+Vitor Alves,687.***.***-22,29.0,1996-06-13,"esplanada ana laura oliveira, 667",ribeiro de abreu,DF
+Rafael Ramos,946.***.***-84,71.0,1954-05-17,"esplanada almeida, 4",vila fumec,PR
+Ryan Da Cunha,412.***.***-52,88.0,1937-11-04,morro de cardoso,camponesa 2ª seção,GO
+Maria Da Cunha,539.***.***-06,79.0,1946-10-07,residencial de duarte,vila união,PE
+Srta. Milena Cardoso,832.***.***-40,67.0,1958-03-07,"praça almeida, 71",capitão eduardo,RJ
+Bryan Ramos,043.***.***-89,31.0,1993-10-30,"praia costa, 35",jardim leblon,GO
+Luigi Santos,273.***.***-52,38.0,1987-01-04,"via luigi peixoto, 61",são gabriel,AP
+Isabella Duarte,023.***.***-17,44.0,1980-09-28,"estrada diogo da mata, 91",vila nova cachoeirinha 3ª seção,PI
+Sophie Azevedo,214.***.***-49,99.0,1926-08-11,"rua kaique freitas, 8",universo,RR
+Matheus Carvalho,592.***.***-09,61.0,1963-08-31,viela de almeida,união,RN
+Júlia Da Cruz,714.***.***-39,95.0,1930-02-12,lagoa joão pedro alves,das industrias i,PB
+Vitor Peixoto,489.***.***-06,78.0,1947-07-24,"trevo de cardoso, 40",vale do jatoba,RS
+Amanda Castro,305.***.***-41,45.0,1980-04-05,"favela erick pereira, 672",vila copacabana,AM
+Lucas Lima,240.***.***-01,93.0,1932-06-16,"vale igor castro, 928",maravilha,BA
+Raquel Ramos,052.***.***-25,68.0,1957-10-16,"vereda de costa, 27",madre gertrudes,RN
+Dra. Rebeca Nascimento,431.***.***-37,84.0,1941-04-07,"residencial nogueira, 954",vila oeste,PB
+Theo Da Conceição,846.***.***-46,30.0,1995-03-22,"fazenda maria ribeiro, 81",vila são paulo,SE
+Thiago Da Cunha,631.***.***-24,92.0,1933-06-08,"viela de aragão, 291",união,RJ
+Davi Lucas Moreira,169.***.***-02,60.0,1964-12-30,"estrada de da costa, 92",vila do pombal,PA
+Helena Costela,950.***.***-68,29.0,1996-02-01,"colônia de fogaça, 78",vila aeroporto jaraguá,AC
+Beatriz Peixoto,243.***.***-96,82.0,1943-04-11,"campo de moura, 904",alto caiçaras,PE
+Luigi Fernandes,846.***.***-20,49.0,1976-02-02,"estação igor cunha, 21",pilar,PB
+Gabrielly Almeida,831.***.***-14,67.0,1958-01-11,"estrada da conceição, 23",indaiá,MS
+Samuel Sales,439.***.***-55,77.0,1948-08-19,"morro de costela, 73",vila da luz,MG
+Dr. Otávio Costa,095.***.***-59,38.0,1987-08-09,"chácara da conceição, 2",juliana,BA
+Srta. Ana Beatriz Da Mata,429.***.***-67,91.0,1933-01-28,"feira de martins, 79",vitoria da conquista,PA
+João Rodrigues,594.***.***-76,26.0,1999-02-19,"colônia duarte, 56",marmiteiros,PE
+Nathan Farias,521.***.***-32,40.0,1985-01-12,"travessa joana gonçalves, 44",lajedo,AL
+Dr. Rafael Pereira,581.***.***-55,58.0,1967-07-15,"sítio isis campos, 81",distrito industrial do jatoba,AC
+Júlia Pereira,871.***.***-12,30.0,1995-02-08,lagoa santos,petropolis,MT
+Dra. Laura Barbosa,031.***.***-04,69.0,1956-12-23,"ladeira de moura, 84",nova suíça,RR
+Juliana Pinto,385.***.***-93,72.0,1953-12-18,"rodovia sales, 21",vila canto do sabiá,PI
+Joana Monteiro,138.***.***-39,56.0,1968-09-29,"parque de costela, 668",aguas claras,TO
+Dr. Yago Da Rocha,698.***.***-28,77.0,1948-06-15,"fazenda cavalcanti, 859",alto barroca,MT
+Miguel Nogueira,869.***.***-22,58.0,1967-07-12,quadra de ferreira,cenaculo,PI
+Isadora Da Rocha,725.***.***-70,96.0,1929-02-20,"via igor da mata, 81",laranjeiras,ES
+Clara Costela,380.***.***-50,83.0,1942-07-13,"trevo joão pedro araújo, 7",sagrada família,DF
+Dr. Enzo Gabriel Rocha,473.***.***-61,63.0,1962-04-03,"condomínio da cunha, 4",unidas,PA
+Maysa Monteiro,615.***.***-44,96.0,1929-10-27,"parque henrique teixeira, 32",grotinha,RR
+Maria Alice Da Rosa,710.***.***-66,31.0,1994-05-09,"vereda silveira, 8",bom jesus,RR
+Maysa Lopes,196.***.***-76,61.0,1963-05-30,"avenida de araújo, 28",esplanada,RS
+Srta. Yasmin Jesus,586.***.***-44,92.0,1932-05-28,"fazenda letícia costela, 6",petropolis,AM
+Mariana Costela,372.***.***-00,40.0,1985-11-09,"campo peixoto, 75",independência,SC
+Clara Almeida,842.***.***-92,37.0,1988-11-23,"parque eloah costa, 91",são geraldo,RS
+Sofia Aragão,687.***.***-08,37.0,1988-08-13,"rua de santos, 955",ambrosina,RS
+Elisa Barros,546.***.***-20,28.0,1997-01-19,"estrada sales, 13",jardim felicidade,RN
+Joana Silva,349.***.***-57,26.0,1999-09-19,chácara miguel fogaça,laranjeiras,PE
+Lorenzo Porto,812.***.***-13,65.0,1960-05-14,"avenida de araújo, 1",nossa senhora da aparecida,GO
+Vitória Barbosa,583.***.***-77,49.0,1976-10-19,"vale de monteiro, 267",marieta 2ª seção,ES
+Alícia Da Rosa,035.***.***-51,85.0,1940-04-05,"trecho luana barros, 338",santa maria,MG
+Lucas Monteiro,739.***.***-75,99.0,1926-12-11,"parque enzo almeida, 62",piratininga,AC
+Rodrigo Caldeira,816.***.***-37,49.0,1976-12-22,condomínio joana lima,piratininga,MT
+Luna Rezende,456.***.***-57,53.0,1972-05-21,"esplanada matheus da costa, 90",paulo vi,RN
+Diogo Rezende,680.***.***-24,82.0,1943-12-01,"residencial novaes, 84",vila da amizade,PI
+Anthony Da Costa,805.***.***-21,66.0,1959-01-09,"praia ian da mota, 383",nova cintra,RO
+Maria Cecília Vieira,716.***.***-55,60.0,1965-07-10,rodovia emanuel da cruz,nova esperança,PE
+Sra. Maria Julia Novaes,019.***.***-01,44.0,1981-04-27,"ladeira da cruz, 635",coqueiros,BA
+João Pedro Peixoto,243.***.***-55,65.0,1960-02-10,"trecho cavalcanti, 3",acaba mundo,PR
+Alana Fernandes,198.***.***-09,48.0,1976-08-29,"estação rocha, 975",marieta 2ª seção,SC
+Sra. Mirella Rezende,247.***.***-50,51.0,1973-08-29,"vale de cavalcanti, 98",vila havaí,ES
+Gabrielly Moreira,608.***.***-62,54.0,1971-09-18,"lago caldeira, 363",barão homem de melo 1ª seção,AM
+Sra. Sofia Souza,605.***.***-48,92.0,1933-06-14,"vila gomes, 366",serra,PB
+Mariane Melo,735.***.***-77,76.0,1949-12-16,"rodovia ana beatriz cardoso, 97",etelvina carneiro,PR
+Lorena Souza,048.***.***-49,38.0,1987-06-15,"vereda sales, 83",ouro minas,AL
+Fernando Da Mata,280.***.***-08,28.0,1996-06-30,"ladeira clara da cruz, 37",aparecida 7ª seção,PB
+Laura Cardoso,821.***.***-17,31.0,1994-04-26,"setor de costa, 1",nova america,ES
+Marina Da Cruz,724.***.***-26,53.0,1972-06-21,"avenida castro, 718",santo agostinho,PE
+Maria Rocha,163.***.***-03,41.0,1984-11-02,"recanto isabel da conceição, 6",vila madre gertrudes 4ª seção,RS
+Pedro Henrique Almeida,318.***.***-57,48.0,1977-08-25,"núcleo de rodrigues, 95",maria virgínia,AM
+Dr. Davi Luiz Nunes,604.***.***-16,90.0,1935-08-19,"setor de barros, 58",vila ouro minas,SP
+Vitor Gabriel Costela,175.***.***-43,58.0,1967-04-15,"praia pietra caldeira, 60",túnel de ibirité,GO
+Dr. Luigi Barbosa,641.***.***-39,,1924-11-24,"quadra yasmin caldeira, 4",salgado filho,PE
+Rodrigo Azevedo,687.***.***-75,24.0,2001-12-06,praia de nogueira,califórnia,ES
+Pedro Henrique Cardoso,324.***.***-04,51.0,1973-05-31,"rua de castro, 65",vila jardim são josé,PA
+Sr. João Cardoso,032.***.***-74,20.0,2005-03-03,"pátio antônio da mota, 79",maria virgínia,PR
+Maria Julia Nunes,381.***.***-35,78.0,1947-10-09,setor de ferreira,lorena,RN
+Fernanda Duarte,453.***.***-15,24.0,2000-10-31,"vereda da rocha, 6",bandeirantes,MA
+Marcos Vinicius Oliveira,280.***.***-95,82.0,1943-03-02,"parque de azevedo, 8",lagoinha leblon,AL
+Leandro Aragão,124.***.***-32,,1924-10-17,"campo gabriela rodrigues, 9",piraja,AC
+Maria Alice Vieira,832.***.***-44,70.0,1955-05-04,"via nogueira, 82",andiroba,SE
+Ana Luiza Jesus,541.***.***-91,67.0,1958-06-14,Endereco inválido,Desconhecido,Desconhecido
+Guilherme Cardoso,197.***.***-21,73.0,1952-03-27,"trevo nicole da cruz, 7",conjunto providencia,RS
+Luiz Felipe Azevedo,439.***.***-52,50.0,1975-03-19,"campo erick fernandes, 464",são benedito,AC
+Nathan Araújo,813.***.***-89,62.0,1963-06-14,quadra de martins,nazare,AM
+Clara Ferreira,467.***.***-28,80.0,1945-01-22,"fazenda de ferreira, 76",conjunto paulo vi,MS
+Felipe Da Mata,634.***.***-69,87.0,1938-12-02,"estrada gabrielly rocha, 634",ouro minas,PA
+Enzo Gabriel Azevedo,789.***.***-48,69.0,1956-04-27,"estação cardoso, 175",barão homem de melo 1ª seção,SC
+Maitê Barbosa,231.***.***-07,22.0,2003-05-18,"estrada duarte, 37",marmiteiros,MS
+Srta. Isis Da Cruz,073.***.***-78,90.0,1934-08-30,"praia moreira, 20",são jorge 2ª seção,TO
+Otávio Da Mata,835.***.***-29,53.0,1972-05-06,"largo de da cruz, 431",mangueiras,TO
+Sophie Castro,165.***.***-09,42.0,1983-05-27,"trevo de moraes, 78",bairro das indústrias ii,TO
+Diogo Da Cunha,263.***.***-60,34.0,1990-05-29,"distrito kaique costa, 17",novo glória,RJ
+Benício Fernandes,389.***.***-77,32.0,1993-09-13,"condomínio da cunha, 964",conjunto califórnia i,ES
+João Pedro Silva,523.***.***-06,47.0,1978-12-25,"praia de almeida, 38",vila nova gameleira 3ª seção,MG
+Heloísa Cunha,260.***.***-83,22.0,2003-11-15,"aeroporto santos, 94",ademar maldonado,PI
+Bruno Novaes,190.***.***-93,74.0,1951-04-05,"alameda de da mata, 18",barroca,MS
+Levi Cavalcanti,291.***.***-55,81.0,1944-03-25,"aeroporto aragão, 8",guarani,DF
+João Pedro Lopes,407.***.***-96,55.0,1970-04-15,"vereda daniel gonçalves, 6",bacurau,PB
+Heloísa Da Luz,569.***.***-57,62.0,1963-01-03,"conjunto de cunha, 63",estrela,SP
+Lorena Gomes,298.***.***-65,21.0,2004-03-18,"rodovia de cavalcanti, 47",capitão eduardo,AP
+Milena Vieira,623.***.***-51,98.0,1927-01-05,"loteamento thiago fernandes, 51",graça,PB
+Milena Ramos,160.***.***-34,48.0,1977-09-06,praça breno ribeiro,vista do sol,PB
+Vitor Hugo Ramos,286.***.***-78,74.0,1951-02-14,"viela alice nogueira, 65",olaria,MA
+Ana Julia Nascimento,197.***.***-31,65.0,1960-10-04,aeroporto cavalcanti,coqueiros,SE
+Dr. Enrico Carvalho,254.***.***-00,56.0,1969-04-10,travessa de santos,garças,MT
+Vitor Hugo Cunha,701.***.***-39,92.0,1933-02-02,"passarela isis porto, 38",capitão eduardo,PA
+Dr. Samuel Moura,402.***.***-05,24.0,2001-11-24,"parque daniel pinto, 7",vista alegre,MT
+Luana Nascimento,314.***.***-50,32.0,1993-12-13,"vila letícia da paz, 17",marajó,CE
+Dra. Maria Vitória Viana,250.***.***-00,99.0,1926-03-20,colônia de moura,morro dos macacos,PR
+Sr. Calebe Duarte,936.***.***-04,62.0,1963-05-07,"alameda joão pedro castro, 14",vila fumec,AM
+Leonardo Costela,624.***.***-29,33.0,1992-11-16,via de jesus,caetano furquim,MG
+Benício Moreira,136.***.***-24,45.0,1980-01-21,"feira marcos vinicius da cruz, 317",leonina,MA
+Lucca Mendes,819.***.***-76,85.0,1940-10-16,"via de ferreira, 44",cidade jardim,MG
+Sophie Farias,741.***.***-00,89.0,1936-05-09,"aeroporto de ribeiro, 65",mariquinhas,AM
+Bruna Da Rocha,845.***.***-19,64.0,1961-06-10,"loteamento otávio freitas, 74",camponesa 2ª seção,TO
+Heitor Nascimento,493.***.***-84,82.0,1942-06-30,área maria fernanda pinto,nova pampulha,MT
+Rafael Porto,629.***.***-30,29.0,1996-04-24,"alameda da mata, 64",vila boa vista,MG
+Luiz Miguel Da Paz,647.***.***-80,32.0,1993-06-20,"estrada de ribeiro, 73",buritis,MG
+Srta. Pietra Duarte,913.***.***-04,97.0,1928-07-02,"aeroporto de nascimento, 13",pongelupe,PR
+Eloah Cunha,908.***.***-60,24.0,2001-10-13,"chácara de costa, 62",aparecida,PI
+Bruna Rodrigues,625.***.***-67,23.0,2002-04-06,"campo da costa, 719",olaria,GO
+Felipe Monteiro,172.***.***-68,99.0,1926-12-21,"quadra de monteiro, 43",novo das industrias,CE
+Isis Campos,178.***.***-41,39.0,1986-01-03,estrada pereira,vila batik,PE
+Vitor Novaes,586.***.***-08,79.0,1946-07-07,"lagoa de da rocha, 60",jardim atlântico,PI
+Yago Porto,907.***.***-01,43.0,1981-07-29,"parque alícia cavalcanti, 234",vila piratininga,CE
+Guilherme Campos,354.***.***-79,57.0,1968-11-20,"largo de duarte, 24",barro preto,BA
+Vitor Moraes,297.***.***-99,27.0,1998-04-02,"campo enrico lima, 20",trevo,TO
+João Gabriel Jesus,790.***.***-01,100.0,1925-06-10,"favela martins, 7",barão homem de melo 2ª seção,ES
+Dr. Vitor Hugo Rezende,796.***.***-58,30.0,1995-06-07,"ladeira barros, 84",xodo-marize,AP
+Dr. Arthur Carvalho,081.***.***-97,40.0,1985-12-10,"jardim silveira, 35",dona clara,RR
+Ryan Mendes,239.***.***-55,47.0,1978-04-27,"viaduto evelyn ribeiro, 56",dom silverio,MG
+Ana Laura Silva,485.***.***-47,79.0,1946-04-24,"campo de farias, 77",paulo vi,AM
+Lorenzo Novaes,370.***.***-05,45.0,1979-08-31,"loteamento alice freitas, 3",santa lúcia,AL
+Cauê Cardoso,019.***.***-60,20.0,2005-08-09,"trecho alícia monteiro, 61",são jorge 3ª seção,AL
+Dra. Ana Luiza Silveira,324.***.***-40,84.0,1941-05-07,"alameda pinto, 59",cinquentenário,MT
+Lavínia Azevedo,318.***.***-03,77.0,1948-10-17,"condomínio larissa teixeira, 216",olhos d'água,BA
+Letícia Jesus,451.***.***-19,78.0,1947-04-25,"vale de da mata, 75",bela vitoria,TO
+Bruna Ribeiro,352.***.***-10,73.0,1952-09-11,trevo beatriz cardoso,prado,AP
+Theo Da Mata,758.***.***-44,67.0,1958-08-04,"feira souza, 65",santa helena,AL
+João Gabriel Porto,956.***.***-91,53.0,1972-08-14,"fazenda luiza campos, 62",horto,GO
+Maria Julia Freitas,178.***.***-53,74.0,1950-08-31,"loteamento de gomes, 86",liberdade,RS
+Dr. Otávio Barros,683.***.***-21,28.0,1997-04-16,"condomínio marina costela, 29",morro dos macacos,RR
+Yasmin Gomes,827.***.***-35,100.0,1924-06-28,"feira letícia nascimento, 5",unidas,MA
+Sofia Novaes,576.***.***-83,45.0,1979-07-31,"aeroporto de ribeiro, 57",coração de jesus,MT
+Ian Da Luz,152.***.***-77,37.0,1988-10-26,"feira moura, 2",das industrias i,PB
+Davi Luiz Souza,857.***.***-53,78.0,1947-10-04,"favela peixoto, 76",mangueiras,PE
+Cecília Araújo,032.***.***-26,21.0,2004-08-02,"distrito rezende, 61",jardim américa,MT
+Luiz Gustavo Duarte,381.***.***-44,61.0,1964-10-03,"favela caldeira, 98",maria helena,DF
+Ana Julia Cardoso,704.***.***-88,29.0,1996-10-19,"chácara campos, 423",vila são geraldo,MG
+Gabrielly Lima,560.***.***-30,99.0,1925-06-30,"parque alves, 70",flavio de oliveira,RN
+Heloísa Ribeiro,437.***.***-37,65.0,1960-12-19,sítio luiz gustavo cunha,nova vista,RJ
+Letícia Costa,530.***.***-70,45.0,1980-05-19,"viela yago oliveira, 70",serrano,RN
+Ana Beatriz Da Rocha,438.***.***-04,81.0,1944-12-18,"alameda joão fernandes, 25",estrela do oriente,GO
+Benjamin Moura,975.***.***-97,23.0,2002-04-15,"trevo de rezende, 83",coqueiros,AL
+Ana Julia Fogaça,103.***.***-70,39.0,1986-05-15,"área de gonçalves, 31",vila real 2ª seção,RR
+Clara Da Mata,354.***.***-00,42.0,1983-08-09,"aeroporto de gomes, 936",vila santo antônio,MT
+Fernanda Oliveira,102.***.***-14,43.0,1981-10-30,"trevo correia, 72",olhos d'água,RN
+Laura Das Neves,723.***.***-29,26.0,1999-02-26,"viaduto vitor gabriel ferreira, 32",minas brasil,GO
+Lívia Teixeira,694.***.***-29,41.0,1984-05-09,"alameda teixeira, 9",vila são joão batista,AL
+Eloah Moreira,904.***.***-00,91.0,1934-06-08,"pátio de nunes, 3",vila nova dos milionarios,CE
+Lívia Cardoso,619.***.***-61,89.0,1936-05-14,campo de da paz,nova vista,PE
+Augusto Freitas,930.***.***-01,64.0,1961-08-23,"trevo marcos vinicius jesus, 4",alpes,AL
+Raquel Fernandes,467.***.***-94,78.0,1947-05-24,"parque de teixeira, 132",vila de sá,AM
+Sr. Anthony Da Costa,614.***.***-07,34.0,1991-06-12,"área lima, 7",vila são francisco,PI
+Murilo Melo,431.***.***-80,24.0,2001-11-21,"trecho pires, 10",nazare,MS
+Srta. Mirella Barbosa,430.***.***-75,85.0,1939-01-31,pátio de da rosa,glória,SE
+Gabriela Das Neves,437.***.***-65,42.0,1983-04-17,avenida emilly pereira,distrito industrial do jatoba,AL
+Bruno Da Cunha,259.***.***-24,31.0,1994-05-08,quadra costa,bonsucesso,MA
+Alexandre Rodrigues,740.***.***-85,59.0,1966-07-07,"vale rezende, 20",juliana,AL
+Natália Rezende,784.***.***-11,62.0,1962-04-30,"sítio nascimento, 64",são lucas,MG
+Emilly Caldeira,732.***.***-07,24.0,2000-05-28,"estrada eduardo porto, 85",boa vista,MA
+Levi Azevedo,639.***.***-91,86.0,1939-02-05,"estação da cruz, 13",primeiro de maio,PI
+Nicole Da Rocha,567.***.***-90,25.0,2000-10-07,"distrito clara viana, 41",lajedo,CE
+Joana Moreira,435.***.***-51,66.0,1959-08-18,"viela de das neves, 139",novo glória,DF
+Maria Eduarda Almeida,573.***.***-56,73.0,1952-03-12,"travessa de barros, 4",santa helena,PB
+Marcela Da Cruz,876.***.***-78,93.0,1932-03-05,"viela viana, 95",santa rita de cássia,CE
+Helena Nunes,843.***.***-42,88.0,1937-08-16,"feira vieira, 28",vila são dimas,SC
+Isaac Oliveira,209.***.***-01,52.0,1973-08-22,"rodovia cardoso, 377",santa cecilia,MT
+Manuela Pinto,094.***.***-20,41.0,1984-04-13,"praia almeida, 6",beira linha,AM
+Bryan Ramos,681.***.***-94,37.0,1988-06-03,"aeroporto de da rocha, 27",união,MS
+Sr. Enzo Gabriel Fernandes,769.***.***-21,20.0,2005-08-24,"rodovia laís nunes, 50",vila madre gertrudes 2ª seção,RR
+Brenda Ramos,269.***.***-83,99.0,1926-04-19,"rodovia de souza, 416",conjunto são francisco de assis,PI
+Yuri Rezende,564.***.***-89,99.0,1926-04-17,"praia costa, 3",vila santo antônio barroquinha,AC
+Luiz Miguel Da Costa,630.***.***-34,75.0,1950-03-09,via porto,conjunto capitão eduardo,PR
+Enzo Nogueira,187.***.***-69,64.0,1961-08-01,"campo cauã freitas, 66",xangri-lá,PB
+Davi Lucca Azevedo,035.***.***-10,68.0,1956-09-30,"condomínio cunha, 74",camponesa 2ª seção,PA
+Luiz Otávio Fernandes,716.***.***-85,71.0,1954-08-08,núcleo pietro barros,vila piratininga,PE
+Thomas Correia,083.***.***-66,78.0,1947-02-14,"aeroporto melo, 31",conjunto celso machado,AC
+Davi Lucca Teixeira,647.***.***-26,84.0,1941-11-16,"condomínio de lima, 66",mirtes,GO
+Luiz Gustavo Ribeiro,149.***.***-78,31.0,1994-09-19,"pátio davi lucca viana, 6",gameleira,PA
+Pietra Da Mata,427.***.***-08,68.0,1957-05-27,"feira gonçalves, 4",vila paquetá,AP
+Joaquim Azevedo,016.***.***-16,70.0,1955-03-25,núcleo viana,conjunto jatoba,RN
+Sra. Agatha Melo,506.***.***-60,27.0,1998-02-10,"feira de oliveira, 1",mariquinhas,RN
+Maria Julia Lopes,613.***.***-68,56.0,1969-04-02,"campo araújo, 10",tiradentes,GO
+Dr. Marcelo Cardoso,862.***.***-07,80.0,1945-04-15,lagoa ana sophia oliveira,pedreira padro lopes,RN
+Catarina Moreira,207.***.***-11,33.0,1991-03-29,"jardim sales, 42",conjunto minas caixa,RO
+Heitor Vieira,089.***.***-92,75.0,1950-01-27,"morro aragão, 796",estrela,MT
+Luiz Fernando Da Luz,071.***.***-01,75.0,1950-04-09,"aeroporto pietro oliveira, 4",parque são josé,RR
+Sabrina Silva,216.***.***-69,86.0,1939-06-06,"rodovia pedro henrique santos, 46",lagoa,AL
+Luiz Henrique Martins,648.***.***-82,47.0,1978-10-21,"praia ferreira, 17",heliopolis,RJ
+Catarina Carvalho,196.***.***-10,47.0,1977-05-29,"vila de farias, 46",minas caixa,AL
+Ana Vitória Azevedo,529.***.***-01,78.0,1947-08-10,"campo yasmin moreira, 49",funcionários,AP
+Thales Campos,412.***.***-89,82.0,1943-03-08,"avenida lavínia castro, 46",marieta 2ª seção,SP
+Thales Oliveira,369.***.***-50,84.0,1941-06-24,condomínio levi almeida,vila nova cachoeirinha 3ª seção,AM
+Fernanda Cavalcanti,912.***.***-51,71.0,1953-11-28,"viela isis gomes, 43",petropolis,AP
+Dr. João Gabriel Da Conceição,831.***.***-00,47.0,1977-08-31,"jardim luiz felipe duarte, 1",bela vitoria,RR
+Noah Barros,310.***.***-86,34.0,1991-12-22,"jardim almeida, 48",belvedere,MS
+Dr. Felipe Novaes,685.***.***-59,52.0,1972-10-29,"pátio de ribeiro, 16",pindura saia,RJ
+Luiz Fernando Aragão,120.***.***-01,21.0,2004-09-15,"ladeira mariane santos, 7",distrito industrial do jatoba,SE
+Ana Júlia Cardoso,812.***.***-76,84.0,1941-11-04,"vila silveira, 86",gameleira,PB
+Marina Ramos,068.***.***-10,62.0,1963-05-08,"ladeira duarte, 35",urca,MT
+Dra. Joana Lopes,619.***.***-11,59.0,1966-06-26,"viaduto de novaes, 952",dom cabral,SP
+Isabel Duarte,146.***.***-87,59.0,1966-12-27,"aeroporto isaac da conceição, 1",vila jardim montanhes,MT
+Paulo Jesus,078.***.***-92,55.0,1970-04-25,"fazenda de porto, 4",santa lúcia,PR
+Laura Costa,540.***.***-25,85.0,1940-02-27,"distrito de moraes, 56",alto vera cruz,AP
+Sra. Milena Pinto,280.***.***-24,64.0,1960-02-29,"jardim novaes, 13",sion,RO
+Danilo Ribeiro,109.***.***-80,69.0,1956-06-20,"ladeira de da conceição, 76",venda nova,TO
+Lívia Nunes,742.***.***-23,50.0,1975-03-14,"passarela de porto, 65",pousada santo antonio,PI
+Alícia Rodrigues,349.***.***-16,53.0,1972-08-26,"travessa de farias, 9",esplanada,RS
+Agatha Rezende,057.***.***-79,96.0,1929-10-25,"parque da luz, 3",grajaú,RR
+Juliana Santos,605.***.***-59,95.0,1930-09-18,"parque de silveira, 6",são jorge 3ª seção,MS
+Maria Fernanda Da Conceição,408.***.***-50,64.0,1961-09-26,"campo santos, 714",alto barroca,RJ
+Daniela Barbosa,861.***.***-64,37.0,1988-04-19,"área de moreira, 82",das industrias i,DF
+Arthur Pinto,562.***.***-25,32.0,1993-07-08,viela kamilly cunha,vista do sol,SP
+Emanuel Aragão,910.***.***-57,43.0,1982-09-04,"campo de da cruz, 22",conjunto são francisco de assis,SC
+Dra. Alice Vieira,936.***.***-00,78.0,1946-12-28,rodovia cunha,das industrias i,MA
+Maria Cecília Moreira,805.***.***-71,66.0,1959-02-18,"passarela joão pedro nunes, 6",vila oeste,DF
+,532.***.***-41,75.0,1950-10-01,"estação alves, 8",vila petropolis,PE
+Maria Vitória Campos,380.***.***-57,57.0,1968-07-05,"viela da costa, 16",canadá,MA
+Isabel Da Conceição,819.***.***-93,91.0,1934-11-12,"vale nogueira, 8",bela vitoria,CE
+,013.***.***-69,46.0,1979-09-06,"parque helena pires, 852",vila jardim são josé,AL
+Dr. Thomas Nunes,967.***.***-46,83.0,1942-08-14,"vereda da mota, 37",vila da luz,SE
+Lucca Moura,718.***.***-35,39.0,1986-12-20,"praia bryan martins, 8",santa amelia,SE
+Diogo Souza,169.***.***-95,67.0,1958-07-13,"largo maysa cavalcanti, 6",vila satélite,AP
+Juliana Costa,980.***.***-39,55.0,1970-08-20,"alameda de campos, 32",vila são rafael,AL
+Eduarda Da Costa,739.***.***-48,90.0,1935-07-10,"jardim de lima, 1",das industrias i,MT
+Alana Freitas,427.***.***-73,52.0,1973-07-15,aeroporto noah jesus,diamante,BA
+Murilo Ramos,374.***.***-00,98.0,1927-01-02,"feira jesus, 20",aparecida 7ª seção,DF
+Cecília Souza,294.***.***-30,22.0,2003-04-15,"campo emanuelly gonçalves, 51",novo glória,BA
+Raul Martins,187.***.***-26,98.0,1927-10-17,"alameda de carvalho, 150",saudade,RR
+Renan Cavalcanti,072.***.***-77,70.0,1954-05-29,"trevo nina pereira, 99",álvaro camargos,CE
+Sr. Diego Pires,842.***.***-41,36.0,1989-10-25,"morro eduarda farias, 92",aarão reis,AC
+Sofia Da Rocha,719.***.***-03,59.0,1966-10-08,"vale davi luiz dias, 709",vila oeste,CE
+Lorenzo Dias,271.***.***-04,100.0,1925-09-08,"favela elisa barbosa, 521",jardim vitoria,SC
+Sr. Vitor Souza,426.***.***-83,75.0,1950-11-04,"aeroporto laura gonçalves, 7",vila vista alegre,MG
+Vitor Gabriel Cardoso,354.***.***-50,32.0,1993-10-14,"setor de da luz, 81",são cristóvão,GO
+Pedro Rodrigues,790.***.***-20,100.0,1925-07-17,"trevo de moreira, 63",araguaia,PI
+Eduarda Teixeira,745.***.***-17,78.0,1947-07-26,"ladeira peixoto, 85",são marcos,MA
+Daniel Oliveira,753.***.***-08,36.0,1989-09-09,colônia maitê cardoso,copacabana,DF
+Isadora Nogueira,129.***.***-05,30.0,1994-10-29,"praia de campos, 94",candelaria,PR
+Sr. Fernando Moraes,768.***.***-95,98.0,1927-08-06,"área moreira, 8",grajaú,PA
+Luiza Araújo,246.***.***-10,70.0,1954-03-28,jardim de dias,mirtes,CE
+Maria Luiza Pires,620.***.***-67,48.0,1977-08-23,"viela de gonçalves, 79",vila havaí,SC
+João Lucas Das Neves,974.***.***-49,50.0,1975-03-17,"campo de nascimento, 5",serra do curral,SP
+Vitor Gabriel Carvalho,387.***.***-92,88.0,1937-08-14,"viaduto farias, 15",sagrada família,PR
+Henrique Sales,196.***.***-39,59.0,1966-05-21,"jardim cavalcanti, 94",petropolis,BA
+Henrique Ferreira,360.***.***-07,31.0,1994-10-25,"lago de lopes, 6",floramar,GO
+Dra. Raquel Da Mota,263.***.***-78,34.0,1991-01-02,"aeroporto de fogaça, 29",santa sofia,TO
+Levi Melo,513.***.***-09,37.0,1988-05-03,"travessa de da luz, 42",vila nova paraíso,MS
+Ana Luiza Gomes,287.***.***-12,34.0,1991-08-14,"estação de da costa, 211",pilar,PA
+Isaac Fernandes,572.***.***-07,79.0,1946-04-26,"recanto rodrigues, 80",minas caixa,PI
+Leandro Fernandes,018.***.***-15,67.0,1958-10-19,"praia daniel barbosa, 847",silveira,BA
+Dr. Breno Sales,135.***.***-42,79.0,1946-05-08,estação miguel rodrigues,coração de jesus,AL
+Rafael Araújo,481.***.***-17,86.0,1939-09-25,"trevo sofia moreira, 67",alta tensão 1ª seção,CE
+Eduardo Da Costa,043.***.***-31,75.0,1950-06-14,"quadra de alves, 729",camponesa 2ª seção,PA
+Dra. Larissa Fernandes,562.***.***-00,99.0,1926-07-18,"aeroporto jesus, 2",são francisco,ES
+Milena Da Rocha,864.***.***-49,81.0,1944-01-20,"alameda araújo, 53",piratininga,MS
+Eduarda Aragão,362.***.***-90,78.0,1947-10-07,"viela de sales, 68",nova esperança,TO
+Sr. Ian Barbosa,149.***.***-70,68.0,1957-10-27,"morro ryan da luz, 43",vila nova gameleira 2ª seção,PB
+Ian Cardoso,731.***.***-78,85.0,1940-04-23,área ferreira,jardim montanhês,AP
+Vitor Gabriel Ferreira,916.***.***-01,54.0,1970-10-29,"conjunto farias, 36",silveira,SE
+Rodrigo Melo,982.***.***-89,45.0,1980-07-04,praia marina da rosa,são jorge 3ª seção,AC
+Anthony Rezende,831.***.***-66,95.0,1930-07-16,"via de viana, 68",beija flor,SC
+Sra. Bianca Farias,783.***.***-26,33.0,1991-10-30,"viela campos, 2",anchieta,MG
+João Carvalho,298.***.***-50,93.0,1932-10-22,"vereda de aragão, 15",horto,RR
+Benício Da Costa,783.***.***-07,30.0,1995-07-03,"vereda de souza, 13",europa,PR
+Yuri Alves,896.***.***-03,88.0,1937-10-16,"colônia da costa, 7",ouro minas,SE
+Gabriela Da Rosa,210.***.***-31,78.0,1947-12-18,"vale de caldeira, 8",ribeiro de abreu,AL
+Eduarda Da Conceição,238.***.***-00,100.0,1925-01-09,"praia de silva, 91",joão pinheiro,ES
+Vicente Aragão,875.***.***-88,98.0,1927-11-03,avenida da luz,vila inestan,AL
+Srta. Sabrina Teixeira,682.***.***-89,89.0,1936-06-01,"estrada de da rosa, 69",jonas veiga,AP
+Antônio Santos,198.***.***-03,87.0,1938-09-14,"morro da rocha, 84",tirol,MT
+Dr. Lucca Pinto,526.***.***-09,23.0,2002-10-26,"estrada sabrina freitas, 40",acaba mundo,DF
+Emilly Vieira,924.***.***-33,73.0,1952-11-01,"recanto miguel moraes, 45",penha,RS
+Dr. Gabriel Da Mata,701.***.***-69,59.0,1965-02-28,"feira de farias, 28",horto,RS
+Emanuella Azevedo,406.***.***-01,71.0,1954-11-23,"sítio moura, 50",ápia,GO
+Ana Julia Rocha,618.***.***-60,49.0,1976-08-18,"trevo davi lucca da cruz, 72",boa união 1ª seção,PI
+Milena Castro,482.***.***-82,61.0,1964-02-06,"chácara da mota, 218",conjunto floramar,RJ
+Lavínia Peixoto,204.***.***-50,74.0,1951-11-08,"feira martins, 78",estrela do oriente,RN
+Enzo Gabriel Gomes,893.***.***-40,30.0,1995-12-20,"setor luiz henrique monteiro, 4",madri,MG
+Laura Fogaça,196.***.***-80,36.0,1989-12-12,"chácara de da mota, 4",pompéia,PA
+Sr. Vitor Da Mata,062.***.***-78,62.0,1963-10-06,Endereco inválido,Desconhecido,Desconhecido
+Sophie Pinto,023.***.***-40,30.0,1995-01-27,residencial noah mendes,vila atila de paiva,SC
+Sr. Kaique Peixoto,726.***.***-47,63.0,1962-03-20,"fazenda moraes, 80",vila vista alegre,ES
+Luiz Henrique Mendes,248.***.***-76,91.0,1934-01-18,"travessa leandro da mata, 898",vila sesc,RO
+Sr. Felipe Barros,569.***.***-57,50.0,1975-04-08,"área raquel moura, 8",mangabeiras,TO
+Ana Beatriz Pereira,798.***.***-01,55.0,1970-01-01,condomínio de santos,jaraguá,MG
+Sr. Rafael Silva,238.***.***-15,28.0,1997-04-26,"estação lara almeida, 67",sagrada família,PE
+Dra. Olivia Mendes,189.***.***-05,92.0,1933-10-10,residencial de mendes,jardim guanabara,RR
+Eduardo Sales,052.***.***-74,41.0,1984-12-11,"aeroporto emanuel barros, 4",tres marias,DF
+André Rodrigues,375.***.***-91,74.0,1951-02-18,"trecho gomes, 3",barreiro,GO
+Sophia Cavalcanti,092.***.***-56,93.0,1932-05-25,"alameda paulo da cruz, 70",vila madre gertrudes 3ª seção,PR
+Carolina Sales,519.***.***-40,33.0,1992-02-06,"residencial pinto, 95",etelvina carneiro,DF
+Lucas Monteiro,654.***.***-37,77.0,1947-06-29,"lagoa de silveira, 91",trevo,PI
+João Felipe Dias,850.***.***-42,53.0,1972-04-03,"condomínio moura, 504",santa helena,SE
+Dr. Ian Fogaça,248.***.***-32,94.0,1931-01-25,distrito de cavalcanti,vila barragem santa lúcia,RJ
+Lorena Barros,785.***.***-10,85.0,1940-04-24,"favela letícia jesus, 34",novo ouro preto,MG
+Sra. Ana Clara Teixeira,760.***.***-59,51.0,1974-11-23,"feira de da conceição, 796",mangabeiras,SE
+Natália Monteiro,481.***.***-60,83.0,1942-10-22,morro de ramos,conjunto taquaril,AM
+Eduarda Duarte,893.***.***-30,22.0,2003-10-10,"quadra lopes, 69",vila da paz,CE
+Larissa Carvalho,632.***.***-37,93.0,1932-05-21,"jardim de carvalho, 5",santo andré,AL
+Lara Moraes,549.***.***-09,20.0,2005-09-02,"vereda araújo, 18",garças,PI
+Sophie Da Rosa,254.***.***-50,99.0,1926-10-06,"pátio fernandes, 59",vila ouro minas,AM
+Olivia Martins,391.***.***-39,84.0,1941-04-13,"jardim vinicius caldeira, 28",jonas veiga,DF
+Thomas Barros,105.***.***-12,73.0,1951-07-31,"passarela de araújo, 123",andiroba,AM
+Davi Luiz Azevedo,478.***.***-31,60.0,1964-11-30,"rodovia eduarda ramos, 87",engenho nogueira,PB
+Danilo Santos,297.***.***-55,99.0,1926-12-17,"viela ana júlia fernandes, 25",pirineus,AC
+Sr. Enzo Porto,496.***.***-67,100.0,1925-04-20,"vereda cauê barbosa, 141",conjunto providencia,MA
+Bianca Alves,304.***.***-57,69.0,1956-11-22,"campo rodrigues, 351",brasil industrial,MS
+Alexia Das Neves,267.***.***-00,87.0,1938-04-16,"residencial de sales, 5",vila cloris,SE
+Esther Campos,523.***.***-53,60.0,1965-07-25,"área de castro, 108",nova vista,PI
+Ana Júlia Freitas,584.***.***-17,59.0,1965-06-28,"estrada fernanda jesus, 2",santa margarida,AC
+Maria Vitória Da Mata,826.***.***-76,58.0,1967-01-02,"lagoa pietro da cruz, 524",vila santa monica 2ª seção,RO
+Ryan Da Mata,172.***.***-80,22.0,2003-06-17,"rodovia de porto, 90",marieta 2ª seção,GO
+Emilly Ribeiro,584.***.***-05,23.0,2002-03-16,"parque de gomes, 71",mala e cuia,PA
+Bernardo Pinto,217.***.***-12,96.0,1929-10-07,"esplanada de moura, 30",vila petropolis,PA
+Nicole Peixoto,829.***.***-89,69.0,1956-12-02,distrito moraes,indaiá,MS
+Isaac Da Conceição,867.***.***-85,77.0,1948-11-10,"lago da luz, 59",suzana,AM
+Davi Lucca Santos,571.***.***-73,63.0,1962-01-22,"favela beatriz da costa, 77",antonio ribeiro de abreu 1ª seção,RJ
+Paulo Lopes,186.***.***-11,69.0,1956-05-05,"passarela davi lucca lopes, 37",ernesto nascimento,MG
+Sophie Vieira,938.***.***-83,38.0,1987-06-09,"vereda de da mota, 564",jaqueline,MA
+Rodrigo Da Cruz,648.***.***-11,52.0,1973-01-20,"favela costa, 372",serra,GO
+Sr. Samuel Barbosa,903.***.***-23,32.0,1993-12-08,"distrito jesus, 34",vila rica,RS
+Dr. Cauê Ramos,109.***.***-34,72.0,1953-07-26,"viela de castro, 27",álvaro camargos,DF
+Bruno Jesus,354.***.***-42,28.0,1997-03-19,"campo moreira, 48",tirol,RN
+Lívia Correia,843.***.***-65,53.0,1972-01-20,"favela de da rocha, 6",carlos prates,MS
+Enrico Da Rocha,241.***.***-05,28.0,1997-08-11,condomínio maria julia cavalcanti,vila são dimas,PA
+Rafaela Aragão,269.***.***-22,75.0,1950-06-18,chácara maria fernanda castro,marajó,PB
+Dr. Marcos Vinicius Farias,475.***.***-80,89.0,1936-01-19,ladeira castro,jardim são josé,MA
+Larissa Lopes,015.***.***-12,79.0,1946-03-27,"largo cavalcanti, 96",floramar,SC
+Isadora Carvalho,917.***.***-13,,1924-09-06,"pátio de da paz, 57",são joão,SC
+Sr. Vitor Da Rocha,234.***.***-51,79.0,1946-05-21,"recanto de novaes, 32",serra do curral,TO
+Isadora Pereira,501.***.***-06,93.0,1932-01-08,"jardim stella da costa, 91",pompéia,BA
+Dr. Bernardo Da Cunha,147.***.***-79,52.0,1973-10-24,"residencial marina azevedo, 89",lagoinha leblon,MT
+Gabrielly Mendes,954.***.***-50,48.0,1977-04-13,"praça joão rezende, 30",céu azul,RJ
+Sr. Bruno Da Mata,473.***.***-99,95.0,1930-03-18,"chácara alice ferreira, 678",vila calafate,TO
+Breno Rocha,237.***.***-52,61.0,1964-05-01,estação de rodrigues,tres marias,PA
+Luigi Ferreira,148.***.***-19,71.0,1954-08-11,trevo vieira,nossa senhora aparecida,AP
+Davi Lucca Da Cruz,862.***.***-78,73.0,1952-08-19,"sítio de novaes, 75",vila são dimas,AL
+Henrique Almeida,824.***.***-31,61.0,1964-10-26,"área da costa, 29",dona clara,MS
+Dr. Vitor Hugo Caldeira,943.***.***-42,36.0,1988-01-29,"feira da costa, 17",vila dos anjos,SE
+Alexia Souza,348.***.***-48,72.0,1953-09-20,"lagoa alves, 97",buritis,MT
+Luiza Azevedo,683.***.***-92,75.0,1950-10-15,"recanto elisa da mota, 8",alípio de melo,AL
+Dr. Kaique Da Mota,143.***.***-60,93.0,1932-10-03,"setor vinicius moraes, 475",nossa senhora aparecida,TO
+Laura Lima,051.***.***-41,84.0,1941-07-19,"área oliveira, 91",são paulo,SP
+Raul Rodrigues,039.***.***-05,56.0,1969-03-10,"aeroporto da rocha, 499",estrela,BA
+Joaquim Melo,305.***.***-21,93.0,1932-11-23,"ladeira ribeiro, 6",vila santo antônio,PE
+Benjamin Cardoso,054.***.***-44,82.0,1943-09-08,"trevo da cunha, 2",são bento,AL
+João Miguel Lopes,741.***.***-26,35.0,1990-05-07,"via de nunes, 63",olaria,ES
+Letícia Da Mota,587.***.***-02,25.0,2000-02-26,"travessa de lopes, 205",mariano de abreu,CE
+Levi Da Rocha,840.***.***-92,42.0,1983-10-09,"via brenda cunha, 49",vila da ária,AC
+Lorena Caldeira,625.***.***-60,54.0,1971-02-02,"praça ana luiza fernandes, 5",conjunto jatoba,BA
+Cauê Nogueira,473.***.***-64,97.0,1927-08-30,recanto melo,conjunto providencia,ES
+Sra. Yasmin Ferreira,805.***.***-68,86.0,1938-08-29,"lago de da cunha, 6",custodinha,RN
+Nicole Almeida,529.***.***-79,91.0,1934-03-05,chácara joão gabriel nogueira,goiania,MG
+Fernando Pereira,560.***.***-59,48.0,1977-03-11,"trecho de rodrigues, 659",alto das antenas,PR
+Breno Pereira,916.***.***-91,30.0,1995-08-09,"residencial gabriela azevedo, 35",vila rica,PI
+Clara Dias,190.***.***-50,40.0,1985-11-16,"conjunto da conceição, 39",outro,DF
+Dra. Milena Vieira,237.***.***-87,71.0,1954-09-16,"campo camila das neves, 14",granja de freitas,MG
+Vitor Gabriel Porto,394.***.***-43,88.0,1937-06-14,"residencial luiza correia, 598",savassi,ES
+Sr. Erick Da Rosa,971.***.***-84,27.0,1998-12-14,núcleo de caldeira,vila são joão batista,AL
+Marcos Vinicius Da Cunha,709.***.***-04,34.0,1991-07-25,"lagoa de rodrigues, 23",vila nova,RN
+Sra. Nina Pires,651.***.***-26,46.0,1979-09-23,"viela eloah cunha, 42",vila suzana primeira seção,RS
+Felipe Ribeiro,259.***.***-60,79.0,1946-10-24,"núcleo maria julia cunha, 21",vila santa rosa,PE
+Maria Julia Porto,864.***.***-07,36.0,1989-01-18,alameda nascimento,vila suzana primeira seção,GO
+Pedro Cardoso,125.***.***-50,36.0,1988-05-28,"travessa de da rosa, 86",itaipu,PA
+Rebeca Da Paz,047.***.***-66,59.0,1966-04-11,"sítio de costa, 5",pantanal,TO
+Enrico Gonçalves,637.***.***-46,85.0,1940-01-24,campo bernardo barros,conjunto são francisco de assis,MG
+Murilo Campos,031.***.***-22,99.0,1926-09-20,recanto silva,joão paulo ii,SP
+Olivia Porto,608.***.***-65,40.0,1985-12-23,"conjunto almeida, 3",bela vitoria,AC
+Mirella Da Conceição,854.***.***-05,41.0,1984-11-21,"pátio joão lucas cardoso, 77",maria tereza,AM
+Stephany Cardoso,453.***.***-46,91.0,1934-06-09,"praia luiz gustavo da luz, 83",são joão batista,RO
+Sr. Enrico Melo,829.***.***-89,,1924-09-05,"esplanada farias, 252",caetano furquim,GO
+Dr. Gabriel Souza,432.***.***-52,25.0,2000-06-21,"rodovia de costela, 116",são geraldo,CE
+Davi Jesus,914.***.***-70,53.0,1972-11-27,"quadra vieira, 230",cdi jatoba,RO
+Guilherme Freitas,517.***.***-07,45.0,1980-07-12,"trecho de caldeira, 369",santa sofia,SE
+Theo Costa,705.***.***-49,83.0,1942-07-20,"largo joão santos, 10",vila batik,RN
+Dr. Gustavo Henrique Das Neves,430.***.***-00,100.0,1925-11-26,"setor juliana fogaça, 605",piraja,MA
+Maria Luiza Gomes,821.***.***-53,81.0,1944-11-02,"área ana vitória martins, 56",xodo-marize,BA
+Davi Lucas Peixoto,610.***.***-07,38.0,1987-04-07,"área thomas moraes, 58",canaa,RJ
+Bruna Almeida,610.***.***-57,73.0,1952-03-26,"chácara mendes, 64",varzea da palma,PR
+Juliana Ramos,846.***.***-05,22.0,2003-07-11,"vale de duarte, 5",horto florestal,AM
+Sarah Nascimento,560.***.***-99,78.0,1946-06-30,"alameda das neves, 1",planalto,MT
+Brenda Da Luz,037.***.***-22,75.0,1950-03-11,"viela danilo farias, 54",lagoa,PE
+Heloísa Da Costa,648.***.***-19,82.0,1943-08-12,"favela correia, 6",vila dos anjos,SE
+Emanuella Araújo,758.***.***-82,65.0,1960-02-21,rodovia maria julia peixoto,jardim guanabara,AC
+Vitor Viana,036.***.***-34,67.0,1958-04-13,"trecho de oliveira, 41",urca,AC
+Yago Lopes,720.***.***-59,77.0,1948-05-05,"lagoa danilo fogaça, 756",nova gameleira,RO
+Lívia Souza,308.***.***-50,37.0,1988-09-11,"colônia de correia, 93",laranjeiras,CE
+Gabriela Cavalcanti,359.***.***-41,58.0,1967-04-05,"setor oliveira, 4",são josé,MA
+Enzo Nogueira,309.***.***-00,82.0,1942-01-30,morro de ferreira,vila são joão batista,MG
+Dr. Ian Barbosa,412.***.***-03,92.0,1933-04-10,"alameda eduardo barros, 60",gameleira,PI
+Gabriela Rocha,348.***.***-35,36.0,1989-11-17,"área joaquim nogueira, 98",pedreira padro lopes,MA
+Maria Julia Martins,576.***.***-12,83.0,1942-11-12,"loteamento de nunes, 83",jatobá,PB
+Dra. Marina Santos,950.***.***-02,59.0,1966-04-11,"viela alana souza, 456",união,DF
+Heloísa Teixeira,635.***.***-07,89.0,1936-05-23,"viela de da cruz, 61",bonsucesso,PA
+Paulo Farias,593.***.***-15,74.0,1951-11-18,"esplanada thomas pires, 33",providencia,AP
+Gabrielly Cardoso,127.***.***-43,97.0,1928-07-26,estrada da cruz,aparecida,AP
+Davi Aragão,598.***.***-20,37.0,1988-09-24,"residencial de cardoso, 66",vila santo antônio,SE
+Yago Peixoto,380.***.***-05,96.0,1929-02-12,"condomínio de nunes, 436",vila betânia,PI
+Erick Da Conceição,983.***.***-83,62.0,1963-08-25,"morro nunes, 657",ipe,CE
+Isis Araújo,216.***.***-13,71.0,1954-06-08,"praia de campos, 82",vila oeste,SP
+Dr. Nicolas Rezende,460.***.***-49,43.0,1982-07-01,"esplanada marcela castro, 36",flavio de oliveira,PA
+Sr. Samuel Nascimento,914.***.***-24,67.0,1958-12-09,setor luana ramos,nova pampulha,AC
+Sra. Maria Fernanda Barbosa,718.***.***-03,91.0,1934-11-02,"esplanada pedro nascimento, 71",vila são paulo,GO
+Luiz Felipe Farias,069.***.***-74,82.0,1943-04-26,"favela kaique fogaça, 19",castelo,AL
+Sr. Calebe Silva,402.***.***-49,63.0,1962-05-24,rodovia de castro,santa branca,ES
+Emanuella Gonçalves,107.***.***-02,71.0,1954-07-17,Endereco inválido,Desconhecido,Desconhecido
+Augusto Oliveira,246.***.***-17,33.0,1992-02-27,"colônia costa, 81",vera cruz,RO
+Pedro Azevedo,953.***.***-65,69.0,1956-03-02,"vale vieira, 49",comiteco,RS
+Sra. Maria Luiza Fogaça,650.***.***-06,69.0,1956-12-12,"recanto de moreira, 426",santo agostinho,MT
+Eduarda Oliveira,365.***.***-83,60.0,1965-09-27,"sítio clarice sales, 99",silveira,PB
+Paulo Ramos,490.***.***-43,23.0,2002-11-13,sítio azevedo,vila mantiqueira,DF
+Beatriz Pires,275.***.***-21,35.0,1990-03-11,recanto de castro,centro,MA
+Fernando Azevedo,790.***.***-99,30.0,1995-05-19,"estação rafael nunes, 90",jardim são josé,RO
+Eloah Silva,037.***.***-61,89.0,1935-03-30,"viela da rocha, 160",barão homem de melo 2ª seção,BA
+Caio Araújo,407.***.***-14,36.0,1989-12-18,"morro ribeiro, 11",casa branca,GO
+Sra. Valentina Sales,269.***.***-31,86.0,1939-08-08,"sítio ramos, 73",cachoeirinha,MG
+Melissa Cunha,719.***.***-73,26.0,1999-02-17,"ladeira luiza pinto, 9",conjunto minas caixa,MT
+Laís Da Paz,139.***.***-33,98.0,1927-01-09,"lagoa cavalcanti, 12",vila ecológica,SP
+Heitor Silveira,183.***.***-89,90.0,1935-02-19,avenida azevedo,santa maria,MA
+Fernanda Moraes,064.***.***-44,46.0,1979-03-18,"avenida rocha, 13",alta tensão 2ª seção,PI
+Alana Souza,801.***.***-42,52.0,1973-12-06,"praia moreira, 1",cardoso,SE
+Srta. Caroline Da Rosa,192.***.***-98,53.0,1972-05-26,"passarela rocha, 96",buraco quente,SP
+Stephany Vieira,682.***.***-22,48.0,1977-05-22,"travessa guilherme carvalho, 7",jonas veiga,MS
+Enzo Barros,794.***.***-16,68.0,1957-01-13,"estação fernandes, 85",nova floresta,GO
+Caroline Peixoto,036.***.***-30,68.0,1957-11-02,"loteamento thales pires, 51",vila união,RR
+Maria Vitória Novaes,804.***.***-58,41.0,1984-08-08,"via vieira, 26",ouro preto,GO
+Bruna Moura,240.***.***-06,95.0,1930-02-13,"quadra amanda martins, 4",universo,MG
+Maitê Peixoto,501.***.***-58,63.0,1962-04-07,"distrito caldeira, 95",serra,PI
+Dr. Anthony Barbosa,749.***.***-20,21.0,2004-03-18,"distrito de fogaça, 13",pompéia,AP
+Alexandre Jesus,269.***.***-34,70.0,1955-03-01,"aeroporto de fogaça, 74",vila santa monica 2ª seção,BA
+Marcos Vinicius Campos,421.***.***-22,47.0,1978-11-19,"trecho de barbosa, 7",são josé,RJ
+João Miguel Moura,371.***.***-05,,1894-07-21,"praça de costela, 38",renascença,MS
+Ana Júlia Cardoso,096.***.***-00,,1917-10-02,"praia da mata, 88",vila piratininga venda nova,RJ
+Stella Rodrigues,870.***.***-92,,1897-10-11,"loteamento maria alice costela, 63",santa maria,ES
+Rebeca Da Rosa,640.***.***-22,12.0,2013-01-01,trecho da mata,barroca,SC
+Henrique Monteiro,378.***.***-73,7.0,2018-03-09,"largo theo silva, 91",nossa senhora da conceição,SP
+Ana Beatriz Teixeira,243.***.***-17,,1916-03-14,"viaduto ferreira, 22",goiania,PE
+Luigi Da Rosa,316.***.***-87,7.0,2018-08-23,"pátio de rocha, 4",cinquentenário,MG
+Melissa Dias,170.***.***-05,11.0,2014-02-21,"quadra isabel castro, 40",biquinhas,PI
+Beatriz Nunes,483.***.***-44,,1894-05-24,"praça das neves, 274",são jorge 3ª seção,SC
+Raquel Campos,213.***.***-13,,1899-08-19,"estação ana lívia farias, 3",vila santa rosa,GO
+Alícia Nascimento,578.***.***-59,,1913-03-27,"aeroporto alícia vieira, 84",comiteco,TO
+Maria Julia Vieira,495.***.***-67,,1905-03-20,"vale oliveira, 15",gameleira,PR
+Igor Ramos,695.***.***-77,7.0,2017-06-29,"lago de caldeira, 4",beija flor,AC
+Alice Cardoso,123.***.***-09,6.0,2019-10-14,"viaduto araújo, 76",são bento,PR
+Julia Das Neves,201.***.***-32,,1901-06-30,"praça maria sophia da cunha, 71",vila batik,PI
+Kamilly Rezende,470.***.***-74,,1883-06-04,"setor de pires, 39",conjunto jatoba,RO
+Breno Freitas,205.***.***-41,17.0,2008-03-03,"loteamento de ferreira, 24",nova suíça,PA
+Ana Lívia Da Paz,347.***.***-69,19.0,2006-09-01,"ladeira gomes, 10",califórnia,RJ
+Sr. Daniel Cavalcanti,609.***.***-33,7.0,2018-01-09,"núcleo de da paz, 894",sion,GO
+Sr. Pedro Cavalcanti,863.***.***-84,3.0,2022-12-20,recanto de melo,nossa senhora do rosário,BA
+João Melo,053.***.***-20,,,"via de santos, 172",jardinópolis,AL
+Eloah Viana,694.***.***-22,,,"chácara isabella melo, 9",engenho nogueira,PB
+Catarina Vieira,631.***.***-28,,,"lagoa moraes, 1",fazendinha,GO
+Dra. Emanuelly Da Luz,549.***.***-20,,,"trevo peixoto, 13",jardim alvorada,RS
+Júlia Araújo,324.***.***-14,,,"passarela de alves, 45",conjunto celso machado,AL
+Enrico Aragão,496.***.***-34,,,trevo de porto,jardim leblon,AM
+Sr. Bruno Pires,428.***.***-49,,,"quadra pinto, 896",nova gameleira,AM
+Daniela Freitas,786.***.***-28,,,"aeroporto de pires, 59",nossa senhora da conceição,CE
+Samuel Caldeira,801.***.***-86,,,campo monteiro,cabana do pai tomás,AP
+Nome inválido,930.***.***-38,40.0,1985-10-14,"colônia da rocha, 31",jardim américa,RN
+Nome inválido,146.***.***-00,95.0,1930-08-27,"estrada nogueira, 21",atila de paiva,PB
+Renan Da Luz,294.***.***-23,75.0,1949-07-29,rua não cadastrada,bairro não cadastrado,PR
+Caroline Costa,401.***.***-88,22.0,2003-02-20,rua não cadastrada,bairro não cadastrado,RS
+Giovanna Farias,241.***.***-35,42.0,1983-08-14,rua não cadastrada,bairro não cadastrado,RJ
+Maitê Araújo,496.***.***-55,54.0,1971-07-10,rua não cadastrada,bairro não cadastrado,RS
+Lavínia Da Mota,039.***.***-00,21.0,2003-01-31,rua não cadastrada,bairro não cadastrado,ES
+Igor Cardoso,345.***.***-05,50.0,1975-01-25,rua não cadastrada,bairro não cadastrado,AM
+Maria Julia Campos,018.***.***-13,100.0,1925-08-08,rua não cadastrada,bairro não cadastrado,MG
+Marcos Vinicius Das Neves,617.***.***-02,87.0,1938-03-23,rua não cadastrada,bairro não cadastrado,RO
+Isabel Barbosa,986.***.***-02,28.0,1997-12-17,rua não cadastrada,bairro não cadastrado,MG
+Ryan Gomes,861.***.***-60,59.0,1966-05-17,rua não cadastrada,bairro não cadastrado,SP
+Breno Duarte,463.***.***-98,68.0,1957-10-07,rua não cadastrada,bairro não cadastrado,TO
+Eloah Peixoto,064.***.***-16,81.0,1944-05-23,rua não cadastrada,bairro não cadastrado,MG
+Luiza Sales,726.***.***-80,57.0,1968-05-01,rua não cadastrada,bairro não cadastrado,GO
+Dr. Alexandre Sales,427.***.***-40,89.0,1936-06-05,rua não cadastrada,bairro não cadastrado,SP
+Alícia Campos,162.***.***-94,50.0,1975-03-20,rua não cadastrada,bairro não cadastrado,GO
+Luigi Porto,826.***.***-83,45.0,1980-08-18,"parque de santos, 88",são joão,PI
