@@ -9,7 +9,7 @@ print(df.head())
 df.drop('pais',axis=1,inplace=True) #coluna (axis=1)
 df.drop(2,axis=0,inplace=True) # remover linha (axis=0)
 
-#normalizar texto
+##normalizar texto
 df['nome']=df['nome'].str.title() #primera letra
 df['endereco']=df['endereco'].str.lower() #minuculo
 df['estado']=df['estado'].str.strip().str.upper()
