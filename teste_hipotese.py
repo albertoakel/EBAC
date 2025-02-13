@@ -26,23 +26,23 @@ def teste_hipotese(amostra, valor_referencia, desvio_padrao_populacional=None, h
         # Teste Z
         print("Usando o teste Z (desvio padrão populacional conhecido).")
         estatistica = (media_amostra - valor_referencia) / (desvio_padrao_populacional / np.sqrt(n))
-        distribuição = norm  # Distribuição normal padrão
+        distribuicao = norm  # distribuicao normal padrão
     else:
         # Teste t
         print("Usando o teste t (desvio padrão populacional desconhecido).")
         desvio_padrao_amostra = np.std(amostra, ddof=1)  # Desvio padrão amostral
         estatistica = (media_amostra - valor_referencia) / (desvio_padrao_amostra / np.sqrt(n))
-        distribuição = stats.t(df=n-1)  # Distribuição t de Student
+        distribuicao = stats.t(df=n-1)  # distribuicao t de Student
 
     # Calcular o valor-p com base na hipótese alternativa
     if hipotese_alternativa == 'maior':
-        p_value = 1 - distribuição.cdf(estatistica)  # Teste unicaudal à direita
+        p_value = 1 - distribuicao.cdf(estatistica)  # Teste unicaudal à direita
         tipo_teste = "unicaudal à direita"
     elif hipotese_alternativa == 'menor':
-        p_value = distribuição.cdf(estatistica)  # Teste unicaudal à esquerda
+        p_value = distribuicao.cdf(estatistica)  # Teste unicaudal à esquerda
         tipo_teste = "unicaudal à esquerda"
     elif hipotese_alternativa == 'diferente':
-        p_value = 2 * (1 - distribuição.cdf(abs(estatistica)))  # Teste bicaudal
+        p_value = 2 * (1 - distribuicao.cdf(abs(estatistica)))  # Teste bicaudal
         tipo_teste = "bicaudal"
     else:
         raise ValueError("Hipótese alternativa inválida. Use 'maior', 'menor' ou 'diferente'.")
@@ -94,11 +94,11 @@ else:
 
 # Gerar valores para o eixo x
 x = np.linspace(-4, 4, 1000)
-y = t.pdf(x, df)  # Densidade de probabilidade da distribuição t de Student
+y = t.pdf(x, df)  # Densidade de probabilidade da distribuicao t de Student
 
 # Criar o gráfico
 plt.figure(figsize=(10, 6))
-plt.plot(x, y, label=f"Distribuição t de Student  (df = {df})")
+plt.plot(x, y, label=f"distribuicao t de Student  (df = {df})")
 
 # Preencher as áreas de rejeição (caudas)
 critical_value = t.ppf(1 - alpha/2, df)  # Valor crítico positivo
