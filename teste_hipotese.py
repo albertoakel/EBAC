@@ -76,7 +76,7 @@ notas = np.random.normal(7.0, 1.0, size=1000)  # 1000 notas com média 7.2 e des
 print("\nTeste 3: Média diferente de 7.0")
 teste_hipotese(notas, valor_referencia=7.0, desvio_padrao_populacional=1.0, hipotese_alternativa='diferente')
 
-
+import seaborn as sns
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import t
@@ -115,3 +115,6 @@ plt.ylabel("Densidade de probabilidade")
 plt.legend()
 plt.grid()
 plt.show()
+
+
+tips = sns.load_dataset("tips")  # Dataset de exemplo do Seaborn
