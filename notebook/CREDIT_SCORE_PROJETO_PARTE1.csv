@@ -1,0 +1,165 @@
+Age;Gender;Income;Education;Marital Status;Number of Children;Home Ownership;Credit Score
+25;Female;50.000,00;Bachelor's Degree;Single;0;Rented;High
+30;Male;100.000,00;Master's Degree;Married;2;Owned;High
+35;Female;75.000,00;Doctorate;Married;1;Owned;High
+40;Male;125.000,00;High School Diploma;Single;0;Owned;High
+45;Female;100.000,00;Bachelor's Degree;Married;3;Owned;High
+50;Male;150.000,00;Master's Degree;Married;0;Owned;High
+26;Female;40.000,00;Associate's Degree;Single;0;Rented;Average
+31;Male;60.000,00;Bachelor's Degree;Single;0;Rented;Average
+;Female;80.000,00;Master's Degree;Married;2;Owned;High
+;Male;105.000,00;Doctorate;Single;0;Owned;High
+;Female;90.000,00;High School Diploma;Married;1;Owned;High
+;Male;135.000,00;Bachelor's Degree;Married;0;Owned;High
+;Female;35.000,00;High School Diploma;Single;0;Rented;Low
+;Male;55.000,00;Associate's Degree;Single;0;Rented;Average
+;Female;70.000,00;Bachelor's Degree;Married;2;Owned;High
+;Male;95.000,00;Master's Degree;Single;0;Owned;High
+;Female;85.000,00;Doctorate;Married;1;Owned;High
+;Male;125.000,00;High School Diploma;Married;0;Owned;High
+;Female;30.000,00;Associate's Degree;Single;0;Rented;Low
+;Male;50.000,00;High School Diploma;Single;0;Rented;Average
+;Female;65.000,00;Bachelor's Degree;Married;2;Owned;High
+43;Male;80.000,00;Master's Degree;Single;0;Owned;High
+48;Female;70.000,00;Doctorate;Married;1;Owned;High
+53;Male;115.000,00;Associate's Degree;Married;0;Owned;High
+29;Female;25.000,00;High School Diploma;Single;0;Rented;Low
+34;Male;45.000,00;Associate's Degree;Single;0;Rented;Average
+39;Female;60.000,00;Bachelor's Degree;Married;2;Owned;High
+44;Male;75.000,00;Master's Degree;Single;0;Owned;High
+49;Female;65.000,00;Doctorate;Married;1;Owned;High
+25;Female;55.000,00;Bachelor's Degree;Single;0;Rented;Average
+30;Male;105.000,00;Master's Degree;Married;2;Owned;High
+35;Female;80.000,00;Doctorate;Married;1;Owned;High
+40;Male;130.000,00;High School Diploma;Single;0;Owned;High
+45;Female;105.000,00;Bachelor's Degree;Married;3;Owned;High
+50;Male;155.000,00;Master's Degree;Married;0;Owned;High
+26;Female;45.000,00;Associate's Degree;Single;0;Rented;Average
+31;Male;65.000,00;Bachelor's Degree;Single;0;Rented;Average
+36;Female;85.000,00;Master's Degree;Married;2;Owned;High
+41;Male;110.000,00;Doctorate;Single;0;Owned;High
+46;Female;95.000,00;High School Diploma;Married;1;Owned;High
+51;Male;140.000,00;Bachelor's Degree;Married;0;Owned;High
+27;Female;37.500,00;High School Diploma;Single;0;Rented;Low
+32;Male;57.500,00;Associate's Degree;Single;0;Rented;Average
+37;Female;72.500,00;Bachelor's Degree;Married;2;Owned;High
+42;Male;100.000,00;Master's Degree;Single;0;Owned;High
+47;Female;90.000,00;Doctorate;Married;1;Owned;High
+52;Male;130.000,00;High School Diploma;Married;0;Owned;High
+28;Female;32.500,00;Associate's Degree;Single;0;Rented;Low
+33;Male;52.500,00;High School Diploma;Single;0;Rented;Average
+38;Female;67.500,00;Bachelor's Degree;Married;2;Owned;High
+43;Male;92.500,00;Master's Degree;Single;0;Owned;High
+48;Female;82.500,00;Doctorate;Married;1;Owned;High
+53;Male;122.500,00;Associate's Degree;Married;0;Owned;High
+29;Female;27.500,00;High School Diploma;Single;0;Rented;Low
+34;Male;47.500,00;Associate's Degree;Single;0;Rented;Average
+39;Female;62.500,00;Bachelor's Degree;Married;2;Owned;High
+44;Male;87.500,00;Master's Degree;Single;0;Owned;High
+49;Female;77.500,00;Doctorate;Married;1;Owned;High
+25;Female;57.500,00;Bachelor's Degree;Single;0;Rented;Average
+30;Male;112.500,00;Master's Degree;Married;2;Owned;High
+35;Female;85.000,00;Doctorate;Married;1;Owned;High
+25;Female;60.000,00;Bachelor's Degree;Single;0;Rented;Average
+30;Male;117.500,00;Master's Degree;Married;2;Owned;High
+35;Female;90.000,00;Doctorate;Married;1;Owned;High
+40;Male;142.500,00;High School Diploma;Single;0;Owned;High
+45;Female;110.000,00;Bachelor's Degree;Married;3;Owned;High
+50;Male;160.000,00;Master's Degree;Married;0;Owned;High
+26;Female;47.500,00;Associate's Degree;Single;0;Rented;Average
+31;Male;67.500,00;Bachelor's Degree;Single;0;Rented;Average
+36;Female;90.000,00;Master's Degree;Married;2;Owned;High
+41;Male;115.000,00;Doctorate;Single;0;Owned;High
+46;Female;97.500,00;High School Diploma;Married;1;Owned;High
+51;Male;145.000,00;Bachelor's Degree;Married;0;Owned;High
+27;Female;37.500,00;High School Diploma;Single;0;Rented;Low
+32;Male;57.500,00;Associate's Degree;Single;0;Rented;Average
+37;Female;75.000,00;Bachelor's Degree;Married;2;Owned;High
+42;Male;105.000,00;Master's Degree;Single;0;Owned;High
+47;Female;95.000,00;Doctorate;Married;1;Owned;High
+52;Male;135.000,00;High School Diploma;Married;0;Owned;High
+28;Female;32.500,00;Associate's Degree;Single;0;Rented;Low
+33;Male;52.500,00;High School Diploma;Single;0;Rented;Average
+;Female;67.500,00;Bachelor's Degree;Married;2;Owned;High
+;Male;92.500,00;Master's Degree;Single;0;Owned;High
+;Female;85.000,00;Doctorate;Married;1;Owned;High
+;Male;125.000,00;Associate's Degree;Married;0;Owned;High
+;Female;27.500,00;High School Diploma;Single;0;Rented;Low
+;Male;47.500,00;Associate's Degree;Single;0;Rented;Average
+;Female;62.500,00;Bachelor's Degree;Married;2;Owned;High
+;Male;87.500,00;Master's Degree;Single;0;Owned;High
+;Female;77.500,00;Doctorate;Married;1;Owned;High
+;Female;57.500,00;Bachelor's Degree;Single;0;Rented;Average
+;Male;112.500,00;Master's Degree;Married;2;Owned;High
+;Female;85.000,00;Doctorate;Married;1;Owned;High
+25;Female;62.500,00;Bachelor's Degree;Single;0;Rented;Average
+30;Male;117.500,00;Master's Degree;Married;2;Owned;High
+35;Female;90.000,00;Doctorate;Married;1;Owned;High
+40;Male;142.500,00;High School Diploma;Single;0;Owned;High
+45;Female;115.000,00;Bachelor's Degree;Married;3;Owned;High
+50;Male;162.500,00;Master's Degree;Married;0;Owned;High
+26;Female;50.000,00;Associate's Degree;Single;0;Rented;Average
+31;Male;70.000,00;Bachelor's Degree;Single;0;Rented;Average
+36;Female;95.000,00;Master's Degree;Married;2;Owned;High
+41;Male;120.000,00;Doctorate;Single;0;Owned;High
+46;Female;102.500,00;High School Diploma;Married;1;Owned;High
+51;Male;150.000,00;Bachelor's Degree;Married;0;Owned;High
+27;Female;37.500,00;High School Diploma;Single;0;Rented;Low
+32;Male;57.500,00;Associate's Degree;Single;0;Rented;Average
+37;Female;77.500,00;Bachelor's Degree;Married;2;Owned;High
+42;Male;110.000,00;Master's Degree;Single;0;Owned;High
+47;Female;97.500,00;Doctorate;Married;1;Owned;High
+52;Male;137.500,00;High School Diploma;Married;0;Owned;High
+28;Female;32.500,00;Associate's Degree;Single;0;Rented;Low
+33;Male;52.500,00;High School Diploma;Single;0;Rented;Average
+38;Female;67.500,00;Bachelor's Degree;Married;2;Owned;High
+43;Male;95.000,00;Master's Degree;Single;0;Owned;High
+48;Female;87.500,00;Doctorate;Married;1;Owned;High
+53;Male;127.500,00;Associate's Degree;Married;0;Owned;High
+29;Female;27.500,00;High School Diploma;Single;0;Rented;Low
+34;Male;47.500,00;Associate's Degree;Single;0;Rented;Average
+39;Female;62.500,00;Bachelor's Degree;Married;2;Owned;High
+44;Male;87.500,00;Master's Degree;Single;0;Owned;High
+49;Female;77.500,00;Doctorate;Married;1;Owned;High
+25;Female;57.500,00;Bachelor's Degree;Single;0;Rented;Average
+30;Male;112.500,00;Master's Degree;Married;2;Owned;High
+35;Female;85.000,00;Doctorate;Married;1;Owned;High
+25;Female;60.000,00;Bachelor's Degree;Single;0;Rented;Average
+30;Male;117.500,00;Master's Degree;Married;2;Owned;High
+35;Female;90.000,00;Doctorate;Married;1;Owned;High
+28;Male;75.000,00;Bachelor's Degree;Single;0;Rented;Average
+33;Female;82.000,00;Master's Degree;Married;1;Owned;High
+31;Male;95.000,00;Doctorate;Single;0;Rented;High
+26;Female;55.000,00;Bachelor's Degree;Married;1;Owned;Average
+32;Male;85.000,00;Master's Degree;Single;0;Rented;High
+29;Female;68.000,00;Doctorate;Married;2;Owned;Average
+34;Male;105.000,00;Bachelor's Degree;Married;1;Rented;High
+25;Female;55.000,00;Bachelor's Degree;Single;0;Rented;Average
+30;Male;105.000,00;Master's Degree;Married;2;Owned;High
+35;Female;80.000,00;Doctorate;Married;1;Owned;High
+40;Male;130.000,00;High School Diploma;Single;0;Owned;High
+45;Female;105.000,00;Bachelor's Degree;Married;3;Owned;High
+50;Male;155.000,00;Master's Degree;Married;0;Owned;High
+26;Female;45.000,00;Associate's Degree;Single;0;Rented;Average
+31;Male;65.000,00;Bachelor's Degree;Single;0;Rented;Average
+36;Female;85.000,00;Master's Degree;Married;2;Owned;High
+;Male;110.000,00;Doctorate;Single;0;Owned;High
+;Female;95.000,00;High School Diploma;Married;1;Owned;High
+;Male;140.000,00;Bachelor's Degree;Married;0;Owned;High
+;Female;37.500,00;High School Diploma;Single;0;Rented;Low
+;Male;57.500,00;Associate's Degree;Single;0;Rented;Average
+;Female;72.500,00;Bachelor's Degree;Married;2;Owned;High
+;Male;100.000,00;Master's Degree;Single;0;Owned;High
+;Female;90.000,00;Doctorate;Married;1;Owned;High
+;Male;130.000,00;High School Diploma;Married;0;Owned;High
+28;Female;32.500,00;Associate's Degree;Single;0;Rented;Low
+33;Male;52.500,00;High School Diploma;Single;0;Rented;Average
+38;Female;67.500,00;Bachelor's Degree;Married;2;Owned;High
+43;Male;92.500,00;Master's Degree;Single;0;Owned;High
+48;Female;82.500,00;Doctorate;Married;1;Owned;High
+53;Male;122.500,00;Associate's Degree;Married;0;Owned;High
+29;Female;27.500,00;High School Diploma;Single;0;Rented;Low
+34;Male;47.500,00;Associate's Degree;Single;0;Rented;Average
+39;Female;62.500,00;Bachelor's Degree;Married;2;Owned;High
+44;Male;87.500,00;Master's Degree;Single;0;Owned;High
+49;Female;77.500,00;Doctorate;Married;1;Owned;High
