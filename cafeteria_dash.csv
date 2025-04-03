@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,Qtd,ID_loja,Loja ,ID,Preco_unid,Categoria,Tipo_Produto,Detalhe_Produto
+1,01/01/2023,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+2,01/01/2023,2,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+3,01/01/2023,2,5,Lower Manhattan,59,4,5,Drinking Chocolate,Hot chocolate
+4,01/01/2023,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+5,01/01/2023,2,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+6,01/01/2023,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+7,01/01/2023,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+8,01/01/2023,2,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+9,01/01/2023,1,5,Lower Manhattan,39,4,25,Coffee,Barista Espresso
+10,01/01/2023,2,5,Lower Manhattan,58,3,5,Drinking Chocolate,Hot chocolate
+11,01/01/2023,1,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+12,01/01/2023,2,5,Lower Manhattan,33,3,5,Coffee,Gourmet brewed coffee
+13,01/01/2023,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+14,01/01/2023,1,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+15,01/01/2023,2,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+16,01/01/2023,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+17,01/01/2023,1,5,Lower Manhattan,79,3,75,Bakery,Scone
+18,01/01/2023,1,8,Hell's Kitchen,42,2,5,Tea,Brewed herbal tea
+19,01/01/2023,2,8,Hell's Kitchen,59,4,5,Drinking Chocolate,Hot chocolate
+20,01/01/2023,1,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+21,01/01/2023,2,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+22,01/01/2023,2,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+23,01/01/2023,1,5,Lower Manhattan,69,3,25,Bakery,Biscotti
+24,01/01/2023,1,8,Hell's Kitchen,56,2,55,Tea,Brewed Chai tea
+25,01/01/2023,1,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+26,01/01/2023,1,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+27,01/01/2023,1,5,Lower Manhattan,76,3,5,Bakery,Biscotti
+28,01/01/2023,2,5,Lower Manhattan,45,3,Tea,Brewed herbal tea,Peppermint Lg
+29,01/01/2023,1,5,Lower Manhattan,71,3,75,Bakery,Pastry
+30,01/01/2023,2,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+31,01/01/2023,1,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+32,01/01/2023,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+33,01/01/2023,2,5,Lower Manhattan,27,3,5,Coffee,Organic brewed coffee
+34,01/01/2023,2,5,Lower Manhattan,29,2,5,Coffee,Gourmet brewed coffee
+35,01/01/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+36,01/01/2023,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+37,01/01/2023,1,5,Lower Manhattan,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+38,01/01/2023,2,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+39,01/01/2023,1,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+40,01/01/2023,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+41,01/01/2023,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+42,01/01/2023,2,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+43,01/01/2023,1,5,Lower Manhattan,78,4,5,Bakery,Scone
+44,01/01/2023,1,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+45,01/01/2023,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+46,01/01/2023,1,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+47,01/01/2023,2,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+48,01/01/2023,1,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+49,01/01/2023,1,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+50,01/01/2023,1,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+51,01/01/2023,1,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+52,01/01/2023,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+53,01/01/2023,2,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+54,01/01/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+55,01/01/2023,1,8,Hell's Kitchen,59,4,5,Drinking Chocolate,Hot chocolate
+56,01/01/2023,1,5,Lower Manhattan,38,3,75,Coffee,Barista Espresso
+57,01/01/2023,1,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+58,01/01/2023,1,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+59,01/01/2023,2,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+60,01/01/2023,1,8,Hell's Kitchen,74,3,5,Bakery,Biscotti
+61,01/01/2023,1,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+62,01/01/2023,2,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+63,01/01/2023,1,5,Lower Manhattan,41,4,25,Coffee,Barista Espresso
+64,01/01/2023,2,5,Lower Manhattan,45,3,Tea,Brewed herbal tea,Peppermint Lg
+65,01/01/2023,1,5,Lower Manhattan,79,3,75,Bakery,Scone
+66,01/01/2023,2,5,Lower Manhattan,54,2,5,Tea,Brewed Chai tea
+67,01/01/2023,1,5,Lower Manhattan,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+68,01/01/2023,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+69,01/01/2023,2,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+70,01/01/2023,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+71,01/01/2023,1,5,Lower Manhattan,69,3,25,Bakery,Biscotti
+72,01/01/2023,1,5,Lower Manhattan,50,2,5,Tea,Brewed Black tea
+73,01/01/2023,1,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+74,01/01/2023,2,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+75,01/01/2023,1,8,Hell's Kitchen,72,3,25,Bakery,Scone
+76,01/01/2023,1,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+77,01/01/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+78,01/01/2023,2,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+79,01/01/2023,1,8,Hell's Kitchen,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+80,01/01/2023,2,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+81,01/01/2023,2,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+82,01/01/2023,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+83,01/01/2023,1,5,Lower Manhattan,71,3,75,Bakery,Pastry
+84,01/01/2023,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+85,01/01/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+86,01/01/2023,2,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+87,01/01/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+88,01/01/2023,2,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+89,01/01/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+90,01/01/2023,2,8,Hell's Kitchen,56,2,55,Tea,Brewed Chai tea
+91,01/01/2023,2,5,Lower Manhattan,58,3,5,Drinking Chocolate,Hot chocolate
+92,01/01/2023,1,5,Lower Manhattan,74,3,5,Bakery,Biscotti
+93,01/01/2023,2,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+94,01/01/2023,1,5,Lower Manhattan,35,3,1,Coffee,Premium brewed coffee
+95,01/01/2023,1,5,Lower Manhattan,70,3,25,Bakery,Scone
+96,01/01/2023,1,8,Hell's Kitchen,60,3,75,Drinking Chocolate,Hot chocolate
+97,01/01/2023,1,5,Lower Manhattan,59,4,5,Drinking Chocolate,Hot chocolate
+98,01/01/2023,2,5,Lower Manhattan,36,3,75,Coffee,Premium brewed coffee
+99,01/01/2023,2,8,Hell's Kitchen,51,3,Tea,Brewed Black tea,Earl Grey Lg
+100,01/02/2023,2,5,Lower Manhattan,61,4,75,Drinking Chocolate,Hot chocolate
+101,01/02/2023,1,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+102,01/02/2023,2,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+103,01/02/2023,1,8,Hell's Kitchen,73,3,75,Bakery,Pastry
+104,01/02/2023,1,5,Lower Manhattan,38,3,75,Coffee,Barista Espresso
+105,01/02/2023,1,5,Lower Manhattan,76,3,5,Bakery,Biscotti
+106,01/02/2023,1,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+107,01/02/2023,1,3,Astoria,38,3,75,Coffee,Barista Espresso
+108,01/02/2023,1,3,Astoria,75,3,5,Bakery,Pastry
+109,01/02/2023,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+110,01/02/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+111,01/02/2023,2,8,Hell's Kitchen,39,4,25,Coffee,Barista Espresso
+112,01/02/2023,1,3,Astoria,59,4,5,Drinking Chocolate,Hot chocolate
+113,01/02/2023,2,8,Hell's Kitchen,51,3,Tea,Brewed Black tea,Earl Grey Lg
+114,01/02/2023,1,3,Astoria,59,4,5,Drinking Chocolate,Hot chocolate
+115,01/02/2023,1,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+116,01/02/2023,1,3,Astoria,79,3,75,Bakery,Scone
+117,01/02/2023,1,3,Astoria,46,2,5,Tea,Brewed Green tea
+118,01/02/2023,1,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+119,01/02/2023,2,3,Astoria,45,3,Tea,Brewed herbal tea,Peppermint Lg
+120,01/02/2023,2,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+121,01/02/2023,2,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+122,01/02/2023,1,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+123,01/02/2023,1,8,Hell's Kitchen,31,2,2,Coffee,Gourmet brewed coffee
+124,01/02/2023,2,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+125,01/02/2023,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+126,01/02/2023,2,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+127,01/02/2023,2,5,Lower Manhattan,40,3,75,Coffee,Barista Espresso
+128,01/02/2023,2,8,Hell's Kitchen,44,2,5,Tea,Brewed herbal tea
+129,01/02/2023,2,3,Astoria,33,3,5,Coffee,Gourmet brewed coffee
+130,01/02/2023,2,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+131,01/02/2023,2,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+132,01/02/2023,1,8,Hell's Kitchen,78,4,5,Bakery,Scone
+133,01/02/2023,1,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+134,01/02/2023,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+135,01/02/2023,2,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+136,01/02/2023,1,5,Lower Manhattan,72,3,25,Bakery,Scone
+137,01/02/2023,2,5,Lower Manhattan,54,2,5,Tea,Brewed Chai tea
+138,01/02/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+139,01/02/2023,1,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+140,01/02/2023,1,5,Lower Manhattan,71,3,75,Bakery,Pastry
+141,01/02/2023,2,3,Astoria,52,2,5,Tea,Brewed Chai tea
+142,01/02/2023,2,3,Astoria,25,2,2,Coffee,Organic brewed coffee
+143,01/02/2023,1,5,Lower Manhattan,38,3,75,Coffee,Barista Espresso
+144,01/02/2023,1,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+145,01/02/2023,2,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+146,01/02/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+147,01/02/2023,1,8,Hell's Kitchen,72,3,25,Bakery,Scone
+148,01/02/2023,2,3,Astoria,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+149,01/02/2023,2,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+150,01/02/2023,2,5,Lower Manhattan,45,3,Tea,Brewed herbal tea,Peppermint Lg
+151,01/02/2023,2,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+152,01/02/2023,1,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+153,01/02/2023,2,3,Astoria,37,3,Coffee,Barista Espresso,Espresso shot
+154,01/02/2023,1,3,Astoria,50,2,5,Tea,Brewed Black tea
+155,01/02/2023,1,3,Astoria,79,3,75,Bakery,Scone
+156,01/02/2023,2,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+157,01/02/2023,1,5,Lower Manhattan,29,2,5,Coffee,Gourmet brewed coffee
+158,01/02/2023,2,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+159,01/02/2023,2,3,Astoria,35,3,1,Coffee,Premium brewed coffee
+160,01/02/2023,1,3,Astoria,75,3,5,Bakery,Pastry
+161,01/02/2023,1,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+162,01/02/2023,1,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+163,01/02/2023,1,3,Astoria,44,2,5,Tea,Brewed herbal tea
+164,01/02/2023,2,8,Hell's Kitchen,27,3,5,Coffee,Organic brewed coffee
+165,01/02/2023,2,3,Astoria,52,2,5,Tea,Brewed Chai tea
+166,01/02/2023,1,5,Lower Manhattan,46,2,5,Tea,Brewed Green tea
+167,01/02/2023,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+168,01/02/2023,1,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+169,01/02/2023,1,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+170,01/02/2023,2,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+171,01/02/2023,2,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+172,01/02/2023,2,5,Lower Manhattan,38,3,75,Coffee,Barista Espresso
+173,01/02/2023,2,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+174,01/02/2023,2,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+175,01/02/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+176,01/02/2023,2,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+177,01/02/2023,2,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+178,01/02/2023,1,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+179,01/02/2023,2,5,Lower Manhattan,41,4,25,Coffee,Barista Espresso
+180,01/02/2023,2,3,Astoria,44,2,5,Tea,Brewed herbal tea
+181,01/02/2023,1,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+182,01/02/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+183,01/02/2023,2,3,Astoria,29,2,5,Coffee,Gourmet brewed coffee
+184,01/02/2023,2,5,Lower Manhattan,31,2,2,Coffee,Gourmet brewed coffee
+185,01/02/2023,1,8,Hell's Kitchen,60,3,75,Drinking Chocolate,Hot chocolate
+186,01/02/2023,2,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+187,01/02/2023,1,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+188,01/02/2023,1,8,Hell's Kitchen,60,3,75,Drinking Chocolate,Hot chocolate
+189,01/02/2023,1,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+190,01/02/2023,1,3,Astoria,52,2,5,Tea,Brewed Chai tea
+191,01/02/2023,2,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+192,01/02/2023,1,3,Astoria,56,2,55,Tea,Brewed Chai tea
+193,01/02/2023,1,3,Astoria,23,2,5,Coffee,Drip coffee
+194,01/02/2023,1,3,Astoria,33,3,5,Coffee,Gourmet brewed coffee
+195,01/02/2023,1,3,Astoria,75,3,5,Bakery,Pastry
+196,01/02/2023,2,3,Astoria,38,3,75,Coffee,Barista Espresso
+197,01/02/2023,1,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+198,01/02/2023,1,3,Astoria,59,4,5,Drinking Chocolate,Hot chocolate
+199,01/02/2023,2,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+200,01/02/2023,1,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+201,01/02/2023,1,5,Lower Manhattan,61,4,75,Drinking Chocolate,Hot chocolate
+202,01/02/2023,1,5,Lower Manhattan,72,3,25,Bakery,Scone
+203,01/02/2023,1,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+204,01/02/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+205,01/02/2023,2,8,Hell's Kitchen,29,2,5,Coffee,Gourmet brewed coffee
+206,01/02/2023,1,8,Hell's Kitchen,37,3,Coffee,Barista Espresso,Espresso shot
+207,01/02/2023,1,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+208,01/02/2023,1,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+209,01/02/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+210,01/02/2023,1,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+211,01/02/2023,2,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+212,01/02/2023,1,3,Astoria,61,4,75,Drinking Chocolate,Hot chocolate
+213,01/02/2023,1,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+214,01/02/2023,2,3,Astoria,44,2,5,Tea,Brewed herbal tea
+215,01/02/2023,1,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+216,01/02/2023,2,5,Lower Manhattan,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+217,01/02/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+218,01/02/2023,1,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+219,01/02/2023,1,8,Hell's Kitchen,78,4,5,Bakery,Scone
+220,01/02/2023,1,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+221,01/02/2023,2,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+222,01/02/2023,2,8,Hell's Kitchen,25,2,2,Coffee,Organic brewed coffee
+223,01/02/2023,1,8,Hell's Kitchen,72,3,25,Bakery,Scone
+224,01/02/2023,2,8,Hell's Kitchen,42,2,5,Tea,Brewed herbal tea
+225,01/02/2023,2,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+226,01/02/2023,1,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+227,01/02/2023,1,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+228,01/02/2023,2,5,Lower Manhattan,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+229,01/02/2023,1,3,Astoria,35,3,1,Coffee,Premium brewed coffee
+230,01/02/2023,2,5,Lower Manhattan,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+231,01/02/2023,1,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+232,01/02/2023,1,8,Hell's Kitchen,56,2,55,Tea,Brewed Chai tea
+233,01/02/2023,2,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+234,01/02/2023,2,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+235,01/02/2023,1,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+236,01/02/2023,1,8,Hell's Kitchen,75,3,5,Bakery,Pastry
+237,01/02/2023,1,3,Astoria,23,2,5,Coffee,Drip coffee
+238,01/02/2023,2,8,Hell's Kitchen,31,2,2,Coffee,Gourmet brewed coffee
+239,01/02/2023,2,3,Astoria,35,3,1,Coffee,Premium brewed coffee
+240,01/02/2023,2,3,Astoria,38,3,75,Coffee,Barista Espresso
+241,01/02/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+242,01/02/2023,2,3,Astoria,46,2,5,Tea,Brewed Green tea
+243,01/02/2023,2,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+244,01/02/2023,2,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+245,01/02/2023,2,5,Lower Manhattan,31,2,2,Coffee,Gourmet brewed coffee
+246,01/02/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+247,01/02/2023,1,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+248,01/02/2023,2,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+249,01/02/2023,1,8,Hell's Kitchen,27,3,5,Coffee,Organic brewed coffee
+250,01/02/2023,2,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+251,01/02/2023,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+252,01/02/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+253,01/03/2023,2,3,Astoria,42,2,5,Tea,Brewed herbal tea
+254,01/03/2023,1,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+255,01/03/2023,1,5,Lower Manhattan,36,3,75,Coffee,Premium brewed coffee
+256,01/03/2023,1,5,Lower Manhattan,52,2,5,Tea,Brewed Chai tea
+257,01/03/2023,1,5,Lower Manhattan,72,3,25,Bakery,Scone
+258,01/03/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+259,01/03/2023,1,3,Astoria,69,3,25,Bakery,Biscotti
+260,01/03/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+261,01/03/2023,1,3,Astoria,57,3,1,Tea,Brewed Chai tea
+262,01/03/2023,1,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+263,01/03/2023,2,8,Hell's Kitchen,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+264,01/03/2023,1,5,Lower Manhattan,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+265,01/03/2023,2,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+266,01/03/2023,2,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+267,01/03/2023,2,3,Astoria,38,3,75,Coffee,Barista Espresso
+268,01/03/2023,1,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+269,01/03/2023,2,8,Hell's Kitchen,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+270,01/03/2023,1,5,Lower Manhattan,42,2,5,Tea,Brewed herbal tea
+271,01/03/2023,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+272,01/03/2023,2,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+273,01/03/2023,1,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+274,01/03/2023,2,5,Lower Manhattan,27,3,5,Coffee,Organic brewed coffee
+275,01/03/2023,1,5,Lower Manhattan,71,3,75,Bakery,Pastry
+276,01/03/2023,2,3,Astoria,46,2,5,Tea,Brewed Green tea
+277,01/03/2023,1,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+278,01/03/2023,2,5,Lower Manhattan,39,4,25,Coffee,Barista Espresso
+279,01/03/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+280,01/03/2023,1,5,Lower Manhattan,69,3,25,Bakery,Biscotti
+281,01/03/2023,1,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+282,01/03/2023,2,3,Astoria,41,4,25,Coffee,Barista Espresso
+283,01/03/2023,1,3,Astoria,23,2,5,Coffee,Drip coffee
+284,01/03/2023,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+285,01/03/2023,1,8,Hell's Kitchen,71,3,75,Bakery,Pastry
+286,01/03/2023,2,8,Hell's Kitchen,60,3,75,Drinking Chocolate,Hot chocolate
+287,01/03/2023,2,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+288,01/03/2023,2,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+289,01/03/2023,2,3,Astoria,35,3,1,Coffee,Premium brewed coffee
+290,01/03/2023,2,3,Astoria,42,2,5,Tea,Brewed herbal tea
+291,01/03/2023,2,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+292,01/03/2023,2,5,Lower Manhattan,39,4,25,Coffee,Barista Espresso
+293,01/03/2023,1,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+294,01/03/2023,1,8,Hell's Kitchen,71,3,75,Bakery,Pastry
+295,01/03/2023,2,3,Astoria,41,4,25,Coffee,Barista Espresso
+296,01/03/2023,1,3,Astoria,79,3,75,Bakery,Scone
+297,01/03/2023,2,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+298,01/03/2023,2,5,Lower Manhattan,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+299,01/03/2023,1,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+300,01/03/2023,2,5,Lower Manhattan,45,3,Tea,Brewed herbal tea,Peppermint Lg
+301,01/03/2023,2,5,Lower Manhattan,49,3,Tea,Brewed Black tea,English Breakfast Lg
+302,01/03/2023,1,5,Lower Manhattan,78,4,5,Bakery,Scone
+303,01/03/2023,1,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+304,01/03/2023,1,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+305,01/03/2023,1,5,Lower Manhattan,42,2,5,Tea,Brewed herbal tea
+306,01/03/2023,2,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+307,01/03/2023,2,5,Lower Manhattan,41,4,25,Coffee,Barista Espresso
+308,01/03/2023,2,8,Hell's Kitchen,39,4,25,Coffee,Barista Espresso
+309,01/03/2023,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+310,01/03/2023,2,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+311,01/03/2023,1,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+312,01/03/2023,1,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+313,01/03/2023,1,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+314,01/03/2023,2,8,Hell's Kitchen,34,2,45,Coffee,Premium brewed coffee
+315,01/03/2023,2,5,Lower Manhattan,61,4,75,Drinking Chocolate,Hot chocolate
+316,01/03/2023,2,3,Astoria,50,2,5,Tea,Brewed Black tea
+317,01/03/2023,1,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+318,01/03/2023,1,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+319,01/03/2023,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+320,01/03/2023,1,8,Hell's Kitchen,75,3,5,Bakery,Pastry
+321,01/03/2023,2,8,Hell's Kitchen,51,3,Tea,Brewed Black tea,Earl Grey Lg
+322,01/03/2023,2,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+323,01/03/2023,2,3,Astoria,34,2,45,Coffee,Premium brewed coffee
+324,01/03/2023,2,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+325,01/03/2023,1,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+326,01/03/2023,2,3,Astoria,39,4,25,Coffee,Barista Espresso
+327,01/03/2023,1,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+328,01/03/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+329,01/03/2023,2,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+330,01/03/2023,1,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+331,01/03/2023,1,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+332,01/03/2023,1,5,Lower Manhattan,40,3,75,Coffee,Barista Espresso
+333,01/03/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+334,01/03/2023,1,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+335,01/03/2023,2,3,Astoria,52,2,5,Tea,Brewed Chai tea
+336,01/03/2023,2,3,Astoria,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+337,01/03/2023,2,5,Lower Manhattan,38,3,75,Coffee,Barista Espresso
+338,01/03/2023,1,3,Astoria,61,4,75,Drinking Chocolate,Hot chocolate
+339,01/03/2023,1,3,Astoria,29,2,5,Coffee,Gourmet brewed coffee
+340,01/03/2023,2,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+341,01/03/2023,2,3,Astoria,39,4,25,Coffee,Barista Espresso
+342,01/03/2023,1,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+343,01/03/2023,2,5,Lower Manhattan,50,2,5,Tea,Brewed Black tea
+344,01/03/2023,2,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+345,01/03/2023,1,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+346,01/03/2023,1,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+347,01/03/2023,1,3,Astoria,57,3,1,Tea,Brewed Chai tea
+348,01/03/2023,1,3,Astoria,70,3,25,Bakery,Scone
+349,01/03/2023,1,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+350,01/03/2023,2,3,Astoria,31,2,2,Coffee,Gourmet brewed coffee
+351,01/03/2023,1,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+352,01/03/2023,2,8,Hell's Kitchen,29,2,5,Coffee,Gourmet brewed coffee
+353,01/03/2023,2,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+354,01/03/2023,1,5,Lower Manhattan,74,3,5,Bakery,Biscotti
+355,01/03/2023,2,3,Astoria,41,4,25,Coffee,Barista Espresso
+356,01/03/2023,1,3,Astoria,76,3,5,Bakery,Biscotti
+357,01/03/2023,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+358,01/03/2023,1,8,Hell's Kitchen,44,2,5,Tea,Brewed herbal tea
+359,01/03/2023,1,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+360,01/03/2023,2,3,Astoria,46,2,5,Tea,Brewed Green tea
+361,01/03/2023,2,5,Lower Manhattan,40,3,75,Coffee,Barista Espresso
+362,01/03/2023,2,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+363,01/03/2023,2,5,Lower Manhattan,39,4,25,Coffee,Barista Espresso
+364,01/03/2023,1,5,Lower Manhattan,69,3,25,Bakery,Biscotti
+365,01/03/2023,2,5,Lower Manhattan,33,3,5,Coffee,Gourmet brewed coffee
+366,01/03/2023,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+367,01/03/2023,2,3,Astoria,31,2,2,Coffee,Gourmet brewed coffee
+368,01/03/2023,1,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+369,01/03/2023,1,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+370,01/03/2023,1,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+371,01/03/2023,2,3,Astoria,34,2,45,Coffee,Premium brewed coffee
+372,01/03/2023,1,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+373,01/03/2023,2,3,Astoria,42,2,5,Tea,Brewed herbal tea
+374,01/03/2023,2,3,Astoria,23,2,5,Coffee,Drip coffee
+375,01/03/2023,2,3,Astoria,23,2,5,Coffee,Drip coffee
+376,01/03/2023,2,3,Astoria,42,2,5,Tea,Brewed herbal tea
+377,01/03/2023,2,3,Astoria,42,2,5,Tea,Brewed herbal tea
+378,01/03/2023,1,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+379,01/03/2023,2,3,Astoria,34,2,45,Coffee,Premium brewed coffee
+380,01/03/2023,2,3,Astoria,29,2,5,Coffee,Gourmet brewed coffee
+381,01/03/2023,2,8,Hell's Kitchen,29,2,5,Coffee,Gourmet brewed coffee
+382,01/03/2023,1,3,Astoria,56,2,55,Tea,Brewed Chai tea
+383,01/03/2023,2,5,Lower Manhattan,40,3,75,Coffee,Barista Espresso
+384,01/03/2023,2,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+385,01/03/2023,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+386,01/03/2023,1,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+387,01/03/2023,1,3,Astoria,44,2,5,Tea,Brewed herbal tea
+388,01/03/2023,1,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+389,01/03/2023,2,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+390,01/03/2023,1,5,Lower Manhattan,42,2,5,Tea,Brewed herbal tea
+391,01/03/2023,2,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+392,01/03/2023,1,3,Astoria,40,3,75,Coffee,Barista Espresso
+393,01/03/2023,1,3,Astoria,35,3,1,Coffee,Premium brewed coffee
+394,01/03/2023,1,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+395,01/03/2023,1,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+396,01/03/2023,1,8,Hell's Kitchen,58,3,5,Drinking Chocolate,Hot chocolate
+397,01/03/2023,1,3,Astoria,33,3,5,Coffee,Gourmet brewed coffee
+398,01/03/2023,1,5,Lower Manhattan,46,2,5,Tea,Brewed Green tea
+399,01/03/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+400,01/03/2023,2,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+401,01/03/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+402,01/03/2023,1,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+403,01/03/2023,1,5,Lower Manhattan,72,3,25,Bakery,Scone
+404,01/03/2023,2,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+405,01/03/2023,1,5,Lower Manhattan,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+406,01/03/2023,1,5,Lower Manhattan,71,3,75,Bakery,Pastry
+407,01/03/2023,1,3,Astoria,52,2,5,Tea,Brewed Chai tea
+408,01/03/2023,2,8,Hell's Kitchen,42,2,5,Tea,Brewed herbal tea
+409,01/03/2023,1,5,Lower Manhattan,50,2,5,Tea,Brewed Black tea
+410,01/03/2023,1,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+411,01/03/2023,1,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+412,01/03/2023,1,3,Astoria,69,3,25,Bakery,Biscotti
+413,01/03/2023,2,5,Lower Manhattan,36,3,75,Coffee,Premium brewed coffee
+414,01/03/2023,2,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+415,01/03/2023,1,3,Astoria,50,2,5,Tea,Brewed Black tea
+416,01/03/2023,2,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+417,01/03/2023,2,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+418,01/03/2023,1,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+419,01/03/2023,1,3,Astoria,59,4,5,Drinking Chocolate,Hot chocolate
+420,01/03/2023,2,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+421,01/03/2023,2,5,Lower Manhattan,31,2,2,Coffee,Gourmet brewed coffee
+422,01/03/2023,1,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+423,01/03/2023,2,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+424,01/03/2023,1,8,Hell's Kitchen,31,2,2,Coffee,Gourmet brewed coffee
+425,01/03/2023,1,3,Astoria,29,2,5,Coffee,Gourmet brewed coffee
+426,01/03/2023,2,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+427,01/03/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+428,01/03/2023,2,8,Hell's Kitchen,39,4,25,Coffee,Barista Espresso
+429,01/03/2023,2,8,Hell's Kitchen,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+430,01/03/2023,2,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+431,01/03/2023,1,8,Hell's Kitchen,78,4,5,Bakery,Scone
+432,01/03/2023,2,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+433,01/03/2023,1,8,Hell's Kitchen,77,3,Bakery,Scone,Oatmeal Scone
+434,01/03/2023,1,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+435,01/03/2023,1,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+436,01/03/2023,1,3,Astoria,41,4,25,Coffee,Barista Espresso
+437,01/03/2023,2,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+438,01/04/2023,1,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+439,01/04/2023,1,8,Hell's Kitchen,76,3,5,Bakery,Biscotti
+440,01/04/2023,1,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+441,01/04/2023,1,5,Lower Manhattan,70,3,25,Bakery,Scone
+442,01/04/2023,1,3,Astoria,46,2,5,Tea,Brewed Green tea
+443,01/04/2023,1,3,Astoria,75,3,5,Bakery,Pastry
+444,01/04/2023,2,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+445,01/04/2023,1,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+446,01/04/2023,1,3,Astoria,69,3,25,Bakery,Biscotti
+447,01/04/2023,1,8,Hell's Kitchen,42,2,5,Tea,Brewed herbal tea
+448,01/04/2023,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+449,01/04/2023,2,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+450,01/04/2023,1,3,Astoria,71,3,75,Bakery,Pastry
+451,01/04/2023,2,8,Hell's Kitchen,52,2,5,Tea,Brewed Chai tea
+452,01/04/2023,2,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+453,01/04/2023,1,3,Astoria,74,3,5,Bakery,Biscotti
+454,01/04/2023,1,8,Hell's Kitchen,34,2,45,Coffee,Premium brewed coffee
+455,01/04/2023,1,8,Hell's Kitchen,27,3,5,Coffee,Organic brewed coffee
+456,01/04/2023,2,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+457,01/04/2023,1,8,Hell's Kitchen,76,3,5,Bakery,Biscotti
+458,01/04/2023,2,8,Hell's Kitchen,60,3,75,Drinking Chocolate,Hot chocolate
+459,01/04/2023,1,5,Lower Manhattan,45,3,Tea,Brewed herbal tea,Peppermint Lg
+460,01/04/2023,2,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+461,01/04/2023,2,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+462,01/04/2023,2,3,Astoria,56,2,55,Tea,Brewed Chai tea
+463,01/04/2023,1,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+464,01/04/2023,1,5,Lower Manhattan,39,4,25,Coffee,Barista Espresso
+465,01/04/2023,2,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+466,01/04/2023,1,8,Hell's Kitchen,76,3,5,Bakery,Biscotti
+467,01/04/2023,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+468,01/04/2023,1,3,Astoria,52,2,5,Tea,Brewed Chai tea
+469,01/04/2023,2,5,Lower Manhattan,49,3,Tea,Brewed Black tea,English Breakfast Lg
+470,01/04/2023,1,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+471,01/04/2023,1,3,Astoria,78,4,5,Bakery,Scone
+472,01/04/2023,1,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+473,01/04/2023,2,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+474,01/04/2023,1,3,Astoria,79,3,75,Bakery,Scone
+475,01/04/2023,1,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+476,01/04/2023,2,3,Astoria,34,2,45,Coffee,Premium brewed coffee
+477,01/04/2023,2,3,Astoria,25,2,2,Coffee,Organic brewed coffee
+478,01/04/2023,2,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+479,01/04/2023,2,8,Hell's Kitchen,57,3,1,Tea,Brewed Chai tea
+480,01/04/2023,2,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+481,01/04/2023,2,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+482,01/04/2023,1,3,Astoria,59,4,5,Drinking Chocolate,Hot chocolate
+483,01/04/2023,1,5,Lower Manhattan,52,2,5,Tea,Brewed Chai tea
+484,01/04/2023,1,5,Lower Manhattan,76,3,5,Bakery,Biscotti
+485,01/04/2023,1,3,Astoria,46,2,5,Tea,Brewed Green tea
+486,01/04/2023,2,3,Astoria,61,4,75,Drinking Chocolate,Hot chocolate
+487,01/04/2023,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+488,01/04/2023,1,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+489,01/04/2023,1,3,Astoria,79,3,75,Bakery,Scone
+490,01/04/2023,2,5,Lower Manhattan,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+491,01/04/2023,1,3,Astoria,61,4,75,Drinking Chocolate,Hot chocolate
+492,01/04/2023,1,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+493,01/04/2023,2,5,Lower Manhattan,54,2,5,Tea,Brewed Chai tea
+494,01/04/2023,2,8,Hell's Kitchen,44,2,5,Tea,Brewed herbal tea
+495,01/04/2023,2,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+496,01/04/2023,2,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+497,01/04/2023,1,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+498,01/04/2023,2,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+499,01/04/2023,1,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+500,01/04/2023,2,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+501,01/04/2023,2,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+502,01/04/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+503,01/04/2023,1,3,Astoria,57,3,1,Tea,Brewed Chai tea
+504,01/04/2023,1,3,Astoria,25,2,2,Coffee,Organic brewed coffee
+505,01/04/2023,2,3,Astoria,38,3,75,Coffee,Barista Espresso
+506,01/04/2023,1,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+507,01/04/2023,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+508,01/04/2023,1,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+509,01/04/2023,2,8,Hell's Kitchen,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+510,01/04/2023,2,3,Astoria,59,4,5,Drinking Chocolate,Hot chocolate
+511,01/04/2023,2,3,Astoria,56,2,55,Tea,Brewed Chai tea
+512,01/04/2023,2,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+513,01/04/2023,2,8,Hell's Kitchen,39,4,25,Coffee,Barista Espresso
+514,01/04/2023,1,8,Hell's Kitchen,73,3,75,Bakery,Pastry
+515,01/04/2023,1,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+516,01/04/2023,2,8,Hell's Kitchen,37,3,Coffee,Barista Espresso,Espresso shot
+517,01/04/2023,1,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+518,01/04/2023,2,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+519,01/04/2023,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+520,01/04/2023,2,8,Hell's Kitchen,27,3,5,Coffee,Organic brewed coffee
+521,01/04/2023,1,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+522,01/04/2023,1,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+523,01/04/2023,2,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+524,01/04/2023,2,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+525,01/04/2023,2,3,Astoria,40,3,75,Coffee,Barista Espresso
+526,01/04/2023,2,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+527,01/04/2023,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+528,01/04/2023,1,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+529,01/04/2023,1,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+530,01/04/2023,1,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+531,01/04/2023,1,8,Hell's Kitchen,77,3,Bakery,Scone,Oatmeal Scone
+532,01/04/2023,2,3,Astoria,44,2,5,Tea,Brewed herbal tea
+533,01/04/2023,1,3,Astoria,38,3,75,Coffee,Barista Espresso
+534,01/04/2023,2,3,Astoria,51,3,Tea,Brewed Black tea,Earl Grey Lg
+535,01/04/2023,1,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+536,01/04/2023,2,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+537,01/04/2023,1,3,Astoria,40,3,75,Coffee,Barista Espresso
+538,01/04/2023,2,8,Hell's Kitchen,27,3,5,Coffee,Organic brewed coffee
+539,01/04/2023,1,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+540,01/04/2023,2,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+541,01/04/2023,2,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+542,01/04/2023,1,3,Astoria,37,3,Coffee,Barista Espresso,Espresso shot
+543,01/04/2023,1,3,Astoria,54,2,5,Tea,Brewed Chai tea
+544,01/04/2023,1,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+545,01/04/2023,1,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+546,01/04/2023,1,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+547,01/04/2023,1,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+548,01/04/2023,1,3,Astoria,35,3,1,Coffee,Premium brewed coffee
+549,01/04/2023,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+550,01/04/2023,1,3,Astoria,39,4,25,Coffee,Barista Espresso
+551,01/04/2023,1,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+552,01/04/2023,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+553,01/04/2023,2,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+554,01/04/2023,1,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+555,01/04/2023,1,5,Lower Manhattan,70,3,25,Bakery,Scone
+556,01/04/2023,2,5,Lower Manhattan,61,4,75,Drinking Chocolate,Hot chocolate
+557,01/04/2023,1,5,Lower Manhattan,42,2,5,Tea,Brewed herbal tea
+558,01/04/2023,1,5,Lower Manhattan,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+559,01/04/2023,1,5,Lower Manhattan,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+560,01/04/2023,1,5,Lower Manhattan,41,4,25,Coffee,Barista Espresso
+561,01/04/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+562,01/04/2023,2,5,Lower Manhattan,27,3,5,Coffee,Organic brewed coffee
+563,01/04/2023,1,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+564,01/04/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+565,01/04/2023,2,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+566,01/04/2023,2,8,Hell's Kitchen,31,2,2,Coffee,Gourmet brewed coffee
+567,01/04/2023,1,8,Hell's Kitchen,25,2,2,Coffee,Organic brewed coffee
+568,01/04/2023,1,5,Lower Manhattan,61,4,75,Drinking Chocolate,Hot chocolate
+569,01/04/2023,1,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+570,01/04/2023,1,5,Lower Manhattan,61,4,75,Drinking Chocolate,Hot chocolate
+571,01/04/2023,2,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+572,01/04/2023,1,8,Hell's Kitchen,74,3,5,Bakery,Biscotti
+573,01/04/2023,1,8,Hell's Kitchen,27,3,5,Coffee,Organic brewed coffee
+574,01/04/2023,1,5,Lower Manhattan,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+575,01/04/2023,1,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+576,01/04/2023,2,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+577,01/04/2023,1,8,Hell's Kitchen,44,2,5,Tea,Brewed herbal tea
+578,01/04/2023,2,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+579,01/04/2023,2,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+580,01/02/2023,1,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+581,01/02/2023,1,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+582,01/02/2023,2,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+583,01/02/2023,2,8,Hell's Kitchen,31,2,2,Coffee,Gourmet brewed coffee
+584,01/02/2023,1,5,Lower Manhattan,29,2,5,Coffee,Gourmet brewed coffee
+585,01/02/2023,1,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+586,01/06/2023,2,8,Hell's Kitchen,25,2,2,Coffee,Organic brewed coffee
+587,01/06/2023,1,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+588,01/06/2023,1,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+589,01/06/2023,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+590,01/06/2023,1,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+591,01/06/2023,1,8,Hell's Kitchen,39,4,25,Coffee,Barista Espresso
+592,01/06/2023,1,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+593,01/06/2023,1,5,Lower Manhattan,33,3,5,Coffee,Gourmet brewed coffee
+594,01/06/2023,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+595,01/06/2023,1,8,Hell's Kitchen,59,4,5,Drinking Chocolate,Hot chocolate
+596,01/06/2023,1,8,Hell's Kitchen,79,3,75,Bakery,Scone
+597,01/06/2023,1,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+598,01/06/2023,2,8,Hell's Kitchen,34,2,45,Coffee,Premium brewed coffee
+599,01/06/2023,1,8,Hell's Kitchen,72,3,25,Bakery,Scone
+600,01/06/2023,2,5,Lower Manhattan,31,2,2,Coffee,Gourmet brewed coffee
+601,01/06/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+602,01/06/2023,1,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+603,01/06/2023,1,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+604,01/06/2023,1,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+605,01/06/2023,1,5,Lower Manhattan,29,2,5,Coffee,Gourmet brewed coffee
+606,01/06/2023,2,8,Hell's Kitchen,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+607,01/06/2023,2,8,Hell's Kitchen,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+608,01/06/2023,1,8,Hell's Kitchen,70,3,25,Bakery,Scone
+609,01/06/2023,2,8,Hell's Kitchen,59,4,5,Drinking Chocolate,Hot chocolate
+610,01/06/2023,2,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+611,01/06/2023,1,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+612,01/06/2023,2,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+613,01/06/2023,1,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+614,01/06/2023,1,5,Lower Manhattan,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+615,01/06/2023,2,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+616,01/06/2023,2,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+617,01/06/2023,1,8,Hell's Kitchen,27,3,5,Coffee,Organic brewed coffee
+618,01/06/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+619,01/06/2023,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+620,01/06/2023,1,8,Hell's Kitchen,34,2,45,Coffee,Premium brewed coffee
+621,01/06/2023,2,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+622,01/06/2023,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+623,01/06/2023,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+624,01/06/2023,1,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+625,01/06/2023,1,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+626,01/06/2023,1,8,Hell's Kitchen,76,3,5,Bakery,Biscotti
+627,01/06/2023,1,5,Lower Manhattan,58,3,5,Drinking Chocolate,Hot chocolate
+628,01/06/2023,1,5,Lower Manhattan,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+629,01/06/2023,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+630,01/06/2023,1,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+631,01/06/2023,2,8,Hell's Kitchen,56,2,55,Tea,Brewed Chai tea
+632,01/06/2023,2,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+633,01/06/2023,1,5,Lower Manhattan,79,3,75,Bakery,Scone
+634,01/06/2023,1,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+635,01/06/2023,1,8,Hell's Kitchen,61,4,75,Drinking Chocolate,Hot chocolate
+636,01/06/2023,2,8,Hell's Kitchen,42,2,5,Tea,Brewed herbal tea
+637,01/06/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+638,01/06/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+639,01/06/2023,1,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+640,01/06/2023,1,8,Hell's Kitchen,42,2,5,Tea,Brewed herbal tea
+641,01/06/2023,2,8,Hell's Kitchen,44,2,5,Tea,Brewed herbal tea
+642,01/06/2023,2,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+643,01/06/2023,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+644,01/06/2023,2,8,Hell's Kitchen,51,3,Tea,Brewed Black tea,Earl Grey Lg
+645,01/06/2023,1,5,Lower Manhattan,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+646,01/06/2023,1,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+647,01/06/2023,1,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+648,01/06/2023,1,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+649,01/06/2023,1,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+650,01/06/2023,2,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+651,01/06/2023,1,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+652,01/06/2023,1,3,Astoria,70,3,25,Bakery,Scone
+653,01/06/2023,1,3,Astoria,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+654,01/06/2023,1,3,Astoria,77,3,Bakery,Scone,Oatmeal Scone
+655,01/06/2023,1,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+656,01/06/2023,2,8,Hell's Kitchen,29,2,5,Coffee,Gourmet brewed coffee
+657,01/06/2023,2,3,Astoria,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+658,01/06/2023,1,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+659,01/06/2023,1,5,Lower Manhattan,46,2,5,Tea,Brewed Green tea
+660,01/06/2023,2,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+661,01/06/2023,1,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+662,01/06/2023,2,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+663,01/06/2023,1,3,Astoria,40,3,75,Coffee,Barista Espresso
+664,01/06/2023,1,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+665,01/06/2023,1,3,Astoria,42,2,5,Tea,Brewed herbal tea
+666,01/06/2023,2,3,Astoria,31,2,2,Coffee,Gourmet brewed coffee
+667,01/06/2023,1,3,Astoria,75,3,5,Bakery,Pastry
+668,01/06/2023,2,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+669,01/06/2023,2,3,Astoria,52,2,5,Tea,Brewed Chai tea
+670,01/06/2023,2,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+671,01/06/2023,1,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+672,01/06/2023,2,3,Astoria,29,2,5,Coffee,Gourmet brewed coffee
+673,01/06/2023,2,3,Astoria,38,3,75,Coffee,Barista Espresso
+674,01/06/2023,1,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+675,01/06/2023,2,5,Lower Manhattan,54,2,5,Tea,Brewed Chai tea
+676,01/06/2023,2,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+677,01/06/2023,2,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+678,01/06/2023,1,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+679,01/06/2023,1,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+680,01/06/2023,1,3,Astoria,79,3,75,Bakery,Scone
+681,01/06/2023,2,3,Astoria,25,2,2,Coffee,Organic brewed coffee
+682,01/06/2023,1,3,Astoria,69,3,25,Bakery,Biscotti
+683,01/06/2023,2,5,Lower Manhattan,58,3,5,Drinking Chocolate,Hot chocolate
+684,01/06/2023,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+685,01/06/2023,2,5,Lower Manhattan,42,2,5,Tea,Brewed herbal tea
+686,01/06/2023,1,5,Lower Manhattan,74,3,5,Bakery,Biscotti
+687,01/06/2023,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+688,01/06/2023,1,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+689,01/06/2023,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+690,01/06/2023,1,8,Hell's Kitchen,72,3,25,Bakery,Scone
+691,01/06/2023,2,3,Astoria,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+692,01/06/2023,1,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+693,01/06/2023,1,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+694,01/06/2023,1,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+695,01/06/2023,2,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+696,01/06/2023,2,8,Hell's Kitchen,59,4,5,Drinking Chocolate,Hot chocolate
+697,01/06/2023,2,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+698,01/06/2023,1,3,Astoria,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+699,01/06/2023,1,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+700,01/06/2023,1,8,Hell's Kitchen,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+701,01/06/2023,1,8,Hell's Kitchen,37,3,Coffee,Barista Espresso,Espresso shot
+702,01/06/2023,1,8,Hell's Kitchen,78,4,5,Bakery,Scone
+703,01/06/2023,2,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+704,01/06/2023,1,8,Hell's Kitchen,71,3,75,Bakery,Pastry
+705,01/06/2023,1,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+706,01/06/2023,1,3,Astoria,23,2,5,Coffee,Drip coffee
+707,01/06/2023,1,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+708,01/06/2023,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+709,01/06/2023,1,3,Astoria,42,2,5,Tea,Brewed herbal tea
+710,01/06/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+711,01/06/2023,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+712,01/06/2023,2,3,Astoria,25,2,2,Coffee,Organic brewed coffee
+713,01/06/2023,1,3,Astoria,79,3,75,Bakery,Scone
+714,01/06/2023,1,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+715,01/06/2023,1,5,Lower Manhattan,71,3,75,Bakery,Pastry
+716,01/06/2023,1,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+717,01/06/2023,1,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+718,01/06/2023,2,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+719,01/06/2023,1,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+720,01/06/2023,1,5,Lower Manhattan,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+721,01/06/2023,1,5,Lower Manhattan,79,3,75,Bakery,Scone
+722,01/06/2023,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+723,01/06/2023,1,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+724,01/06/2023,1,3,Astoria,78,4,5,Bakery,Scone
+725,01/06/2023,2,5,Lower Manhattan,33,3,5,Coffee,Gourmet brewed coffee
+726,01/06/2023,1,5,Lower Manhattan,69,3,25,Bakery,Biscotti
+727,01/06/2023,1,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+728,01/06/2023,2,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+729,01/06/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+730,01/06/2023,1,5,Lower Manhattan,78,4,5,Bakery,Scone
+731,01/06/2023,1,8,Hell's Kitchen,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+732,01/06/2023,1,8,Hell's Kitchen,60,3,75,Drinking Chocolate,Hot chocolate
+733,01/06/2023,2,3,Astoria,51,3,Tea,Brewed Black tea,Earl Grey Lg
+734,01/06/2023,1,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+735,01/06/2023,1,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+736,01/06/2023,2,3,Astoria,50,2,5,Tea,Brewed Black tea
+737,01/06/2023,1,8,Hell's Kitchen,57,3,1,Tea,Brewed Chai tea
+738,01/06/2023,2,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+739,01/06/2023,1,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+740,01/06/2023,1,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+741,01/06/2023,1,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+742,01/06/2023,2,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+743,01/06/2023,1,3,Astoria,56,2,55,Tea,Brewed Chai tea
+744,01/06/2023,2,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+745,01/06/2023,1,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+746,01/06/2023,1,5,Lower Manhattan,52,2,5,Tea,Brewed Chai tea
+747,01/06/2023,1,8,Hell's Kitchen,60,3,75,Drinking Chocolate,Hot chocolate
+748,01/06/2023,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+749,01/06/2023,2,3,Astoria,46,2,5,Tea,Brewed Green tea
+750,01/06/2023,2,3,Astoria,46,2,5,Tea,Brewed Green tea
+751,01/06/2023,2,8,Hell's Kitchen,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+752,01/06/2023,1,5,Lower Manhattan,58,3,5,Drinking Chocolate,Hot chocolate
+753,01/06/2023,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+754,01/06/2023,2,5,Lower Manhattan,52,2,5,Tea,Brewed Chai tea
+755,01/06/2023,1,3,Astoria,52,2,5,Tea,Brewed Chai tea
+756,01/06/2023,2,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+757,01/06/2023,2,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+758,01/06/2023,2,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+759,01/06/2023,1,8,Hell's Kitchen,35,3,1,Coffee,Premium brewed coffee
+760,01/06/2023,1,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+761,01/06/2023,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+762,01/06/2023,2,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+763,01/06/2023,2,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+764,01/06/2023,1,8,Hell's Kitchen,76,3,5,Bakery,Biscotti
+765,01/06/2023,2,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+766,01/06/2023,2,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+767,01/06/2023,1,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+768,01/06/2023,2,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+769,01/06/2023,1,3,Astoria,61,4,75,Drinking Chocolate,Hot chocolate
+770,01/06/2023,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+771,01/06/2023,1,5,Lower Manhattan,70,3,25,Bakery,Scone
+772,01/06/2023,1,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+773,01/06/2023,1,8,Hell's Kitchen,78,4,5,Bakery,Scone
+774,01/06/2023,2,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+775,01/06/2023,2,5,Lower Manhattan,31,2,2,Coffee,Gourmet brewed coffee
+776,01/06/2023,1,5,Lower Manhattan,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+777,01/06/2023,2,3,Astoria,46,2,5,Tea,Brewed Green tea
+778,01/06/2023,2,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+779,01/06/2023,2,3,Astoria,39,4,25,Coffee,Barista Espresso
+780,01/06/2023,1,3,Astoria,44,2,5,Tea,Brewed herbal tea
+781,01/06/2023,2,3,Astoria,31,2,2,Coffee,Gourmet brewed coffee
+782,01/06/2023,1,8,Hell's Kitchen,57,3,1,Tea,Brewed Chai tea
+783,01/06/2023,1,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+784,01/06/2023,2,8,Hell's Kitchen,44,2,5,Tea,Brewed herbal tea
+785,01/06/2023,1,3,Astoria,38,3,75,Coffee,Barista Espresso
+786,01/06/2023,1,3,Astoria,56,2,55,Tea,Brewed Chai tea
+787,01/06/2023,2,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+788,01/06/2023,1,3,Astoria,76,3,5,Bakery,Biscotti
+789,01/06/2023,1,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+790,01/06/2023,1,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+791,01/06/2023,2,3,Astoria,39,4,25,Coffee,Barista Espresso
+792,01/06/2023,1,8,Hell's Kitchen,31,2,2,Coffee,Gourmet brewed coffee
+793,01/06/2023,1,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+794,01/06/2023,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+795,01/06/2023,2,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+796,01/06/2023,2,3,Astoria,23,2,5,Coffee,Drip coffee
+797,01/06/2023,1,3,Astoria,39,4,25,Coffee,Barista Espresso
+798,01/06/2023,2,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+799,01/06/2023,1,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+800,01/06/2023,1,5,Lower Manhattan,79,3,75,Bakery,Scone
+801,01/06/2023,1,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+802,01/06/2023,1,3,Astoria,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+803,01/06/2023,2,8,Hell's Kitchen,59,4,5,Drinking Chocolate,Hot chocolate
+804,01/06/2023,2,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+805,01/06/2023,1,8,Hell's Kitchen,73,3,75,Bakery,Pastry
+806,01/06/2023,1,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+807,01/06/2023,1,3,Astoria,70,3,25,Bakery,Scone
+808,01/06/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+809,01/06/2023,1,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+810,01/06/2023,1,8,Hell's Kitchen,79,3,75,Bakery,Scone
+811,01/06/2023,1,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+812,01/06/2023,1,8,Hell's Kitchen,71,3,75,Bakery,Pastry
+813,01/06/2023,1,5,Lower Manhattan,39,4,25,Coffee,Barista Espresso
+814,01/06/2023,2,8,Hell's Kitchen,38,3,75,Coffee,Barista Espresso
+815,01/06/2023,2,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+816,01/06/2023,1,3,Astoria,39,4,25,Coffee,Barista Espresso
+817,01/06/2023,1,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+818,01/06/2023,2,8,Hell's Kitchen,25,2,2,Coffee,Organic brewed coffee
+819,01/06/2023,2,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+820,01/06/2023,1,3,Astoria,59,4,5,Drinking Chocolate,Hot chocolate
+821,01/06/2023,1,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+822,01/06/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+823,01/06/2023,1,3,Astoria,37,3,Coffee,Barista Espresso,Espresso shot
+824,01/06/2023,2,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+825,01/06/2023,1,3,Astoria,40,3,75,Coffee,Barista Espresso
+826,01/06/2023,1,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+827,01/06/2023,1,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+828,01/06/2023,2,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+829,01/06/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+830,01/06/2023,1,3,Astoria,72,3,25,Bakery,Scone
+831,01/06/2023,1,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+832,01/06/2023,2,5,Lower Manhattan,25,2,2,Coffee,Organic brewed coffee
+833,01/06/2023,2,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+834,01/06/2023,1,3,Astoria,23,2,5,Coffee,Drip coffee
+835,01/05/2023,2,3,Astoria,61,4,75,Drinking Chocolate,Hot chocolate
+836,01/05/2023,1,3,Astoria,75,3,5,Bakery,Pastry
+837,01/05/2023,1,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+838,01/05/2023,2,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+839,01/05/2023,1,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+840,01/05/2023,1,8,Hell's Kitchen,31,2,2,Coffee,Gourmet brewed coffee
+841,01/05/2023,1,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+842,01/05/2023,2,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+843,01/05/2023,1,3,Astoria,71,3,75,Bakery,Pastry
+844,01/05/2023,1,3,Astoria,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+845,01/05/2023,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+846,01/05/2023,1,3,Astoria,48,2,5,Tea,Brewed Black tea
+847,01/05/2023,2,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+848,01/05/2023,2,8,Hell's Kitchen,52,2,5,Tea,Brewed Chai tea
+849,01/05/2023,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+850,01/05/2023,2,3,Astoria,40,3,75,Coffee,Barista Espresso
+851,01/05/2023,1,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+852,01/05/2023,1,3,Astoria,72,3,25,Bakery,Scone
+853,01/05/2023,2,5,Lower Manhattan,52,2,5,Tea,Brewed Chai tea
+854,01/05/2023,2,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+855,01/05/2023,2,5,Lower Manhattan,27,3,5,Coffee,Organic brewed coffee
+856,01/05/2023,1,5,Lower Manhattan,41,4,25,Coffee,Barista Espresso
+857,01/05/2023,1,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+858,01/05/2023,1,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+859,01/05/2023,1,5,Lower Manhattan,46,2,5,Tea,Brewed Green tea
+860,01/05/2023,1,5,Lower Manhattan,76,3,5,Bakery,Biscotti
+861,01/05/2023,2,3,Astoria,37,3,Coffee,Barista Espresso,Espresso shot
+862,01/05/2023,1,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+863,01/05/2023,2,5,Lower Manhattan,52,2,5,Tea,Brewed Chai tea
+864,01/05/2023,2,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+865,01/05/2023,2,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+866,01/05/2023,2,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+867,01/05/2023,1,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+868,01/05/2023,2,3,Astoria,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+869,01/05/2023,1,3,Astoria,73,3,75,Bakery,Pastry
+870,01/05/2023,2,3,Astoria,23,2,5,Coffee,Drip coffee
+871,01/05/2023,1,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+872,01/05/2023,1,3,Astoria,79,3,75,Bakery,Scone
+873,01/05/2023,2,5,Lower Manhattan,31,2,2,Coffee,Gourmet brewed coffee
+874,01/05/2023,1,8,Hell's Kitchen,44,2,5,Tea,Brewed herbal tea
+875,01/05/2023,1,3,Astoria,52,2,5,Tea,Brewed Chai tea
+876,01/05/2023,1,3,Astoria,40,3,75,Coffee,Barista Espresso
+877,01/05/2023,1,3,Astoria,77,3,Bakery,Scone,Oatmeal Scone
+878,01/05/2023,1,5,Lower Manhattan,59,4,5,Drinking Chocolate,Hot chocolate
+879,01/05/2023,1,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+880,01/05/2023,2,3,Astoria,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+881,01/05/2023,2,8,Hell's Kitchen,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+882,01/05/2023,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+883,01/05/2023,1,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+884,01/05/2023,2,5,Lower Manhattan,48,2,5,Tea,Brewed Black tea
+885,01/05/2023,1,3,Astoria,50,2,5,Tea,Brewed Black tea
+886,01/05/2023,2,5,Lower Manhattan,42,2,5,Tea,Brewed herbal tea
+887,01/05/2023,1,5,Lower Manhattan,69,3,25,Bakery,Biscotti
+888,01/05/2023,1,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+889,01/05/2023,1,3,Astoria,41,4,25,Coffee,Barista Espresso
+890,01/05/2023,2,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+891,01/05/2023,2,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+892,01/05/2023,1,8,Hell's Kitchen,40,3,75,Coffee,Barista Espresso
+893,01/05/2023,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+894,01/05/2023,2,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+895,01/05/2023,1,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+896,01/05/2023,1,8,Hell's Kitchen,69,3,25,Bakery,Biscotti
+897,01/05/2023,2,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+898,01/05/2023,1,5,Lower Manhattan,70,3,25,Bakery,Scone
+899,01/05/2023,2,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+900,01/05/2023,2,3,Astoria,23,2,5,Coffee,Drip coffee
+901,01/05/2023,2,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+902,01/05/2023,1,8,Hell's Kitchen,69,3,25,Bakery,Biscotti
+903,01/05/2023,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+904,01/05/2023,1,8,Hell's Kitchen,52,2,5,Tea,Brewed Chai tea
+905,01/05/2023,1,8,Hell's Kitchen,69,3,25,Bakery,Biscotti
+906,01/05/2023,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+907,01/05/2023,1,5,Lower Manhattan,74,3,5,Bakery,Biscotti
+908,01/05/2023,1,8,Hell's Kitchen,23,2,5,Coffee,Drip coffee
+909,01/05/2023,2,3,Astoria,44,2,5,Tea,Brewed herbal tea
+910,01/05/2023,1,5,Lower Manhattan,46,2,5,Tea,Brewed Green tea
+911,01/05/2023,1,5,Lower Manhattan,73,3,75,Bakery,Pastry
+912,01/05/2023,1,5,Lower Manhattan,42,2,5,Tea,Brewed herbal tea
+913,01/05/2023,1,5,Lower Manhattan,78,4,5,Bakery,Scone
+914,01/05/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+915,01/05/2023,1,3,Astoria,79,3,75,Bakery,Scone
+916,01/05/2023,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+917,01/05/2023,2,8,Hell's Kitchen,46,2,5,Tea,Brewed Green tea
+918,01/05/2023,1,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+919,01/05/2023,2,5,Lower Manhattan,38,3,75,Coffee,Barista Espresso
+920,01/05/2023,2,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+921,01/05/2023,1,8,Hell's Kitchen,56,2,55,Tea,Brewed Chai tea
+922,01/05/2023,2,8,Hell's Kitchen,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+923,01/05/2023,1,5,Lower Manhattan,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+924,01/05/2023,1,5,Lower Manhattan,79,3,75,Bakery,Scone
+925,01/05/2023,2,5,Lower Manhattan,56,2,55,Tea,Brewed Chai tea
+926,01/05/2023,1,8,Hell's Kitchen,48,2,5,Tea,Brewed Black tea
+927,01/05/2023,2,5,Lower Manhattan,29,2,5,Coffee,Gourmet brewed coffee
+928,01/05/2023,1,3,Astoria,58,3,5,Drinking Chocolate,Hot chocolate
+929,01/05/2023,2,3,Astoria,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+930,01/05/2023,2,3,Astoria,51,3,Tea,Brewed Black tea,Earl Grey Lg
+931,01/05/2023,1,3,Astoria,78,4,5,Bakery,Scone
+932,01/05/2023,1,5,Lower Manhattan,40,3,75,Coffee,Barista Espresso
+933,01/05/2023,1,5,Lower Manhattan,44,2,5,Tea,Brewed herbal tea
+934,01/05/2023,1,5,Lower Manhattan,52,2,5,Tea,Brewed Chai tea
+935,01/05/2023,2,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+936,01/05/2023,1,3,Astoria,39,4,25,Coffee,Barista Espresso
+937,01/05/2023,1,5,Lower Manhattan,54,2,5,Tea,Brewed Chai tea
+938,01/05/2023,1,3,Astoria,39,4,25,Coffee,Barista Espresso
+939,01/05/2023,2,3,Astoria,45,3,Tea,Brewed herbal tea,Peppermint Lg
+940,01/05/2023,1,3,Astoria,40,3,75,Coffee,Barista Espresso
+941,01/05/2023,2,8,Hell's Kitchen,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+942,01/05/2023,2,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+943,01/05/2023,1,5,Lower Manhattan,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+944,01/05/2023,1,5,Lower Manhattan,78,4,5,Bakery,Scone
+945,01/05/2023,2,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+946,01/05/2023,1,3,Astoria,38,3,75,Coffee,Barista Espresso
+947,01/05/2023,2,5,Lower Manhattan,60,3,75,Drinking Chocolate,Hot chocolate
+948,01/05/2023,1,5,Lower Manhattan,78,4,5,Bakery,Scone
+949,01/05/2023,1,3,Astoria,48,2,5,Tea,Brewed Black tea
+950,01/05/2023,2,3,Astoria,27,3,5,Coffee,Organic brewed coffee
+951,01/05/2023,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+952,01/05/2023,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+953,01/05/2023,1,3,Astoria,25,2,2,Coffee,Organic brewed coffee
+954,01/05/2023,1,3,Astoria,73,3,75,Bakery,Pastry
+955,01/05/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
+956,01/05/2023,1,8,Hell's Kitchen,36,3,75,Coffee,Premium brewed coffee
+957,01/05/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+958,01/05/2023,1,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+959,01/05/2023,1,3,Astoria,74,3,5,Bakery,Biscotti
+960,01/05/2023,2,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+961,01/05/2023,2,3,Astoria,36,3,75,Coffee,Premium brewed coffee
+962,01/05/2023,1,8,Hell's Kitchen,52,2,5,Tea,Brewed Chai tea
+963,01/05/2023,2,3,Astoria,52,2,5,Tea,Brewed Chai tea
+964,01/05/2023,2,5,Lower Manhattan,50,2,5,Tea,Brewed Black tea
+965,01/05/2023,1,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+966,01/05/2023,1,5,Lower Manhattan,75,3,5,Bakery,Pastry
+967,01/05/2023,1,5,Lower Manhattan,50,2,5,Tea,Brewed Black tea
+968,01/05/2023,1,3,Astoria,31,2,2,Coffee,Gourmet brewed coffee
+969,01/05/2023,2,3,Astoria,54,2,5,Tea,Brewed Chai tea
+970,01/05/2023,2,8,Hell's Kitchen,49,3,Tea,Brewed Black tea,English Breakfast Lg
+971,01/05/2023,1,3,Astoria,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+972,01/05/2023,2,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+973,01/05/2023,2,3,Astoria,51,3,Tea,Brewed Black tea,Earl Grey Lg
+974,01/05/2023,1,5,Lower Manhattan,34,2,45,Coffee,Premium brewed coffee
+975,01/05/2023,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+976,01/05/2023,2,3,Astoria,34,2,45,Coffee,Premium brewed coffee
+977,01/05/2023,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+978,01/05/2023,1,3,Astoria,48,2,5,Tea,Brewed Black tea
+979,01/05/2023,1,3,Astoria,49,3,Tea,Brewed Black tea,English Breakfast Lg
+980,01/05/2023,1,8,Hell's Kitchen,25,2,2,Coffee,Organic brewed coffee
+981,01/05/2023,2,3,Astoria,34,2,45,Coffee,Premium brewed coffee
+982,01/05/2023,1,3,Astoria,72,3,25,Bakery,Scone
+983,01/05/2023,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+984,01/05/2023,1,8,Hell's Kitchen,41,4,25,Coffee,Barista Espresso
+985,01/05/2023,1,5,Lower Manhattan,23,2,5,Coffee,Drip coffee
+986,01/05/2023,1,8,Hell's Kitchen,25,2,2,Coffee,Organic brewed coffee
+987,01/05/2023,1,8,Hell's Kitchen,50,2,5,Tea,Brewed Black tea
+988,01/05/2023,2,5,Lower Manhattan,29,2,5,Coffee,Gourmet brewed coffee
+989,01/05/2023,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+990,01/05/2023,1,3,Astoria,60,3,75,Drinking Chocolate,Hot chocolate
+991,01/05/2023,2,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+992,01/05/2023,1,8,Hell's Kitchen,33,3,5,Coffee,Gourmet brewed coffee
+993,01/05/2023,2,3,Astoria,42,2,5,Tea,Brewed herbal tea
+994,01/05/2023,1,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+995,01/05/2023,2,5,Lower Manhattan,27,3,5,Coffee,Organic brewed coffee
+996,01/05/2023,2,5,Lower Manhattan,57,3,1,Tea,Brewed Chai tea
+997,01/05/2023,2,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+998,01/05/2023,1,3,Astoria,70,3,25,Bakery,Scone
+999,01/05/2023,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+1000,01/05/2023,1,8,Hell's Kitchen,54,2,5,Tea,Brewed Chai tea
