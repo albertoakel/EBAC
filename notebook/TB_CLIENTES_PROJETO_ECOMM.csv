@@ -1,0 +1,176 @@
+state_name;First_name;Gender;Job_Title;Id_client
+TX;Domingo;Male;Structural Analysis Engineer;1
+MI;Russell;Male;Speech Pathologist;2
+AL;Kimble;Male;Account Coordinator;3
+IL;Barnabas;Male;General Manager;4
+MN;Tanney;Female;VP Marketing;5
+VA;Launce;Male;Automation Specialist I;6
+CO;Adham;Male;Project Manager;7
+TX;Dante;Male;Geological Engineer;8
+PA;Hi;Female;Senior Cost Accountant;9
+CA;Carmine;Female;Statistician II;10
+NC;Waring;Female;Software Consultant;11
+CA;Cori;Female;Senior Sales Associate;12
+TX;Rodge;Genderfluid;Health Coach III;13
+TX;Nikolos;Male;Geologist III;14
+DC;Guy;Female;Senior Cost Accountant;15
+TX;Anton;Male;Media Manager II;16
+VA;Willem;Female;Media Manager II;17
+OH;Timothy;Female;Marketing Manager;18
+MD;Sheridan;Male;Assistant Manager;19
+LA;Kalil;Genderfluid;Senior Editor;20
+LA;Augusto;Female;Research Nurse;21
+LA;Duffie;Female;Information Systems Manager;22
+FL;Clyde;Female;Dental Hygienist;23
+GA;Harcourt;Female;Web Designer III;24
+LA;Elwyn;Male;Senior Developer;25
+LA;Desmund;Female;Senior Sales Associate;26
+TX;Emelen;Male;Project Manager;27
+MI;Mattheus;Female;Pharmacist;28
+MI;Jonas;Male;Cost Accountant;29
+OH;Moishe;Female;Human Resources Assistant III;30
+NE;Reinwald;Male;Sales Representative;31
+CA;Tobin;Male;Food Chemist;32
+FL;Bo;Male;VP Product Management;33
+WA;Sherm;Male;Senior Financial Analyst;34
+VA;Mile;Male;Occupational Therapist;35
+TX;Turner;Male;Automation Specialist IV;36
+ND;Cornie;Genderqueer;Editor;37
+PA;Rab;Male;Assistant Manager;38
+MA;Codie;Female;Financial Analyst;39
+OR;Scott;Female;Civil Engineer;40
+MS;Hilary;Male;Design Engineer;41
+CA;Keir;Female;Senior Editor;42
+TX;Raffarty;Male;General Manager;43
+CA;Federico;Non-binary;Nurse Practicioner;44
+FL;Karlan;Female;Financial Advisor;45
+PA;Demetris;Female;Programmer Analyst IV;46
+AZ;Lisle;Female;Web Designer I;47
+MS;Rabi;Genderfluid;Director of Sales;48
+NY;Jareb;Male;Sales Associate;49
+NV;Sergent;Male;Geologist II;50
+NY;Reinaldo;Female;Editor;51
+OR;Zebadiah;Female;Desktop Support Technician;52
+DC;Shurlock;Polygender;Junior Executive;53
+WV;Chip;Agender;Recruiting Manager;54
+TX;Alford;Female;Human Resources Assistant I;55
+MO;Marius;Male;Senior Cost Accountant;56
+MA;Marmaduke;Non-binary;Sales Associate;57
+NV;Emlyn;Female;Business Systems Development Analyst;58
+NY;Frederich;Female;Health Coach II;59
+CA;Davidde;Male;VP Marketing;60
+CA;Angus;Female;Senior Sales Associate;61
+CA;Cchaddie;Male;Business Systems Development Analyst;62
+AR;Fons;Female;Senior Developer;63
+SD;Lucio;Female;Web Developer IV;64
+CA;Wolf;Male;Recruiting Manager;65
+LA;Lazare;Male;Associate Professor;66
+KY;Cornelius;Male;Recruiting Manager;67
+OR;Matteo;Bigender;Social Worker;68
+CA;Domingo;Female;Recruiter;69
+PA;Bordie;Male;Sales Associate;70
+CA;Neil;Female;Geologist IV;71
+TX;Allistir;Female;Chief Design Engineer;72
+DC;Rafe;Genderfluid;Senior Editor;73
+NE;Galvan;Male;Teacher;74
+LA;Dionysus;Female;Legal Assistant;75
+TX;Raul;Male;Speech Pathologist;76
+CT;Codie;Female;Media Manager I;77
+DC;Zeke;Female;Research Associate;78
+FL;Siegfried;Female;VP Product Management;79
+CT;Les;Female;Junior Executive;80
+IL;Kilian;Male;Design Engineer;81
+NC;Donall;Male;Web Developer III;82
+CA;Hershel;Male;Nurse;83
+IL;Demetris;Male;Social Worker;84
+DC;Kennan;Female;Project Manager;85
+FL;Gilburt;Female;Community Outreach Specialist;86
+ID;Ruttger;Male;Chief Design Engineer;87
+CA;Fransisco;Female;Design Engineer;88
+TX;Reade;Female;General Manager;89
+FL;Weylin;Male;Engineer I;90
+FL;Riobard;Male;Technical Writer;91
+IN;Ambrosi;Male;Analyst Programmer;92
+VA;Norris;Genderqueer;Business Systems Development Analyst;93
+CA;Lorens;Female;Staff Accountant IV;94
+IL;Denis;Female;VP Product Management;95
+OH;Rhett;Female;Biostatistician IV;96
+AL;Hamlin;Male;Media Manager I;97
+PA;Sebastien;Male;Media Manager III;98
+CA;Dewey;Female;Executive Secretary;99
+AL;Renault;Agender;Biostatistician IV;100
+CA;Blayne;Female;Software Engineer IV;101
+NY;Mendy;Male;Web Designer III;102
+NY;Finley;Male;Associate Professor;103
+MN;Tynan;Male;VP Sales;104
+TX;Christoph;Female;Quality Control Specialist;105
+IN;Vassili;Male;Chemical Engineer;106
+WA;Titos;Male;Nuclear Power Engineer;107
+NC;Turner;Female;Developer IV;108
+OH;Kyle;Male;Actuary;109
+TX;Yehudi;Genderfluid;Project Manager;110
+VA;Adams;Female;Clinical Specialist;111
+TX;Ingemar;Genderqueer;Account Coordinator;112
+DC;Bartolomeo;Male;Executive Secretary;113
+IN;Lennard;Female;Administrative Assistant II;114
+AZ;Ralf;Female;Senior Quality Engineer;115
+CA;Marten;Non-binary;Web Developer IV;116
+GA;Portie;Female;Teacher;117
+IL;Jacob;Male;Teacher;118
+NC;Joaquin;Male;Product Engineer;119
+NY;Dougy;Male;Computer Systems Analyst IV;120
+OH;Bartel;Female;Actuary;121
+KS;Inigo;Female;Programmer Analyst II;122
+VA;Ross;Male;Analog Circuit Design manager;123
+DC;Saul;Female;VP Marketing;124
+CA;Bary;Female;Technical Writer;125
+NJ;Anatol;Male;Sales Representative;126
+MI;Gaspard;Male;Automation Specialist I;127
+NY;Kirk;Male;Nuclear Power Engineer;128
+LA;Jamill;Female;Cost Accountant;129
+FL;Angel;Female;Quality Engineer;130
+AR;Harley;Female;Associate Professor;131
+CT;Alex;Male;VP Product Management;132
+DC;Averill;Female;Assistant Professor;133
+VA;Christy;Female;Research Associate;134
+VA;Chrisse;Male;Technical Writer;135
+FL;Edgar;Polygender;Biostatistician IV;136
+IN;Swen;Agender;Pharmacist;137
+OR;Obadiah;Male;Office Assistant II;138
+MA;Reilly;Female;Nurse;139
+PA;Baron;Female;Safety Technician III;140
+OH;Britt;Male;Accounting Assistant III;141
+TX;Raimondo;Male;Administrative Assistant IV;142
+CA;Trip;Female;Data Coordinator;143
+UT;Teddy;Male;Payment Adjustment Coordinator;144
+NJ;Justino;Female;Teacher;145
+FL;Con;Male;Operator;146
+MA;Claiborne;Female;Dental Hygienist;147
+ID;Harold;Female;Sales Associate;148
+TX;Raynard;Female;Environmental Specialist;149
+DC;Boothe;Male;Marketing Manager;150
+KS;Cornie;Male;Engineer II;151
+HI;Teador;Female;Assistant Media Planner;152
+TN;Nial;Male;Help Desk Technician;153
+NJ;Talbot;Male;VP Marketing;154
+DC;Karlens;Male;Desktop Support Technician;155
+FL;Ross;Male;Senior Financial Analyst;156
+TX;Dale;Female;Senior Cost Accountant;157
+IL;Jarib;Genderfluid;Food Chemist;158
+PA;Adolphe;Female;Database Administrator II;159
+IL;Godard;Female;Senior Editor;160
+NC;Dietrich;Male;Paralegal;161
+DC;Reuven;Female;Media Manager IV;162
+MD;Tadd;Female;Electrical Engineer;163
+VA;Marius;Female;Safety Technician III;164
+AL;Ricoriki;Male;Sales Representative;165
+IN;Courtnay;Male;Quality Engineer;166
+KS;Melvin;Male;Senior Quality Engineer;167
+TX;Nicol;Male;Director of Sales;168
+AL;Seward;Female;Editor;169
+NY;Tremain;Female;Executive Secretary;170
+UT;Fairleigh;Male;Desktop Support Technician;171
+DC;Lambert;Agender;Chemical Engineer;172
+NY;Jacob;Male;Senior Financial Analyst;173
+OK;Pip;Male;Chief Design Engineer;174
+OR;Murvyn;Female;Safety Technician IV;175
