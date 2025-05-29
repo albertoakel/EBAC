@@ -9,15 +9,15 @@ Repositório dedicado às aulas, exercícios, projetos e materiais desenvolvidos
 Organizar e compartilhar todo o conteúdo produzido ao longo das disciplinas, facilitando a revisão, colaboração e evolução dos projetos criativos e técnicos.
 
 ---
-
 ## 🗂 Estrutura do Repositório
-
+````
 📁 Atividades_EBAC/
 ├── 📁 Aulas
 ├── 📁 dados/
 ├── 📁 Notebook/
 ├── 📁 sandbox/
 └── README.md
+````
 
 Cada módulo contém:
 
