@@ -11,7 +11,7 @@ Organizar e compartilhar todo o conteúdo produzido ao longo das disciplinas, fa
 ---
 ## 🗂 Estrutura do Repositório
 ````
-📁 Atividades_EBAC/
+📁 EBAC/
 ├── 📁 Aulas
 ├── 📁 dados/
 ├── 📁 Notebook/
