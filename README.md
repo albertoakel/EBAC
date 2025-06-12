@@ -14,6 +14,7 @@ Organizar e compartilhar todo o conteúdo produzido ao longo das disciplinas, fa
 📁 EBAC/
 ├── 📁 Aulas
 ├── 📁 dados/
+├── 📁 curso_python/
 ├── 📁 Notebook/
 ├── 📁 sandbox/
 └── README.md
