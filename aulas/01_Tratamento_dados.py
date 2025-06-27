@@ -16,6 +16,3 @@ print('valores nulos:\n',df.isnull().sum)
 eleva_cubo_lambda= lambda x: x**3
 #print(eleva_cubo_lambda(3))
 A=[1,2,3,4,5]
-#print( A.apply(lambda x: x**3) )
-
-#print(eleva_cubo_lambda(A))
