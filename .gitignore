@@ -1,0 +1,10 @@
+# PyCharm
+.idea/
+*.iml
+.misc.xml
+workspace.xml
+
+# Diretórios temporários
+**/.virtual_documents/
+**/.ipynb_checkpoints/
+**/__pycache__/
