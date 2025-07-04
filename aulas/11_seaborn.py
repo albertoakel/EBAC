@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pylab as plt
 import seaborn as sns
 
-df=pd.read_csv('clientes-v3-preparado.csv')
+df=pd.read_csv('/home/akel/PycharmProjects/EBAC/dados/clientes-v3-preparado.csv')
 pd.set_option('display.width', None)
 
 
@@ -16,7 +16,7 @@ plt.figure(figsize=(10, 6))
 sns.kdeplot(df['salario'], fill=True, color='#863e9c')
 plt.title('Densidade de slários')
 plt.xlabel('Salário')
-# plt.show()
+plt.show()
 
 # Gráfico de Pairplt - Dispersão e Histograma
 plt.figure(figsize=(10, 6))
