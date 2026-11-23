@@ -15,6 +15,7 @@ workspace.xml
 __pycache__/
 .idea/
 
-#dados
-*.csv
-*.db
+# Diretorios mantidos apenas localmente
+/anaconda_projects/db/
+/sandbox/
+/dados/
