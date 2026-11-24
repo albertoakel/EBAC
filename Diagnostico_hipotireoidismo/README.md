@@ -179,14 +179,19 @@ Diagnostico_hipotireoidismo/
 │   ├── Hypothyroid.csv
 │   ├── df_treino.csv
 │   └── df_validacao.csv
+├── app/
+│   └── app.py
+├── models/
+│   └── modelo_hipotireoidismo.joblib
 ├── notebook/
 │   ├── 01_EDA.ipynb
-│   ├── 02_ML.ipynb
-│   ├── 01_EDA_figuras.ipynb
-│   └── 02_ML_figuras.ipynb
+│   └── 02_ML.ipynb
 ├── src/
+│   ├── __init__.py
+│   ├── preprocessing.py
 │   ├── utils.py
 │   └── ml_utils.py
+├── treinar_modelo.py
 └── docs/
     ├── relatorio_geral.md
     └── figuras/
@@ -248,14 +253,6 @@ Execute os notebooks na seguinte sequência:
     geração dos conjuntos de treinamento e validação.
 2.  `notebook/02_ML.ipynb` --- pipelines, validação cruzada, comparação
     e avaliação dos modelos.
-3.  `notebook/01_EDA_figuras.ipynb` e `notebook/02_ML_figuras.ipynb` ---
-    notebooks auxiliares para salvar as figuras em PNG no diretório
-    `docs/figuras/`.
-
-Os notebooks auxiliares de figuras reproduzem as etapas correspondentes
-dos notebooks originais para gerar os arquivos de imagem. O notebook de
-ML executa novamente as etapas de modelagem necessárias à produção de
-suas figuras.
 
 > Os caminhos e nomes dos arquivos devem ser mantidos conforme a
 > estrutura do projeto. Caso a organização local seja diferente, ajuste
@@ -290,3 +287,112 @@ Os resultados devem ser compreendidos dentro dos limites da base e da
 variável-alvo disponíveis. A aplicação em contexto clínico exigiria
 esclarecimento da origem dos rótulos e validação independente, além de
 avaliação por profissionais habilitados.
+
+
+## Aplicação demonstrativa (Streamlit)
+
+Além dos notebooks analíticos, o projeto inclui uma aplicação Streamlit
+para demonstrar a inferência com o pipeline final de Random Forest.
+
+A aplicação está em `app/app.py` e utiliza o artefato
+`models/modelo_hipotireoidismo.joblib`. Ela recebe informações
+demográficas, clínicas e laboratoriais, organiza os dados conforme os
+26 preditores esperados e apresenta a classe prevista e a probabilidade
+estimada de pertencimento à classe positiva `N`.
+
+![Interface da aplicação demonstrativa de classificação de hipotireoidismo](app/imagem/app_imagem1.png)
+
+A interface foi organizada em três áreas principais:
+
+- **Perfil e informações clínicas:** reúne dados demográficos e
+  indicadores clínicos disponíveis no conjunto de dados.
+- **Resultados laboratoriais:** permite informar TSH, T3, TT4, T4U e FTI.
+  Os campos podem permanecer sem preenchimento quando a informação não
+  estiver disponível.
+- **Estimativa do modelo:** apresenta a classe atribuída (`P` ou `N`) e
+  a saída probabilística estimada para a classe `N`.
+
+A aplicação também disponibiliza valores ilustrativos para facilitar
+a experimentação. Eles permitem observar como diferentes combinações
+de atributos afetam a saída do classificador, mas não representam
+faixas clínicas ou critérios diagnósticos.
+
+**Interpretação dos rótulos:**
+- `N`: classe positiva — registro rotulado como hipotireoidismo na base.
+- `P`: classe negativa — registro rotulado como não hipotireoidismo.
+
+O percentual apresentado é a saída probabilística do classificador
+para a classe `N`. Não corresponde a uma probabilidade clínica
+individual validada, não deve ser interpretado como risco pessoal e
+não constitui diagnóstico.
+
+### Estrutura atual da aplicação
+
+```text
+app/
+└── app.py
+
+models/
+└── modelo_hipotireoidismo.joblib
+
+src/
+├── __init__.py
+└── preprocessing.py
+
+treinar_modelo.py
+```
+
+### Gerar o artefato do modelo
+
+Na raiz do projeto, com o ambiente Python ativado e as dependências
+instaladas:
+
+```bash
+python treinar_modelo.py
+```
+
+O script utiliza `data/df_treino.csv`, reconstrói o pipeline final
+documentado no estudo e salva o modelo em
+`models/modelo_hipotireoidismo.joblib`. A função
+`codificar_binarias` está em `src/preprocessing.py`, módulo
+compartilhado entre treinamento e aplicação.
+
+### Instalar dependências da aplicação
+
+```bash
+python -m pip install streamlit joblib numpy pandas scikit-learn
+```
+
+Instale também as dependências exigidas pelo pipeline final, incluindo
+`xgboost` caso ele esteja presente no ambiente de treinamento ou no
+artefato. Recomenda-se executar treinamento e aplicação no mesmo
+ambiente Conda, mantendo versões compatíveis de `scikit-learn`.
+
+### Iniciar o Streamlit
+
+```bash
+python -m streamlit run app/app.py
+```
+
+A aplicação carrega o modelo existente e realiza somente inferência.
+Não executa treinamento ou reavaliação dos algoritmos a cada acesso.
+
+### Perfis ilustrativos
+
+A interface disponibiliza valores iniciais e exemplos para facilitar
+testes. Eles são referências de demonstração baseadas em padrões
+observados na base, não faixas clínicas, critérios diagnósticos ou
+recomendações de saúde.
+
+## Documentação
+
+- [Relatório geral](docs/relatorio_geral.md): dados, EDA, preparação,
+  metodologia, resultados, interpretação e limitações.
+- [Documentação dos notebooks](notebook/README.md): finalidade,
+  dependências e sequência de execução.
+- [Figuras](docs/figuras/): visualizações utilizadas no relatório.
+
+## Repositório
+
+Endereço do GitHub: **adicionar URL após publicação do repositório**.
+

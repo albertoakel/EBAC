@@ -658,24 +658,111 @@ clinicamente validadas para diagnóstico de hipotireoidismo.
 
 ## Organização sugerida dos arquivos
 
-``` text
+```text
 Diagnostico_hipotireoidismo/
+├── app/
+│   └── app.py
 ├── data/
+│   ├── Hypothyroid.csv
+│   ├── df_treino.csv
+│   └── df_validacao.csv
+├── docs/
+│   ├── relatorio_geral.md
+│   └── figuras/
+├── models/
+│   └── modelo_hipotireoidismo.joblib
 ├── notebook/
 │   ├── 01_EDA.ipynb
 │   └── 02_ML.ipynb
 ├── src/
-└── docs/
-    ├── relatorio_geral.md
-    └── figuras/
-        ├── eda_01.png
-        ├── ...
-        ├── eda_12.png
-        ├── ml_01.png
-        ├── ...
-        └── ml_08.png
+│   ├── preprocessing.py
+│   ├── utils.py
+│   └── ml_utils.py
+├── treinar_modelo.py
+└── README.md
 ```
 
 As referências às imagens neste relatório são relativas ao arquivo
 `relatorio_geral.md`. Por isso, a pasta `figuras` deve permanecer no
 mesmo diretório `docs`.
+
+
+## 14. Aplicação demonstrativa e disponibilização do modelo
+
+Após a conclusão das etapas analíticas, foi construída uma aplicação
+interativa em Streamlit para demonstrar a utilização do pipeline final
+de Random Forest. A aplicação não realiza treinamento, seleção de
+modelos ou ajuste de parâmetros: carrega o artefato serializado e
+executa inferências a partir dos campos informados na interface.
+
+### 14.1 Fluxo de treinamento e inferência
+
+O script `treinar_modelo.py`, localizado na raiz do projeto, reconstrói
+o pipeline final definido no estudo, ajusta-o com os dados de
+treinamento disponíveis em `data/df_treino.csv` e exporta o artefato
+`models/modelo_hipotireoidismo.joblib`.
+
+A função de codificação das variáveis binárias está centralizada em
+`src/preprocessing.py`. Esse módulo compartilhado é importado tanto
+pelo script de treinamento quanto pela aplicação, permitindo que o
+`joblib` localize corretamente a função ao desserializar o pipeline.
+
+A aplicação `app/app.py` carrega o artefato e organiza os dados
+informados pelo usuário conforme os 26 preditores e a ordem esperada
+pelo pipeline. Campos não informados são encaminhados como ausentes e
+tratados pelas etapas de pré-processamento incorporadas ao modelo.
+
+### 14.2 Interpretação da saída da aplicação
+
+A interface apresenta a classe prevista e a saída de `predict_proba`
+associada à classe `N`:
+
+- **N — classe positiva:** registro rotulado como hipotireoidismo na
+  variável `binaryClass`;
+- **P — classe negativa:** registro rotulado como não hipotireoidismo.
+
+O percentual apresentado é a probabilidade estimada pelo classificador
+de pertencimento à classe `N`, de acordo com os padrões aprendidos na
+base. Não deve ser interpretado como probabilidade clínica individual,
+risco de adoecimento ou diagnóstico. O estudo não realizou calibração
+clínica da probabilidade nem validação externa em população independente.
+
+A aplicação inclui perfis ilustrativos para facilitar a experimentação.
+Esses valores servem apenas para observar o comportamento do
+classificador e não constituem limites laboratoriais ou recomendações
+clínicas.
+
+### 14.3 Importância dos preditores
+
+A interpretação por permutação realizada durante a modelagem identificou
+TSH como o preditor de maior contribuição para o desempenho dos modelos.
+A retirada dessa variável provocou redução expressiva das métricas.
+Sem TSH, TT4, FTI e T3 passaram a concentrar maior importância relativa.
+Esses resultados descrevem contribuição preditiva no contexto dos dados
+e dos modelos avaliados; não representam causalidade ou relevância
+clínica independente.
+
+### 14.4 Execução local da aplicação
+
+Com o ambiente Python configurado e as dependências instaladas, o
+artefato deve ser gerado na raiz do projeto:
+
+```bash
+python treinar_modelo.py
+```
+
+Em seguida, a aplicação pode ser iniciada com:
+
+```bash
+python -m streamlit run app/app.py
+```
+
+Treinamento e inferência devem utilizar versões compatíveis das
+bibliotecas, especialmente `scikit-learn`, uma vez que o pipeline é
+serializado com `joblib`. A aplicação depende do arquivo
+`models/modelo_hipotireoidismo.joblib` e do módulo
+`src/preprocessing.py`.
+
+A aplicação é uma camada demonstrativa complementar aos notebooks e
+ao relatório. Ela não altera os resultados analíticos nem amplia o
+escopo do estudo para diagnóstico clínico.
