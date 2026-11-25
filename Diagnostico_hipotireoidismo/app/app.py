@@ -7,11 +7,10 @@ import pandas as pd
 import streamlit as st
 
 
-# Estrutura esperada:
-# Diagnostico_hipotireoidismo/
-# ├── models/modelo_hipotireoidismo.joblib
-# └── app/app.py
+#
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+# Adiciona a raiz do projeto ao caminho de importação do Python.
+sys.path.insert(0, str(PROJECT_ROOT))
 MODEL_PATH = PROJECT_ROOT / "models" / "modelo_hipotireoidismo.joblib"
 
 # Atualize este endereço quando o repositório estiver publicado no GitHub.
