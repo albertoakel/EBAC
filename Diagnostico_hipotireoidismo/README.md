@@ -111,6 +111,7 @@ Os modelos finalistas foram ajustados com todo o conjunto de treinamento e avali
 | Random Forest | 0,983 | 1,000 | 0,992 | 1,000 | 1,000 |
 
 Cada modelo finalista apresentou apenas um erro de classificação na validação reservada: o XGBoost registrou um falso negativo, enquanto o Random Forest registrou um falso positivo.
+
 <div style="background-color: #DBEAFE; padding: 12px; border-radius: 6px;">
 
 ### Achados da interpretação
