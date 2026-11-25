@@ -68,19 +68,19 @@ dos atributos disponíveis.
 
 ### 2.2 Objetivos específicos
 
--   Caracterizar a distribuição das variáveis e da classe-alvo.
--   Identificar valores ausentes, duplicidades, valores inválidos e
-    variáveis sem variabilidade.
--   Investigar diferenças entre as classes nas variáveis numéricas e
-    categóricas.
--   Preparar os dados e separar treinamento e validação reservada antes
-    do ajuste dos transformadores.
--   Comparar modelos de classificação por validação cruzada
-    estratificada.
--   Investigar a importância das variáveis e a sensibilidade dos modelos
-    à retirada de TSH.
--   Avaliar os modelos finalistas em um conjunto reservado durante o
-    desenvolvimento.
+- Caracterizar a distribuição das variáveis e da classe-alvo.
+- Identificar valores ausentes, duplicidades, valores inválidos e
+  variáveis sem variabilidade.
+- Investigar diferenças entre as classes nas variáveis numéricas e
+  categóricas.
+- Preparar os dados e separar treinamento e validação reservada antes
+  do ajuste dos transformadores.
+- Comparar modelos de classificação por validação cruzada
+  estratificada.
+- Investigar a importância das variáveis e a sensibilidade dos modelos
+  à retirada de TSH.
+- Avaliar os modelos finalistas em um conjunto reservado durante o
+  desenvolvimento.
 
 ## 3. Dados e definição do problema
 
@@ -89,20 +89,22 @@ dos atributos disponíveis.
 A base original apresenta **3.772 registros e 30 colunas**, incluindo a
 variável-alvo. Os atributos abrangem:
 
--   idade e sexo;
--   histórico de uso de tiroxina e medicação antitireoidiana;
--   histórico de procedimentos e características clínicas;
--   indicadores de realização de exames;
--   resultados laboratoriais, como TSH, T3, TT4, T4U e FTI;
--   origem do encaminhamento;
--   classe `binaryClass`.
+- idade e sexo;
+- histórico de uso de tiroxina e medicação antitireoidiana;
+- histórico de procedimentos e características clínicas;
+- indicadores de realização de exames;
+- resultados laboratoriais, como TSH, T3, TT4, T4U e FTI;
+- origem do encaminhamento;
+- classe `binaryClass`.
 
 A variável-alvo possui duas categorias: `P` e `N`. Para os experimentos,
 foi adotada a codificação `P = 0` e `N = 1`, considerando `N` como
 classe positiva nas métricas de classificação.
 
   Classe        Codificação   Registros originais   Proporção
+
   ----------- ------------- --------------------- -----------
+
   P                       0                 3.481      92,29%
   N                       1                   291       7,71%
   **Total**                             **3.772**    **100%**
@@ -279,17 +281,17 @@ categórica.**
 
 A EDA evidenciou quatro aspectos centrais:
 
-1.  **Desbalanceamento da variável-alvo:** a classe `N` representa
-    apenas 7,71% dos registros originais.
-2.  **Qualidade dos dados:** foram identificadas duplicatas exatas, uma
-    idade inválida, ausências parciais e uma variável integralmente
-    ausente.
-3.  **Diferenças entre classes:** as medidas laboratoriais,
-    especialmente TSH, apresentam diferenças centrais mais expressivas
-    entre `N` e `P` do que a idade.
-4.  **Sobreposição entre preditores:** TT4 e FTI apresentam correlação
-    positiva elevada, aspecto relevante para a interpretação dos
-    modelos.
+1. **Desbalanceamento da variável-alvo:** a classe `N` representa
+   apenas 7,71% dos registros originais.
+2. **Qualidade dos dados:** foram identificadas duplicatas exatas, uma
+   idade inválida, ausências parciais e uma variável integralmente
+   ausente.
+3. **Diferenças entre classes:** as medidas laboratoriais,
+   especialmente TSH, apresentam diferenças centrais mais expressivas
+   entre `N` e `P` do que a idade.
+4. **Sobreposição entre preditores:** TT4 e FTI apresentam correlação
+   positiva elevada, aspecto relevante para a interpretação dos
+   modelos.
 
 ## 5. Preparação dos dados
 
@@ -298,20 +300,23 @@ reservada separada durante o desenvolvimento dos modelos.
 
 As operações documentadas foram:
 
-1.  conversão das variáveis numéricas;
-2.  tratamento do valor inválido de idade;
-3.  remoção de `TBG` e `TBG measured`;
-4.  codificação do alvo (`P = 0`, `N = 1`);
-5.  remoção das 61 duplicatas excedentes;
-6.  divisão estratificada em 80% para treinamento e 20% para validação
-    reservada.
+1. conversão das variáveis numéricas;
+2. tratamento do valor inválido de idade;
+3. remoção de `TBG` e `TBG measured`;
+4. codificação do alvo (`P = 0`, `N = 1`);
+5. remoção das 61 duplicatas excedentes;
+6. divisão estratificada em 80% para treinamento e 20% para validação
+   reservada.
 
 Após a preparação, a base analítica passou a conter **3.711 registros e
 28 colunas**. A divisão resultou em:
 
   ------------------------------------------------------------------------
+
   Conjunto                                 Registros Utilização
+
   --------------------- ---------------------------- ---------------------
+
   Treinamento                                  2.968 Ajuste dos pipelines,
                                                      validação cruzada e
                                                      seleção dos modelos
@@ -319,8 +324,8 @@ Após a preparação, a base analítica passou a conter **3.711 registros e
   Validação reservada                            743 Avaliação final dos
                                                      modelos finalistas
 
-  **Total**                                **3.711** 
-  ------------------------------------------------------------------------
+**Total**                                **3.711**
+------------------------------------------------------------------------
 
 A variável constante `hypopituitary` foi identificada no conjunto de
 treinamento e removida dos preditores utilizados pelos modelos. Com
@@ -328,29 +333,86 @@ isso, foram considerados 26 preditores na etapa de modelagem.
 
 ### 5.1 Pré-processamento integrado aos modelos
 
-O pré-processamento foi incorporado aos pipelines para que os
-transformadores fossem ajustados somente nos dados de treinamento de
-cada fold:
+O pré-processamento foi estruturado com `ColumnTransformer` e pipelines específicos para cada tipo de variável. Essa organização permite aplicar estratégias distintas de tratamento, respeitando as características dos atributos e mantendo as transformações integradas ao processo de modelagem.
 
--   **Variáveis numéricas:** imputação pela mediana e padronização com
-    `StandardScaler`.
--   **Variáveis binárias:** imputação pela moda e codificação dos
-    valores `t` e `f`.
--   **Variáveis categóricas:** imputação pela moda e codificação
-    One-Hot, com `handle_unknown="ignore"`.
+As estratégias adotadas foram:
 
-Essa organização evita que as estatísticas de imputação, os parâmetros
-de padronização ou as categorias observadas na validação de cada fold
-sejam utilizados durante o ajuste correspondente.
+- **Variáveis numéricas:** imputação pela mediana e padronização com `StandardScaler`.
+
+- **Variáveis binárias:** imputação pela categoria mais frequente e conversão das respostas textuais em valores 0 e 1.
+
+- **Variáveis categóricas:** imputação pela categoria mais frequente e transformação por One-Hot Encoding.
+
+
+
+#### A. Variáveis numéricas
+
+A imputação pela mediana foi escolhida por apresentar menor sensibilidade a valores extremos em comparação com a média. Essa característica é relevante considerando a assimetria e a presença de valores extremos identificados em algumas variáveis laboratoriais durante a análise exploratória.
+
+A padronização com `StandardScaler` centraliza as variáveis na média zero e ajusta sua escala pelo desvio-padrão. Essa transformação evita que diferenças de magnitude entre os atributos numéricos influenciem desproporcionalmente os modelos sensíveis à escala, especialmente a Regressão Logística.
+
+```python
+numeric_transformer = Pipeline([    ("imputer", SimpleImputer(strategy="median")),    ("scaler", StandardScaler())])
+```
+
+#### B. Variáveis binárias
+
+A imputação pela categoria mais frequente foi adotada para preencher valores ausentes preservando a estrutura categórica das variáveis.
+
+Em seguida, as respostas textuais são convertidas para representação numérica:
+
+- `t` → 1 (verdadeiro);
+
+- `f` → 0 (falso).
+
+A codificação binária é adequada porque esses atributos possuem apenas duas categorias, dispensando a criação de colunas adicionais por One-Hot Encoding.
+
+```python
+binary_transformer = Pipeline([    ("imputer", SimpleImputer(strategy="most_frequent")),    ("encoder", FunctionTransformer(        lambda x: (x == "t").astype(int),        feature_names_out="one-to-one"    ))])
+```
+
+#### C. Variáveis categóricas
+
+A imputação pela categoria mais frequente foi utilizada para preencher valores ausentes sem eliminar registros ou introduzir uma categoria artificial.
+
+Na sequência, o `OneHotEncoder` transforma cada categoria em uma coluna binária independente. Essa estratégia evita atribuir uma ordem numérica artificial às categorias, o que poderia introduzir uma relação ordinal inexistente nos dados.
+
+O parâmetro `handle_unknown="ignore"` permite processar categorias não observadas durante o treinamento, evitando erros na transformação de novos registros.
+
+```python
+categorical_transformer = Pipeline([    ("imputer", SimpleImputer(strategy="most_frequent")),    ("encoder", OneHotEncoder(handle_unknown="ignore"))])
+```
+
+#### D. Integração dos transformadores
+
+O `ColumnTransformer` reúne os três transformadores e direciona cada grupo de variáveis para sua respectiva estratégia de processamento:
+
+- `num`: variáveis numéricas;
+
+- `bin`: variáveis binárias;
+
+- `cat`: variáveis categóricas.
+
+O parâmetro `remainder="drop"` determina que apenas os preditores explicitamente selecionados participem da modelagem.
+
+```python
+preprocessor = ColumnTransformer([    ("num", numeric_transformer, numerical_features),    ("bin", binary_transformer, binary_features),    ("cat", categorical_transformer, categorical_features)], remainder="drop")print("Pipeline de pré-processamento configurado.")print(f"Preditores contemplados: {len(colunas_pipeline)}")
+```
+
+A integração das transformações aos pipelines garante que os parâmetros de imputação, padronização e codificação sejam aprendidos durante o ajuste (`fit`) com os dados de treinamento. Na validação e na inferência, são reutilizados os parâmetros aprendidos, evitando ajustar o pré-processamento com os dados de validação.
+
+A padronização é especialmente relevante para a Regressão Logística, enquanto modelos baseados em árvores, como Random Forest e XGBoost, não dependem dessa transformação para realizar suas divisões. Ainda assim, ela foi mantida na estrutura comum de pré-processamento utilizada na comparação dos modelos.
+
+Dessa forma, o pré-processamento procura preservar as características dos dados, tratar valores ausentes e fornecer uma representação adequada dos atributos aos algoritmos de classificação.
 
 ## 6. Estratégia de modelagem e avaliação
 
 Foram comparados quatro classificadores:
 
--   **Dummy Classifier:** referência mínima para comparação;
--   **Regressão Logística:** modelo linear de classificação;
--   **Random Forest:** método de ensemble baseado em árvores de decisão;
--   **XGBoost:** método de boosting baseado em árvores.
+- **Dummy Classifier:** referência mínima para comparação;
+- **Regressão Logística:** modelo linear de classificação;
+- **Random Forest:** método de ensemble baseado em árvores de decisão;
+- **XGBoost:** método de boosting baseado em árvores.
 
 A avaliação foi realizada por validação cruzada estratificada, com cinco
 folds, embaralhamento e `random_state=42`. Os mesmos folds foram
@@ -358,13 +420,13 @@ utilizados para comparar os algoritmos.
 
 As métricas adotadas foram:
 
--   **Precision:** proporção de predições positivas que correspondem à
-    classe positiva real;
--   **Recall:** proporção dos registros positivos reais identificados
-    pelo modelo;
--   **F1:** média harmônica entre Precision e Recall;
--   **PR-AUC:** área sob a curva Precision-Recall;
--   **ROC-AUC:** área sob a curva ROC.
+- **Precision:** proporção de predições positivas que correspondem à
+  classe positiva real;
+- **Recall:** proporção dos registros positivos reais identificados
+  pelo modelo;
+- **F1:** média harmônica entre Precision e Recall;
+- **PR-AUC:** área sob a curva Precision-Recall;
+- **ROC-AUC:** área sob a curva ROC.
 
 Como `N` foi definida como classe positiva e é minoritária, Precision,
 Recall, F1 e PR-AUC receberam atenção especial na comparação.
@@ -378,7 +440,9 @@ O Dummy Classifier não apresentou capacidade discriminativa para a
 classe positiva.
 
   Modelo                  Precision   Recall      F1   PR-AUC   ROC-AUC
+
   --------------------- ----------- -------- ------- -------- ---------
+
   Dummy                       0,000    0,000   0,000    0,079     0,500
   Regressão Logística         0,723    0,940   0,817    0,875     0,989
   Random Forest               0,926    0,991   0,957    0,990     0,999
@@ -426,7 +490,9 @@ demais preditores e parâmetros. A avaliação continuou restrita à
 validação cruzada no conjunto de treinamento.
 
   Modelo                  F1 com TSH   F1 sem TSH   PR-AUC sem TSH   ROC-AUC sem TSH
+
   --------------------- ------------ ------------ ---------------- -----------------
+
   Regressão Logística          0,817        0,372            0,539             0,877
   Random Forest                0,957        0,493            0,545             0,865
   XGBoost                      0,966        0,439            0,558             0,867
@@ -507,7 +573,9 @@ da análise de importância.
 ### 10.1 Métricas finais
 
   Modelo            Precision   Recall      F1   PR-AUC   ROC-AUC
+
   --------------- ----------- -------- ------- -------- ---------
+
   XGBoost               1,000    0,983   0,991    1,000     1,000
   Random Forest         0,983    1,000   0,992    1,000     1,000
 
@@ -529,14 +597,18 @@ as classes. Considerando `N` como classe positiva, os resultados foram:
 **XGBoost**
 
   Classe real     Predito P   Predito N
+
   ------------- ----------- -----------
+
   P                     685           0
   N                       1          57
 
 **Random Forest**
 
   Classe real     Predito P   Predito N
+
   ------------- ----------- -----------
+
   P                     684           1
   N                       0          58
 
@@ -582,35 +654,35 @@ generalização para outras populações.
 
 ## 12. Limitações e cuidados de interpretação
 
-1.  **Definição da variável-alvo:** a origem e o procedimento de
-    construção de `binaryClass` não foram estabelecidos de forma
-    independente. A predominância do TSH entre os preditores e a queda
-    de desempenho sem essa variável justificam cautela. Caso o TSH tenha
-    participado da definição dos rótulos, pode haver circularidade ou
-    vazamento de informação. Os resultados disponíveis não permitem
-    confirmar essa hipótese.
-2.  **Validação interna:** os 743 registros reservados pertencem à mesma
-    base de origem dos dados de treinamento. Portanto, a avaliação é um
-    holdout interno, não uma validação externa em outra população,
-    instituição ou período.
-3.  **Tamanho da classe positiva:** a classe `N` possui 233 registros no
-    treinamento e 58 na validação reservada. O número reduzido de
-    positivos limita a precisão das estimativas e exige cautela na
-    interpretação das métricas.
-4.  **Desbalanceamento:** a classe positiva é minoritária. Por isso, as
-    métricas devem ser interpretadas em conjunto, sem utilizar acurácia
-    isoladamente como critério de qualidade.
-5.  **Interpretação clínica:** os modelos foram avaliados quanto à
-    reprodução dos rótulos presentes na base `Hypothyroid`. O desempenho
-    obtido não comprova capacidade de diagnóstico clínico, não substitui
-    avaliação profissional e não demonstra validade em contextos reais
-    de atendimento.
-6.  **Importância dos atributos:** a importância por permutação descreve
-    contribuição preditiva no contexto dos modelos ajustados. Não
-    representa causalidade ou efeito clínico.
-7.  **Divisão dos dados:** os resultados finais correspondem a uma única
-    divisão estratificada entre treinamento e validação. A generalização
-    para outros contextos exigiria avaliação em dados independentes.
+1. **Definição da variável-alvo:** a origem e o procedimento de
+   construção de `binaryClass` não foram estabelecidos de forma
+   independente. A predominância do TSH entre os preditores e a queda
+   de desempenho sem essa variável justificam cautela. Caso o TSH tenha
+   participado da definição dos rótulos, pode haver circularidade ou
+   vazamento de informação. Os resultados disponíveis não permitem
+   confirmar essa hipótese.
+2. **Validação interna:** os 743 registros reservados pertencem à mesma
+   base de origem dos dados de treinamento. Portanto, a avaliação é um
+   holdout interno, não uma validação externa em outra população,
+   instituição ou período.
+3. **Tamanho da classe positiva:** a classe `N` possui 233 registros no
+   treinamento e 58 na validação reservada. O número reduzido de
+   positivos limita a precisão das estimativas e exige cautela na
+   interpretação das métricas.
+4. **Desbalanceamento:** a classe positiva é minoritária. Por isso, as
+   métricas devem ser interpretadas em conjunto, sem utilizar acurácia
+   isoladamente como critério de qualidade.
+5. **Interpretação clínica:** os modelos foram avaliados quanto à
+   reprodução dos rótulos presentes na base `Hypothyroid`. O desempenho
+   obtido não comprova capacidade de diagnóstico clínico, não substitui
+   avaliação profissional e não demonstra validade em contextos reais
+   de atendimento.
+6. **Importância dos atributos:** a importância por permutação descreve
+   contribuição preditiva no contexto dos modelos ajustados. Não
+   representa causalidade ou efeito clínico.
+7. **Divisão dos dados:** os resultados finais correspondem a uma única
+   divisão estratificada entre treinamento e validação. A generalização
+   para outros contextos exigiria avaliação em dados independentes.
 
 ## 13. Conclusão
 
@@ -645,14 +717,14 @@ clinicamente validadas para diagnóstico de hipotireoidismo.
 
 ## Referências e materiais do projeto
 
--   EBAC. **Proposta do projeto --- Diagnóstico de Hipotireoidismo**.
-    Documento de planejamento fornecido para o desenvolvimento do
-    trabalho.
--   **Notebook 01 --- Análise Exploratória de Dados (EDA)**. Preparação,
-    auditoria, análise exploratória e divisão dos conjuntos.
--   **Notebook 02 --- Modelagem preditiva (ML)**. Pré-processamento,
-    validação cruzada, interpretação dos modelos e avaliação final.
--   Base de dados: `Hypothyroid.csv`.
+- EBAC. **Proposta do projeto --- Diagnóstico de Hipotireoidismo**.
+  Documento de planejamento fornecido para o desenvolvimento do
+  trabalho.
+- **Notebook 01 --- Análise Exploratória de Dados (EDA)**. Preparação,
+  auditoria, análise exploratória e divisão dos conjuntos.
+- **Notebook 02 --- Modelagem preditiva (ML)**. Pré-processamento,
+  validação cruzada, interpretação dos modelos e avaliação final.
+- Base de dados: `Hypothyroid.csv`.
 
 ------------------------------------------------------------------------
 
@@ -685,7 +757,6 @@ Diagnostico_hipotireoidismo/
 As referências às imagens neste relatório são relativas ao arquivo
 `relatorio_geral.md`. Por isso, a pasta `figuras` deve permanecer no
 mesmo diretório `docs`.
-
 
 ## 14. Aplicação demonstrativa e disponibilização do modelo
 

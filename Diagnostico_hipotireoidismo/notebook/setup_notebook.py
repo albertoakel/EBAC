@@ -1,27 +1,54 @@
 from pathlib import Path
 import sys
+import warnings
 
 
-def setup_path():
-    """
-    Localiza a raiz do projeto a partir da localização deste arquivo
-    (notebook/setup_notebook.py) e adiciona a raiz ao sys.path.
+NOTEBOOK_DIR = Path.cwd().resolve()
 
-    Retorna
-    -------
-    pathlib.Path
-        Caminho absoluto da raiz do projeto.
-    """
-    notebook_dir = Path(__file__).resolve().parent
-    project_root = notebook_dir.parent
 
-    if not (project_root / "src" / "utils.py").is_file():
-        raise FileNotFoundError(
-            "Não foi possível localizar src/utils.py a partir de "
-            f"{notebook_dir}."
-        )
+if NOTEBOOK_DIR.name.lower() == "notebook":
+    PROJECT_ROOT = NOTEBOOK_DIR.parent
+else:
+    PROJECT_ROOT = NOTEBOOK_DIR
 
-    if str(project_root) not in sys.path:
-        sys.path.insert(0, str(project_root))
+SRC_DIR = PROJECT_ROOT / "src"
 
-    return project_root
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+## importações
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+# sklearnmodels
+from sklearn.model_selection import StratifiedKFold, cross_validate
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder, FunctionTransformer
+from sklearn.dummy import DummyClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import (
+    make_scorer, precision_score, recall_score, f1_score,
+    average_precision_score, roc_auc_score,
+    classification_report, ConfusionMatrixDisplay)
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import ConfusionMatrixDisplay
+
+from xgboost import XGBClassifier
+from scipy.stats import chi2_contingency, fisher_exact
+from scipy.stats.contingency import association
+import warnings
+warnings.filterwarnings("ignore")
+
+from utils import (
+    color_palette21,color_palette41,
+    inital_describe,
+    bar_bar_cat,
+    mult_plt2,cor_N)
+
+from ml_utils import importancia_permutacao_cv

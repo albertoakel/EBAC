@@ -1096,3 +1096,17 @@ def print_estatisticas(*stats_list):
 
 
 
+def cor_N(color_palette, N, shift=1):
+    """
+    Define N cores igualmente distribuídas a partir da escala de cor definida.
+    """
+    n = len(color_palette)
+    if shift >= n / 2 or shift < 0:
+        print("erro")
+        return None
+
+    posicoes = np.linspace(0 + shift, len(color_palette) - 1 - shift, N, dtype=int)
+    corN = []
+    for i in posicoes:
+        corN.append(color_palette[i])
+    return corN
