@@ -1,9 +1,10 @@
 # Análise exploratória e modelagem preditiva para classificação de hipotireoidismo
 
-**Projeto EBAC --- Formação em Ciência de Dados**\
-**Base de dados:** `Hypothyroid.csv`\
-**Variável-alvo:** `binaryClass`\
-**Tipo de problema:** classificação binária
+**Projeto EBAC : Profissão Cientista de Dados v2**
+**Base de dados:** `Hypothyroid.csv`
+**Variável-alvo:** `binaryClass`
+**Tipo de problema:** classificação 
+**Autor:** Alberto Fares Akel Junior 
 
 ------------------------------------------------------------------------
 
@@ -342,8 +343,6 @@ As estratégias adotadas foram:
 - **Variáveis binárias:** imputação pela categoria mais frequente e conversão das respostas textuais em valores 0 e 1.
 
 - **Variáveis categóricas:** imputação pela categoria mais frequente e transformação por One-Hot Encoding.
-
-
 
 #### A. Variáveis numéricas
 
