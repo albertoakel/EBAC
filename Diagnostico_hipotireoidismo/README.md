@@ -291,6 +291,7 @@ avaliação por profissionais habilitados.
 
 ## Aplicação demonstrativa (Streamlit)
 
+
 Além dos notebooks analíticos, o projeto inclui uma aplicação Streamlit
 para demonstrar a inferência com o pipeline final de Random Forest.
 
@@ -326,6 +327,10 @@ para a classe `N`. Não corresponde a uma probabilidade clínica
 individual validada, não deve ser interpretado como risco pessoal e
 não constitui diagnóstico.
 
+### 🚀 Acesse o Aplicativo
+
+A versão atual do protótipo está disponível online em:\
+👉 **[diagnostico hipotireoidismo web ↗](https://diagnosticohipotireoidismo.streamlit.app//)**
 ### Estrutura atual da aplicação
 
 ```text
