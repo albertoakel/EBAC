@@ -112,6 +112,7 @@ Os modelos finalistas foram ajustados com todo o conjunto de treinamento e avali
 
 Cada modelo finalista apresentou apenas um erro de classificação na validação reservada: o XGBoost registrou um falso negativo, enquanto o Random Forest registrou um falso positivo.
 <div style="background-color: #DBEAFE; padding: 12px; border-radius: 6px;">
+
 ### Achados da interpretação
 
 - TSH apresentou a maior importância por permutação nos modelos avaliados.
@@ -119,6 +120,7 @@ Cada modelo finalista apresentou apenas um erro de classificação na validaçã
 - Sem TSH, TT4, FTI e T3 passaram a concentrar maior importância relativa.
 - `on thyroxine` e `query hypothyroid` apresentaram associação estatística com a classe, mas com baixa intensidade segundo o V de Cramer.
 </div>
+
 ### Limitações e cuidados de interpretação
 
 - A origem e o procedimento de construção de `binaryClass` não foram estabelecidos de forma independente. Caso TSH tenha participado da definição dos rótulos, pode existir circularidade ou vazamento de informação; os resultados disponíveis não permitem confirmar essa hipótese.
